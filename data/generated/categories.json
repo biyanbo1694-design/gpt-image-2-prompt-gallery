@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "portraits",
+    "name": "Portraits",
+    "description": "Polished portrait prompts, photoshoots, identity-consistent characters and personal images.",
+    "count": 46,
+    "coverImage": "/upstream/images/portrait_case70/output.jpg"
+  },
+  {
+    "slug": "posters",
+    "name": "Posters",
+    "description": "Editorial, travel, event, brand and cinematic poster prompt ideas.",
+    "count": 128,
+    "coverImage": "/upstream/images/poster_case133/output.jpg"
+  },
+  {
+    "slug": "characters",
+    "name": "Characters",
+    "description": "Character sheets, consistent roles, anime/game characters and stylized IP concepts.",
+    "count": 13,
+    "coverImage": "/upstream/images/character_case10/output.jpg"
+  },
+  {
+    "slug": "ui-mockups",
+    "name": "UI Mockups",
+    "description": "App screens, dashboards, status pages and product interface mockups.",
+    "count": 73,
+    "coverImage": "/upstream/images/ui_case96/output.jpg"
+  },
+  {
+    "slug": "comparisons",
+    "name": "Comparisons",
+    "description": "Before/after examples, multi-version comparisons and prompt experiments.",
+    "count": 35,
+    "coverImage": "/upstream/images/comparison_case72/output.jpg"
+  },
+  {
+    "slug": "community",
+    "name": "Community",
+    "description": "Community discoveries and prompt experiments that do not fit a single narrow format.",
+    "count": 47,
+    "coverImage": "https://pbs.twimg.com/media/HGV__0DakAAdaZR.jpg"
+  }
+]

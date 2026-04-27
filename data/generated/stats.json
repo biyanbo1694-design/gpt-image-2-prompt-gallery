@@ -1,0 +1,13 @@
+{
+  "totalPrompts": 342,
+  "totalCategories": 6,
+  "totalImages": 402,
+  "totalUpstreamImages": 369,
+  "localImageCount": 369,
+  "upstreamFiles": 409,
+  "upstreamBytes": 86950926,
+  "latestCreatedAt": "2026-04-22T14:57:00.000Z",
+  "syncedAt": "2026-04-27T12:19:37.096Z",
+  "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+  "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+}
