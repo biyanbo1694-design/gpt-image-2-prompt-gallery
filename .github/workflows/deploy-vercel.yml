@@ -38,8 +38,17 @@ jobs:
           printf '{"version":3}\n' > .vercel/output/config.json
 
       - name: Deploy production
+        id: deploy
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-        run: npx vercel@latest deploy --prebuilt --prod --yes --token="${VERCEL_TOKEN}"
+        run: |
+          npx vercel@latest deploy --prebuilt --prod --yes --token="${VERCEL_TOKEN}" | tee /tmp/vercel-deploy.log
+          DEPLOYMENT_URL="$(grep -Eo 'https://[^ ]+\.vercel\.app' /tmp/vercel-deploy.log | tail -n 1)"
+          echo "deployment_url=${DEPLOYMENT_URL}" >> "$GITHUB_OUTPUT"
+
+      - name: Alias production domain
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: npx vercel@latest alias set "${{ steps.deploy.outputs.deployment_url }}" xiaoqi-ai.vercel.app --token="${VERCEL_TOKEN}"
