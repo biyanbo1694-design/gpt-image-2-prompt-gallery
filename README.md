@@ -12,6 +12,15 @@ npm run dev
 npm run build
 ```
 
+For a new computer:
+
+```bash
+git clone https://github.com/biyanbo1694-design/gpt-image-2-prompt-gallery.git
+cd gpt-image-2-prompt-gallery
+npm install
+npm run dev
+```
+
 ## Data Flow
 
 ```text
@@ -44,3 +53,30 @@ The app is configured for static export through `next build`, so it can be deplo
 Production URL:
 
 https://xiaoqi-ai.vercel.app
+
+The GitHub Actions deployment uses Vercel's prebuilt output API and uploads the static export as a tgz archive:
+
+```bash
+npx vercel@52.0.0 deploy --prebuilt --prod --yes --archive=tgz
+```
+
+The archive upload is intentional. Without it, large static exports can hit Vercel's free upload file-count limit.
+
+## Operations
+
+After making changes:
+
+```bash
+git pull origin main
+git add .
+git commit -m "your change"
+git push origin main
+```
+
+Pushing to `main` triggers GitHub Actions and deploys to Vercel. If the production site does not update, check the latest `Deploy to Vercel` workflow run first.
+
+Business or feedback contact:
+
+```text
+Douyin ID: 97107763943
+```

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, MessageCircle } from "lucide-react";
 
 import { getStats } from "@/lib/data";
 
@@ -45,6 +45,24 @@ export default function AboutPage() {
           View Source Repository
           <ExternalLink size={16} />
         </Link>
+      </div>
+
+      <div className="mt-6 rounded-lg border border-line bg-white p-6 shadow-soft sm:p-8">
+        <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <div className="inline-flex items-center gap-2 rounded-full bg-neutral-100 px-3 py-1 text-sm font-medium text-neutral-600">
+              <MessageCircle size={16} />
+              Contact
+            </div>
+            <h2 className="mt-4 text-2xl font-semibold text-ink">Business and feedback</h2>
+            <p className="mt-3 text-base leading-8 text-neutral-600">
+              业务合作或问题反馈，请私信抖音 ID。
+            </p>
+          </div>
+          <p className="w-fit rounded-full border border-line bg-neutral-50 px-4 py-2 text-sm font-semibold text-ink">
+            97107763943
+          </p>
+        </div>
       </div>
     </div>
   );
