@@ -16,7 +16,10 @@ export function Footer() {
           </Link>{" "}
           and original public creator posts. All rights belong to their respective creators.
         </p>
-        <p className="shrink-0">A static-first inspiration gallery.</p>
+        <div className="shrink-0 space-y-1 md:text-right">
+          <p>A static-first inspiration gallery.</p>
+          <p>业务合作或问题反馈，请私信抖音 ID：97107763943</p>
+        </div>
       </div>
     </footer>
   );
