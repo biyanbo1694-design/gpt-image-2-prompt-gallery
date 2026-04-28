@@ -68,7 +68,7 @@ jobs:
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         run: |
-          npx vercel@52.0.0 deploy --prebuilt --prod --yes --token="${VERCEL_TOKEN}" | tee /tmp/vercel-deploy.log
+          npx vercel@52.0.0 deploy --prebuilt --prod --yes --archive=tgz --token="${VERCEL_TOKEN}" | tee /tmp/vercel-deploy.log
           DEPLOYMENT_URL="$(grep -Eo 'https://[^ ]+\.vercel\.app' /tmp/vercel-deploy.log | tail -n 1)"
           if [ -z "${DEPLOYMENT_URL}" ]; then
             echo "Unable to find deployment URL in Vercel output."
