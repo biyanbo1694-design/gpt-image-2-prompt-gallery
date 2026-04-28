@@ -43,4 +43,4 @@ The app is configured for static export through `next build`, so it can be deplo
 
 Production URL:
 
-https://xiaoqi.vercel.app
+https://xiaoqi-ai.vercel.app
