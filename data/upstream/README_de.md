@@ -65,6 +65,8 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
 
 - [Einfuehrung](#einfuehrung)
 - [Neuigkeiten](#neuigkeiten)
+- [🛒 E-Commerce-Faelle](#e-commerce-faelle)
+- [📣 Werbung-Kreativ-Faelle](#werbung-kreativ-faelle)
 - [Portraet- und Fotografie-Faelle](#portraet-und-fotografie-faelle)
   - [Case 1: Neon-Porträt im Kiosk (by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
   - [Case 2: Kinematografisches Minimalporträt (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
@@ -237,6 +239,880 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
   - [Case 73: Tomaten-E-Commerce-Produktbilderset (by @Adam38363368936)](#case-73-tomato-e-commerce-product-image-set)
 - [Danksagungen](#danksagungen)
 - [Star History](#star-history)
+
+## E-Commerce-Faelle
+
+<!-- Case 113: E-commerce Main Image - Luxury Amber Perfume Ad (by @Polanco_IA) -->
+### Case 113: [E-commerce Main Image - Luxury Amber Perfume Ad](https://x.com/Polanco_IA/status/2047689647967609037) (by [@Polanco_IA](https://x.com/Polanco_IA))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case113/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name="brand label" default="N°5 CHANEL PARIS PARFUM"}, placed upright on a glossy black marble surface with white veining. The bottle is centered slightly to the right, made of clear faceted glass with a large transparent crystal stopper, filled with rich amber-gold perfume that glows from within. Tiny condensation droplets cover the glass, adding texture and realism. Dramatic warm lighting from the upper left creates golden highlights, deep reflections on the marble, and a soft luminous bloom in the background. Wisps of elegant smoke curl around the bottle on both sides, enhancing a moody high-end advertisement feel. Dark background, shallow depth of field, ultra-detailed studio product photography, luxury beauty campaign aesthetic, crisp focus on the bottle, realistic reflections, warm black-and-gold color palette. Add a small white {argument name="corner logo" default="Pollo.ai"} in the top-right corner. Square composition, premium commercial ad, photorealistic, high contrast, refined and sophisticated.
+```
+
+<!-- Case 114: E-commerce Main Image - Skincare Product Studio Shot (by @Strength04_X) -->
+### Case 114: [E-commerce Main Image - Skincare Product Studio Shot](https://x.com/Strength04_X/status/2047636636847231222) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case114/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A soft {argument name="bottle color" default="cream-colored"} bottle with a {argument name="pump color" default="pastel yellow"} pump stands on a matte podium, surrounded by silky foam and {argument name="flowers" default="chamomile blossoms"}. The background is a pale yellow gradient with subtle bubble details. The label emphasizes organic chamomile and calming care. Fresh chamomile flowers accentuate the gentle appeal.
+```
+
+<!-- Case 115: E-commerce Main Image - Tropical Citrus Soda Ad Poster (by @edimakorfr) -->
+### Case 115: [E-commerce Main Image - Tropical Citrus Soda Ad Poster](https://x.com/edimakorfr/status/2047635133466124726) (by [@edimakorfr](https://x.com/edimakorfr))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case115/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a vibrant tropical commercial poster for a citrus soda bottle, in a bright summer advertising style. Show a single large plastic bottle of {argument name="product name" default="Soda"} centered slightly to the right, tilted a little left, with a yellow cap and transparent bottle covered in cold condensation droplets, filled with glowing golden-orange soda. The label should feature sliced oranges and citrus artwork with the brand text "{argument name="product name" default="Soda"}", the phrase "aux agrumes d'été", and a small green "500 ml" mark. Use a sunny beach background with vivid blue sky, turquoise ocean, soft clouds, and blurred tropical palm leaves entering from the upper right corner. Add dramatic water splashes around the base of the bottle, scattered clear ice cubes, and 5 visible citrus pieces in the foreground: 2 orange wedges, 1 lime half, 1 grapefruit half, and 1 partial orange slice at the far right edge. Place large French promotional text on the left: a huge white headline "{argument name="headline text" default="Soda"}" with a small splash accent above it, then yellow script text "aux agrumes d'été" underneath. Add a yellow paint-stroke badge at mid-left with the text "LA FRAÎCHEUR QUI PÉTILLE !". Add a vertical feature list on the lower left with 3 round icons and French captions: "SAVEURS NATURELLES", "SANS COLORANTS ARTIFICIELS", and "EXTRA RAFRAÎCHISSANT". Add a green brushstroke banner at the bottom left reading "FORMAT PRATIQUE 500 ml". Add a round beige eco-style seal at the bottom right with green outline and leaf motif, containing the text "{argument name="seal text" default="PLAISIR FRUITÉ À CHAQUE GORGÉE"}". Lighting should be glossy and high-energy with strong sun flare from the upper left, saturated citrus colors, crisp packaging detail, realistic droplets, and polished supermarket-ad realism.
+```
+
+<!-- Case 116: E-commerce Main Image - Industrial Design Presentation Sheet (by @ShamsAmin56) -->
+### Case 116: [E-commerce Main Image - Industrial Design Presentation Sheet](https://x.com/ShamsAmin56/status/2047627860752621647) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case116/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Core Subject: [{argument name="reference" default="use the uploaded image"}, keep the details, typography and structure locked 100%]
+
+Layout & Composition: A {argument name="presentation type" default="professional industrial design presentation sheet"}. The image should be organized into a clean grid system.
+
+Top Row: A 3x3 layout showing top-down flat lay views and close-up macro details of materials.
+
+Middle Section: Three hero shots of the product standing upright in different color ways (Matte Black, Arctic White, and accented variants). The products should be slightly tilted to show depth and form.
+
+Bottom Section: A dynamic "floating" composition featuring two products overlapping at opposing angles to showcase the front and side profiles simultaneously.
+
+Environment & Lighting: Set against a minimalist, neutral studio gray background. Soft top-down lighting with realistic contact shadows. High-end product photography aesthetic.
+
+Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for "Placeholder Branding" and "Graphic Mockups." 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.
+```
+
+<!-- Case 117: E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo (by @dynamicwangs) -->
+### Case 117: [E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo](https://x.com/dynamicwangs/status/2047580984342925545) (by [@dynamicwangs](https://x.com/dynamicwangs))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case117/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the textured cream shag rug, while the second matching loafer lies on the rug in the lower left foreground. The shoes have smooth black leather uppers, a rounded almond toe, open mule-style heel, plush brown fur spilling out around the opening, and a small polished gold horsebit hardware detail across the vamp. The model wears cropped medium-blue denim jeans with a raw frayed hem. The setting is a cozy minimalist interior with a cream rug featuring 2 thin irregular black lines, a neutral wall, and a leaning rectangular mirror with a medium wood frame in the upper right background, softly reflecting the rug and part of the scene. Use soft natural window light, shallow depth of field, subtle film grain, realistic skin texture, muted beige and black palette, relaxed candid composition, premium fashion catalog mood, high detail, photorealistic.
+```
+
+<!-- Case 118: E-commerce Main Image - Luxury Perfume Ad on Marble Vanity (by @MiguelMaestroIA) -->
+### Case 118: [E-commerce Main Image - Luxury Perfume Ad on Marble Vanity](https://x.com/MiguelMaestroIA/status/2047555836252151831) (by [@MiguelMaestroIA](https://x.com/MiguelMaestroIA))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case118/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A luxury e-commerce advertising photo of a premium perfume bottle on a polished gray-and-white marble vanity, shot in a warm cinematic studio style with soft golden lighting, shallow depth of field, and elegant reflections. The composition is square and high-end, with the perfume bottle centered slightly right of frame and promotional text on the left. The bottle is a tall sculpted hourglass-shaped glass flacon with smoky transparent gray glass fading darker at the base, a glossy gold spherical cap, a gold collar engraved with fine branding, and a large metallic gold interlocking monogram on the front. Keep the branding-inspired feel but do not add extra products. In the foreground left, include 1 cut-crystal bowl with a gold rim, partially cropped. In the background right, include 1 brushed gold cylindrical vase holding 1 bouquet of soft white flowers, blurred. Behind the bottle, add 1 black marble rectangular box with subtle white veining and gold trim. In the lower right foreground, include 1 draped piece of champagne-colored satin fabric, softly out of focus. The background should be dark, luxurious, and softly blurred, with rich brown-black tones and a vertical shadowed panel on the left to support typography. Add elegant serif headline text on the upper left reading {argument name="headline text" default="Premium Perfume,"} in large warm beige letters, with a smaller serif subheading beneath reading {argument name="tagline" default="Subtlety and Elegance"}, plus a thin short gold horizontal line below the subheading. Place a small white logo in the top-right corner reading {argument name="brand logo" default="Pollo.ai"}. Emphasize premium materials, realistic glass refraction, gold metallic highlights, luxury product photography, refined composition, soft bokeh, and upscale beauty-ad aesthetics.
+```
+
+<!-- Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X) -->
+### Case 151: [E-commerce Main Image - Miniature Diorama Skincare Advertisement](https://x.com/Strength04_X/status/2048074514278563949) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case151/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A hyper-realistic miniature diorama product advertisement featuring an oversized luxury skincare pump bottle labeled "LUXEVEIL Skin Science – Radiance Nourishing Body Lotion" in cream/beige with a polished gold pump top, placed on a circular platform. Tiny figurine construction workers dressed in yellow coveralls and white hard hats swarm around the bottle climbing scaffolding, painting the bottle with rollers, operating a tower crane, working near industrial tanks and pipework, and unloading a miniature flatbed truck. The scene includes metal scaffolding structures, industrial silos, orange traffic cones, wooden barricades, and storage barrels. The overall color palette is warm beige, cream, gold, and mustard yellow. Studio photography style with soft diffused lighting, no shadows, clean beige background. The concept metaphorically shows workers "crafting" or "building" the perfect lotion. Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.
+```
+
+<!-- Case 152: E-commerce Main Image - Traditional Chinese Art and Porcelain Vases (by @songguoxiansen) -->
+### Case 152: [E-commerce Main Image - Traditional Chinese Art and Porcelain Vases](https://x.com/songguoxiansen/status/2048046906585280977) (by [@songguoxiansen](https://x.com/songguoxiansen))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case152/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A scarf inspired by 'A Thousand Li of Rivers and Mountains', surrounded by Wang Ximeng's blue-green landscape, with a silky texture and soft lighting.
+
+A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with peony and butterfly patterns in the style of imperial kilns.
+```
+
+<!-- Case 153: E-commerce Main Image - Premium Gaming Motherboard Studio Shot (by @rojassartorio) -->
+### Case 153: [E-commerce Main Image - Premium Gaming Motherboard Studio Shot](https://x.com/rojassartorio/status/2048019666816163867) (by [@rojassartorio](https://x.com/rojassartorio))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case153/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A high-end enthusiast ATX gaming motherboard product photo on a dark studio background, shown in a three-quarter top-down perspective angled from the lower left toward the upper right. The board is mostly matte black and gunmetal with sharp geometric armor plates, brushed metal textures, and subtle RGB edge lighting in blue, purple, and magenta. Feature an exposed modern Intel-style CPU socket near the upper center, 4 black DIMM memory slots on the right, large VRM heatsinks across the top and upper left, and multiple reinforced PCIe slots in the lower half. Include 3 major branded heatsink zones: a tall rear I/O shroud at upper left with an illuminated RGB eye logo and the text "MAXIMUS HERO", a left-side chipset/slot armor piece with the text "SUPREMEFX", and a large angular lower-right chipset cover with a silver ROG-style emblem plus a lower strip that reads "FOR THOSE WHO DARE". Show detailed capacitors, headers, power connectors, debug display reading "88" at the top right, and a small round start button nearby. Ultra-detailed commercial product photography, crisp focus across the board, realistic reflections on metal, premium luxury tech aesthetic, dramatic low-key lighting, clean black seamless backdrop, no cables, no CPU, no RAM, no other objects.
+```
+
+<!-- Case 154: E-commerce Main Image - Premium Grain Powder Ad Board (by @WooGabriel76263) -->
+### Case 154: [E-commerce Main Image - Premium Grain Powder Ad Board](https://x.com/WooGabriel76263/status/2047988112094101770) (by [@WooGabriel76263](https://x.com/WooGabriel76263))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case154/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{"type":"Chinese e-commerce product marketing board","product":{"category":"instant grain powder drink","brand":"五谷磨房","name":"核桃芝麻黑豆粉","packaging":"matte black retail box with gold Chinese typography and a large swirling bowl graphic on the front, plus individual black sachets inside","net weight":"320g (32g×10袋)"},"style":{"overall":"premium dark food advertising layout","color palette":["black","deep brown","warm gold","beige","walnut brown"],"lighting":"dramatic studio lighting with glossy highlights and warm rim light","mood":"luxurious, nourishing, healthy, appetizing"},"layout":{"format":"single tall composite board divided into 5 major sections plus a bottom storyboard table","sections":[{"title":"主图/Main image","position":"top-left","count":8,"labels":["五谷磨房","核桃芝麻黑豆粉","32g×10袋 独立包装","五黑谷物","香浓醇厚","独立小袋","即冲即饮","product box and drink cup"]},{"title":"详情页/Details page","position":"top-right","count":5,"labels":["黑芝麻","黑豆","黑米","核桃","谷物粉"]},{"title":"香浓细腻 顺滑好喝","position":"mid-right","count":4,"labels":["一冲即饮 营养美味","粉质细腻 Fine powder","浓香醇厚 Rich & Smooth","营养代餐 Nutritious"]},{"title":"冲泡方式 HOW TO MAKE","position":"mid-left lower","count":3,"labels":["1 倒入一袋粉(32g)","2 加入200ml 热水或牛奶","3 搅拌均匀 即可享用"]},{"title":"一杯好谷物 轻松好生活","position":"lower-left","count":4,"labels":["元气早餐","办公室下午茶","健身代餐","睡前暖饮"]},{"title":"独立小袋 随身携带","position":"lower-right","count":3,"labels":["独立小袋 便携卫生","锁住新鲜 防潮防氧化","1袋1杯 精准份量"]},{"title":"视频推广广告 seedance 2.0 视频提示词 + 分镜头脚本","position":"bottom full width","count":7,"labels":["镜头1 开场-产品展示","镜头2 食材特写","镜头3 倒粉入杯","镜头4 冲泡搅拌","镜头5 饮用场景","镜头6 产品卖点","镜头7 结尾口号"]}],"grid":"top area split into left main image and right detail page; middle area split into preparation guide and feature panel; lower area split into lifestyle scenarios and sachet carry section; bottom is a full-width tabular storyboard"},"scene_elements":{"ingredients":[{"name":"black sesame","form":"small black seeds in a round bowl"},{"name":"black beans","form":"glossy whole beans in a round bowl"},{"name":"black rice","form":"dark long grains in a round bowl"},{"name":"walnuts","form":"walnut halves in a round bowl"},{"name":"grain powder","form":"light beige powder in a round bowl"}],"serving":{"drink":"thick gray-brown sesame walnut bean beverage with smooth surface swirl","cup":"transparent glass cup with handle","utensil":"metal spoon stirring or resting inside drink"},"supporting props":["walnuts on table","scattered black beans","grain stalks or wheat stems","dark tabletop","ingredient bowls","open package showing 5 visible sachets"]},"text_treatment":{"headline_font":"bold elegant Chinese display type in metallic gold","body_font":"clean sans serif Chinese with occasional English subtitles","accent":"thin gold divider lines and circular ingredient frames"},"camera_and_composition":{"product_shots":"front-facing hero box, angled sachet display box, close-up beverage macro","food_photography":"high-detail commercial food styling, shallow depth of field, crisp texture emphasis","aspect_ratio":"portrait, approximately 9:16"},"quality":"ultra-detailed commercial design mockup, polished e-commerce key visual plus details page plus ad storyboard, 4K"}
+```
+
+<!-- Case 155: E-commerce Main Image - Earbuds E-commerce Infographic (by @SPEEDAI07) -->
+### Case 155: [E-commerce Main Image - Earbuds E-commerce Infographic](https://x.com/SPEEDAI07/status/2047981795552153860) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case155/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+High-impact e-commerce infographic for "{argument name="product" default="Apple Pods Pro 3"}" wireless earbuds.
+Foreground: An extreme close-up of a hand holding an open glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accents. A small glowing green LED indicator is visible on the front of the case. The hand and case have slight macro-lens depth blur for realism.
+
+Mid-ground: A {argument name="model" default="confident young woman"} with tan skin, brown eyes, and dark hair tied in a messy bun. She has natural makeup with a dewy glow. She is wearing a plain {argument name="clothing" default="yellow athletic t-shirt"} (no logos). One white earbud is in her ear. She is looking directly at the camera with a subtle, confident expression.
+
+Background: Clean soft gray gradient studio backdrop with shallow depth of field. Diagonal rainbow prism lens flares and soft light leaks across the scene. Several blurred floating white earbuds in the background for depth and motion.
+
+Lighting: Soft professional studio lighting with glossy highlights on the product, subtle rim light on the model, high dynamic range.
+
+Typography (modern sans-serif, white):
+
+Top center (behind model): Large bold text “AIRPODS”
+
+Top right: “Apple Pods Pro 3”
+
+Mid-left: “Premium sound and noise cancellation”
+
+Mid-right: Large bold “30” with “hours of battery life”
+
+Bottom-right: Large bold “1” with “year warranty”
+
+Style: Ultra-realistic, commercial product photography, 8k resolution, sharp focus on product case, shallow depth of field, vibrant yet clean color palette, premium advertising aesthetic.
+```
+
+<!-- Case 156: E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad (by @Diplomeme) -->
+### Case 156: [E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad](https://x.com/Diplomeme/status/2047957339974828092) (by [@Diplomeme](https://x.com/Diplomeme))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case156/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A premium eco-conscious fashion advertisement, shot as a refined editorial product photo. A single off-white or natural cream crew-neck T-shirt hangs on a smooth wooden hanger with a black metal hook, placed against a lush wall of dense green leaves and climbing vines. The hanger has a small minimalist brand monogram engraved near the neck. The shirt is shown from the upper torso down to part of the hem, slightly angled, with soft natural folds and high-quality cotton texture. Printed inside the collar is a minimalist brand mark and the text "JUGGERKNOT ORIGINALS". Hanging from the neckline is 1 rectangular recycled-paper seed tag tied with rustic brown twine; the tag reads "Tulsi" and "Plantable Seed Tag" with a tiny sprouting seed detail near the bottom. From the tag, 1 real tulsi plant stem grows upward across the front of the shirt, with several fresh green leaves, visually demonstrating that the tag is plantable. Add a small fine-label annotation near the tag reading "TULSI PLANTABLE SEED TAG". On the right side, large elegant white serif typography says {argument name="headline text" default="Plant it."}. Beneath it, place 3 stacked lines of narrow uppercase sans-serif copy: "WEAR IT.", "PLANT IT.", and "GROW WITH IT.". At the lower left, add the brand name in spaced uppercase serif text: {argument name="brand name" default="JUGGERKNOT ORIGINALS"}, with a thin horizontal line above it. At the lower right, add 3 lines of small uppercase sans-serif text: "FSC® CERTIFIED PACKAGING.", "ZERO SYNTHETIC FIBRE", and "BACKED BY ZERODHA.". Use soft diffused daylight, shallow depth of field, moody green-and-cream color grading, luxury sustainable-brand aesthetics, clean composition, vertical poster layout, subtle shadows, and a calm organic atmosphere. Keep the design minimal, premium, and photorealistic, with the shirt occupying the left half and the typography balanced on the right.
+```
+
+<!-- Case 157: E-commerce Main Image - Elegant Cosmetic Poster Prompt (by @Adam38363368936) -->
+### Case 157: [E-commerce Main Image - Elegant Cosmetic Poster Prompt](https://x.com/Adam38363368936/status/2047917266361360682) (by [@Adam38363368936](https://x.com/Adam38363368936))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case157/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+An image in a {argument name="reference style" default="similar style"}, a product image for {argument name="product" default="lipstick"}, requiring color coordination and a grand aesthetic in a {argument name="style" default="poster style"}, with language changed to Simplified Chinese.
+```
+
+<!-- Case 158: E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH (by @Strength04_X) -->
+### Case 158: [E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH](https://x.com/Strength04_X/status/2047917220165231011) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case158/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A minimalist product advertisement with a {argument name="product" default="fried chicken bucket"} placed on a clean white podium.
+
+Background: soft gradient ({argument name="background gradient" default="light cream to white"}), clean studio.
+
+Lighting: soft diffused, premium Apple-style.
+
+Typography (center): “{argument name="headline" default="PURE CRUNCH"}”
+
+Small text below: “Nothing extra. Just perfection.”
+
+Style: ultra clean, editorial minimal, high-end branding, 8K.
+```
+
+<!-- Case 159: E-commerce Main Image - Pastel Blue Crocs Fashion Ad (by @SPEEDAI07) -->
+### Case 159: [E-commerce Main Image - Pastel Blue Crocs Fashion Ad](https://x.com/SPEEDAI07/status/2047907058079650035) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case159/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A high-end studio advertising poster for {argument name="brand name" default="crocs"}, in a monochrome pastel blue and white color palette, with a glossy reflective floor and a soft sky-blue backdrop. The background is dominated by the word {argument name="headline text" default="CROCS"} in gigantic bold white condensed sans-serif letters spanning nearly the full height of the image. In the top-right corner, add small white text reading "Designed with ChatGPT". Feature 3 adult women with shoulder-length wavy light brown to dark blonde hair, all wearing loose oversized white long-sleeve tops and flowing white wide-leg pants, styled as minimalist fashion models with relaxed neutral expressions. Their faces are intentionally obscured or blurred. One model reclines against an enormous upright white clog shoe on the left side, one model sits casually on top of a giant white clog on the upper right, and one model lounges on the floor at the lower right, leaning back on one arm while seated partly on a glossy blue sphere. Include 2 oversized white clog shoes as hero props: one standing vertically on the left showing the sole and side profile, and one angled on blue crystalline blocks at center-right showing the upper and toe box. Both clogs are classic foam slip-on style with perforation holes, chunky tread, heel straps, and circular logo rivets. The center-right clog is decorated with exactly 8 visible charms pinned to the upper: a blue-green iridescent round charm, a white daisy with yellow center, a black-and-white round emblem near the strap, a small "CROCS" word charm, a dark flower, a peace-hand sign, an orange smiley face, a white cloud, and an orange flower. Scatter exactly 7 glossy floating or grounded blue spheres of varying sizes around the set: one large sphere behind the left model, one medium sphere floating near center, one medium sphere at bottom left foreground, one medium sphere used as a seat under the lower-right model, one small sphere near the upper left, and 2 additional blue spheres integrated into the composition. Add translucent sculptural gel-like forms at the far left and far right edges, plus angular blue crystal-like rocks beneath the right shoe. At the bottom center, place white promotional copy in a clean sans-serif font: {argument name="tagline line 1" default="Made for comfort, worn for confidence."} on the first line and {argument name="tagline line 2" default="Because life feels better when your feet stop complaining."} on the second line. Beneath that, show 4 minimalist feature icons with labels in white: "ICONIC COMFORT", "LIGHTWEIGHT", "EASY TO CLEAN", and "UNIQUELY YOU". Place the {argument name="logo text" default="crocs"} logo in bold lowercase white at the bottom center with a small trademark symbol. The overall style should feel like a premium surreal fashion campaign, clean editorial lighting, soft shadows, glossy textures, airy composition, and modern lifestyle product advertising.
+```
+
+<!-- Case 160: E-commerce Main Image - 9-Panel Product TVC Storyboard (by @Magncsans) -->
+### Case 160: [E-commerce Main Image - 9-Panel Product TVC Storyboard](https://x.com/Magncsans/status/2047876253898903594) (by [@Magncsans](https://x.com/Magncsans))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case160/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text “产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)” and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
+```
+
+<!-- Case 89: E-commerce Live Stream UI Mockup (by @sjbbxhz) -->
+### Case 89: [E-commerce Live Stream UI Mockup](https://x.com/sjbbxhz/status/2045684734714380687) (by [@sjbbxhz](https://x.com/sjbbxhz))
+
+| Output |
+| :----: |
+| <img src="./images/ui_case89/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic",
+    "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button",
+      "rank_badge": "gold coin icon with '全站第1名'",
+      "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button",
+      "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar '科技爱好者', '送小心心', heart icon x 1314",
+        "avatar '星辰大海', '送火箭', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge '宇宙漫游者 加入了直播间'",
+      "message_count": 7,
+      "messages": [
+        "小火箭: 马斯克!未来可期!🚀",
+        "future: 特斯拉Model 2什么时候出?",
+        "星空梦想家: SpaceX今年能上火星吗?",
+        "AI探索者: Neuralink进展如何?",
+        "帅气的网友: 马总好!",
+        "Mars: 第一次来你的直播,超激动!",
+        "用户123: 讲讲AI吧,会取代人类吗?"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange '热卖 x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}",
+      "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}",
+      "button": "red '抢' button",
+      "floating_animation": "translucent hearts floating up the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'说点什么...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```
+
+## Werbung-Kreativ-Faelle
+
+<!-- Case 90: 4-Panel Japanese Digital Ad Banner Grid (by @makaneko_AI) -->
+### Case 90: [4-Panel Japanese Digital Ad Banner Grid](https://x.com/makaneko_AI/status/2045764016858087720) (by [@makaneko_AI](https://x.com/makaneko_AI))
+
+| Output |
+| :----: |
+| <img src="./images/ui_case90/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "type": "2x2 grid of Japanese digital advertisement banners",
+  "layout": {
+    "structure": "4 equal quadrants",
+    "quadrants": [
+      {
+        "position": "top-left",
+        "theme": "Travel",
+        "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.",
+        "elements": ["red hibiscus flower in bottom left corner"],
+        "text_labels": [
+          "今年こそ、解き放て。",
+          "{argument name=\"travel destination\" default=\"沖縄旅行\"}",
+          "3日間の癒やし旅",
+          "航空券+ホテル",
+          "39,800円〜",
+          "絶景、グルメ、体験 ぜんぶ叶う!"
+        ],
+        "icons": {
+          "count": 3,
+          "descriptions": ["airplane", "hotel building", "car"]
+        }
+      },
+      {
+        "position": "top-right",
+        "theme": "Skincare",
+        "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.",
+        "elements": [
+          "soft pink gradient background",
+          "dynamic water splash effects",
+          "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'"
+        ],
+        "text_labels": [
+          "毛穴・くすみ卒業!",
+          "透明感あふれる",
+          "水光肌へ",
+          "新感覚スキンケア",
+          "初回限定 78%OFF",
+          "{argument name=\"discount price\" default=\"1,980円\"}"
+        ],
+        "badges": {
+          "count": 3,
+          "style": "gold circular",
+          "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"]
+        }
+      },
+      {
+        "position": "bottom-left",
+        "theme": "Gourmet Food",
+        "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.",
+        "elements": [
+          "garlic chips",
+          "rosemary sprig",
+          "dark background with smoke and glowing embers"
+        ],
+        "text_labels": [
+          "とろける旨さ!",
+          "{argument name=\"food item\" default=\"黒毛和牛\"}",
+          "贅沢ステーキ",
+          "期間限定",
+          "特別価格",
+          "通常価格 8,980円",
+          "4,980円"
+        ],
+        "badges": {
+          "count": 1,
+          "style": "red circular",
+          "labels": ["A4 A5等級"]
+        }
+      },
+      {
+        "position": "bottom-right",
+        "theme": "Online Education",
+        "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.",
+        "elements": ["bright indoor lighting", "desk environment"],
+        "text_labels": [
+          "スキマ時間で",
+          "{argument name=\"education goal\" default=\"最短合格!\"}",
+          "オンライン資格講座",
+          "スマホで完結",
+          "効率学習で差がつく!",
+          "今だけ! 受講料 20%OFF"
+        ],
+        "badges": {
+          "count": 1,
+          "style": "blue circular",
+          "labels": ["受講者数 10万人 突破!"]
+        },
+        "icons": {
+          "count": 2,
+          "descriptions": ["smartphone", "open book"]
+        }
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 112: Anime Character Brand Identity & Merch Board (by @chi_vc_) -->
+### Case 112: [Anime Character Brand Identity & Merch Board](https://x.com/chi_vc_/status/2046061073720369228) (by [@chi_vc_](https://x.com/chi_vc_))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case112/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "type": "brand identity and merchandise design board",
+  "theme": {
+    "color_palette": "{argument name=\"theme color\" default=\"pastel pink\"} and white",
+    "motif": "{argument name=\"motif\" default=\"cherry blossoms\"} and pink hearts"
+  },
+  "character": {
+    "description": "anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile"
+  },
+  "branding": {
+    "main_logo": "{argument name=\"character name\" default=\"癒音ちー\"}",
+    "sub_logo": "{argument name=\"character subtext\" default=\"ゆおんちー\"}"
+  },
+  "layout": {
+    "sections": [
+      {
+        "type": "header banner",
+        "position": "top",
+        "elements": ["large main logo", "sub logo", "cherry blossom graphics", "character portrait on the right"]
+      },
+      {
+        "type": "product packaging",
+        "position": "middle left",
+        "elements": ["1 square box with heart-shaped transparent window showing pink heart candies", "character illustration on box", "2 individual candy wrappers", "5 scattered heart candies"]
+      },
+      {
+        "type": "promotional poster",
+        "position": "middle right",
+        "elements": ["character portrait", "heart-shaped candy bowl", "main logo", "text '4.26 NEW OPEN'", "text '{argument name=\"social handle\" default=\"@yuonchii\"}'"]
+      },
+      {
+        "type": "horizontal web banner",
+        "position": "lower middle",
+        "elements": ["main logo", "cherry blossoms", "character portrait on the right"]
+      },
+      {
+        "type": "social media profile mockup",
+        "position": "bottom left",
+        "elements": ["header image with logo", "1 circular profile picture", "handle '{argument name=\"social handle\" default=\"@yuonchii\"}'", "1 follow button", "mock bio text"]
+      },
+      {
+        "type": "merchandise collection",
+        "position": "bottom right",
+        "count": 9,
+        "items": ["1 white t-shirt with logo", "1 white mug with character", "4 round pin badges", "1 acrylic keychain", "2 candy packets"]
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 108: Dark Mode Marketing Case Study UI (by @IndieDevHailey) -->
+### Case 108: [Dark Mode Marketing Case Study UI](https://x.com/IndieDevHailey/status/2044974254769463312) (by [@IndieDevHailey](https://x.com/IndieDevHailey))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case108/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "type": "UI/UX landing page mockup",
+  "theme": "dark mode, sleek modern aesthetic, glassmorphism, {argument name=\"primary accent color\" default=\"neon purple and blue\"} glowing accents",
+  "header": {
+    "logo": "{argument name=\"brand name\" default=\"goViralX\"}",
+    "top_right_tag": "VIRAL CAMPAIGN CASE STUDY"
+  },
+  "layout": {
+    "sections": [
+      {
+        "name": "Hero",
+        "headline": "{argument name=\"hero headline\" default=\"How We Created 10M+ Viral Impact\"}",
+        "subheadline": "3天引爆全网, 助力品牌实现指数级增长",
+        "stats_row": {
+          "count": 4,
+          "labels": ["总播放量", "互动率", "转化咨询", "执行周期"],
+          "values": ["{argument name=\"main statistic\" default=\"10,240,000+\"}", "18.7%", "3,200+", "72小时"]
+        },
+        "visual": "cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay"
+      },
+      {
+        "name": "Strategy",
+        "title": "Our 3-Day Execution Strategy",
+        "layout_type": "vertical timeline",
+        "steps_count": 3,
+        "elements_per_step": ["timeline node", "title", "bullet points", "video thumbnail with play button", "description box"]
+      },
+      {
+        "name": "Performance",
+        "title": "Data-Driven Performance",
+        "left_column": {
+          "stat_cards_count": 4,
+          "values": ["10M+", "43%", "28,000+", "3,200+"]
+        },
+        "right_column": {
+          "charts_count": 2,
+          "chart_1": "line graph showing 7-day growth peaking at Day 3",
+          "chart_2": "horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)"
+        }
+      },
+      {
+        "name": "Keys to Success",
+        "title": "The 3 Keys to Viral Success",
+        "cards_count": 3,
+        "card_elements": ["glowing icon (fire, target, antenna)", "title", "description", "VIEW DETAIL link"]
+      },
+      {
+        "name": "Social Proof",
+        "title": "TRUSTED BY CREATORS & BRANDS",
+        "left_column": {
+          "logos_count": 8,
+          "grid": "2x4",
+          "brands": ["SHEIN", "SHOPLINE", "Blueglass", "instacart", "lemon8", "mi", "CIDER", "bellroy"]
+        },
+        "right_column": {
+          "testimonial_cards_count": 2,
+          "elements": ["quote", "author title (SaaS Founder, Growth Manager)"]
+        }
+      },
+      {
+        "name": "Call to Action",
+        "title": "READY TO GO VIRAL?",
+        "interactive_elements": ["text input field", "glowing button with text '{argument name=\"call to action text\" default=\"获取专属增长方案 ->\"}'"],
+        "visual": "3D render of a rocket ship taking off with purple and blue flames"
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 107: 18-Panel Mascot Brand Identity Document (by @Colin_Leeee) -->
+### Case 107: [18-Panel Mascot Brand Identity Document](https://x.com/Colin_Leeee/status/2044802802149650631) (by [@Colin_Leeee](https://x.com/Colin_Leeee))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case107/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "type": "18-panel brand identity and character design document",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"沐阳 MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3 columns by 6 rows",
+    "sections": [
+      {
+        "title": "01 品牌DNA分析 / BRAND DNA ANALYSIS",
+        "elements": ["logo", "5 color swatches", "6 icons", "target audience charts"]
+      },
+      {
+        "title": "02 概念构思 / CONCEPT MOODBOARD",
+        "elements": ["5 photo references", "4 mood icons", "design equation"]
+      },
+      {
+        "title": "03 形态研究 / FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 evolution steps", "4 silhouettes"]
+      },
+      {
+        "title": "04 概念探索 / CONCEPT EXPLORATION",
+        "elements": ["12 line-art character sketches"]
+      },
+      {
+        "title": "05 精细线稿 / REFINED LINE ART",
+        "elements": ["3 rows of front and side line art with proportion guides"]
+      },
+      {
+        "title": "06 细节精修 / DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with labels", "4 circular close-ups"]
+      },
+      {
+        "title": "07 表情设定 / EXPRESSION SHEET",
+        "elements": ["11 3D rendered head expressions"]
+      },
+      {
+        "title": "08 姿势库 / POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered poses"]
+      },
+      {
+        "title": "09 转身视图 / TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders", "5 matching line-art views"]
+      },
+      {
+        "title": "10 色彩开发 / COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palettes", "color psychology text"]
+      },
+      {
+        "title": "11 材质规格 / MATERIAL SPECIFICATION",
+        "elements": ["5 texture swatches", "property sliders", "4 manufacturing icons"]
+      },
+      {
+        "title": "12 色彩应用 / COLOR APPLICATION",
+        "elements": ["4 color variant renders", "2 light/dark renders", "4 contrast rating circles"]
+      },
+      {
+        "title": "13 构造指南 / CONSTRUCTION GUIDE",
+        "elements": ["2 line-art diagrams for geometry and grid"]
+      },
+      {
+        "title": "14 设计系统规则 / DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 usage examples"]
+      },
+      {
+        "title": "15 资产变体 / ASSET VARIANTS",
+        "elements": ["3 size variants", "3 line-art variants", "3 simplified flat heads"]
+      },
+      {
+        "title": "16 数字应用 / DIGITAL APPLICATIONS",
+        "elements": ["1 app icon", "2 social avatars", "UI elements", "3-step animation cycle"]
+      },
+      {
+        "title": "17 实物应用 / PHYSICAL APPLICATIONS",
+        "elements": ["plush toy mockup", "packaging mockup", "merchandise mockup", "storefront mockup"]
+      },
+      {
+        "title": "18 最终主视觉 / FINAL RENDERING",
+        "elements": ["large high-res 3D render of mascot holding tea", "logo", "file format list"]
+      }
+    ]
+  }
+}
+```
+
+<!-- Case 166: Japanese Chinese Food Delivery Flyer (by @xc5_) -->
+### Case 166: [Japanese Chinese Food Delivery Flyer](https://x.com/xc5_/status/2048310696686014935) (by [@xc5_](https://x.com/xc5_))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case166/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A Japanese neighborhood Chinese restaurant delivery flyer for mailbox posting (3:4 aspect ratio). Designed to look like a double-sided B5 print.
+
+Flyer characteristics (following the grammar of real delivery flyers):
+- Flashy red and yellow color scheme.
+- Large text at the top: "Delivery Available! {argument name="shop name" default="Mona-Hanten"}" (shadowed Gothic font).
+- An illustration of a {argument name="character" default="Chinese girl in a red cheongsam with a brown short bob"} holding ramen and saying "Welcome!" in a speech bubble.
+- A menu photo grid (4x3) featuring various dishes: different types of ramen, fried rice, gyoza, sweet and sour pork, shrimp in chili sauce, mapo tofu, liver and leek stir-fry, tenshinhan, twice-cooked pork, spring rolls, annin tofu, and fried rice sets.
+- Names and prices for each dish.
+- A large yellow banner saying "Free delivery on all menu items over ¥1,000!".
+- "Order by phone! ☎ 072-XX-XXXX" emphasized with a red circle.
+- Business hours "11:00-22:00 (Closed on Tuesdays)".
+- Delivery area map (simple schematic map).
+- Coupon (perforated line for clipping): "One free plate of gyoza with this flyer!".
+
+Texture of cheap paper printing. Includes fold marks. Precision that could be mistaken for a real Japanese delivery flyer.
+```
+
+<!-- Case 167: Pastel Jellyfish Room Goods Poster (by @Ayu_AI_0912) -->
+### Case 167: [Pastel Jellyfish Room Goods Poster](https://x.com/Ayu_AI_0912/status/2048309565817766139) (by [@Ayu_AI_0912](https://x.com/Ayu_AI_0912))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case167/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{"type":"pastel lifestyle poster / character room-goods feature sheet","theme":"soft dreamy lavender jellyfish aesthetic","style":"Japanese cute editorial graphic, airy white background, pastel lilac palette, delicate handwritten notes, sparkles and tiny doodles, soft product photography mixed with magazine layout","subject":{"character":{"name":"{argument name=\"character name\" default=\"くらげちゃん\"}","appearance":"young woman with a short platinum-blonde bob haircut, wearing a fluffy pale-lavender zip hoodie over a white inner top, shown from chest up on the lower right, face intentionally obscured with a plain beige rectangle"}},"layout":{"orientation":"vertical poster","background":"clean white with faint pastel doodles of stars, bubbles, tiny jellyfish, and musical notes","sections":[{"title":"header","position":"top","count":5,"labels":["speech bubble intro","main title","small subtitle GOODS","horizontal lavender ribbon tagline","round badge on the top right"]},{"title":"featured goods grid","position":"upper and middle left","count":6,"labels":["ゆらゆらくらげランプ","くらげと夢見るベッドリネン","くらげシェルミラー","くらげグラデマグ","くらげのときめき収納ボックス","くらげふわもこマット"]},{"title":"side handwritten note","position":"upper right","count":1,"labels":["みんなも くらげちゃんRoomで いっしょに まったりしよー♡♡"]},{"title":"room concept box","position":"lower left","count":1,"labels":["くらげちゃんの お部屋作りのこだわり"]},{"title":"pick up circle","position":"lower center-left","count":1,"labels":["Pick up!"]}],"product_images":{"count":6,"items":[{"name":"ゆらゆらくらげランプ","description":"small translucent jellyfish-shaped lamp on a white base, glowing softly in pale blue-lavender"},{"name":"くらげと夢見るベッドリネン","description":"plush pastel-lavender bed with fluffy comforter and pillows, dreamy cozy bedroom styling"},{"name":"くらげシェルミラー","description":"small tabletop mirror with a puffy shell-like pastel-lilac frame and rounded base"},{"name":"くらげグラデマグ","description":"ceramic mug with lavender-to-pink gradient and a simple jellyfish illustration"},{"name":"くらげのときめき収納ボックス","description":"pastel storage box holding cosmetics and small bottles, decorated with a jellyfish emblem"},{"name":"くらげふわもこマット","description":"small fluffy cloud-like or jellyfish-like mat in pale lavender and white"}]},"text_elements":{"main_title":"{argument name=\"headline text\" default=\"くらげちゃんの お部屋アイテム\"}","badge_text":"くらげちゃんの Room お部屋作りの こだわりポイントも 教えちゃうよ。","tagline":"ふわふわで甘くて、ちょっぴり夢みたいな私のお部屋へようこそ♡","speech_bubble":"くらげちゃんの お気に入りだけ集めた お部屋アイテムを紹介するよ♪","concept_points":{"count":3,"items":["色は白とラベンダーで統一!","光が集まるふわっとした空間に","お友達入りのアイテムに囲まれて 自分らしくいられる空間を大切にしてるよ♪"]},"product_blurbs":"each product has a short handwritten Japanese description in a cute casual font beside or below the image"},"composition":"the poster is left-heavy with product cards and text, while the character portrait occupies the lower right third, slightly overlapping the layout","color_palette":{"count":5,"colors":["white","pastel lavender","soft lilac","pale gray-violet","touches of pastel blue-pink gradient"]},"rendering_notes":"keep everything very soft, feminine, and cozy; rounded corners on all product photos; mix of bold Japanese headline typography and light handwritten annotations; subtle shadows; clean high-key lighting; social-media-ready editorial collage aesthetic"}
+```
+
+<!-- Case 143: Magical Seed Packet Diorama (by @AllaAisling) -->
+### Case 143: [Magical Seed Packet Diorama](https://x.com/AllaAisling/status/2048156345518768190) (by [@AllaAisling](https://x.com/AllaAisling))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case143/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Epic 3D scene: a weathered seed packet lying open on a potting bench, its promise erupting into the garden it describes. The illustration on the front becomes real. {argument name="plant type" default="[PLANT / FLOWER]"} growing at full scale from the paper, roots visible through the packet's base pushing into soil below.
+{argument name="detail left" default="[DETAIL 1]"} in full bloom at one corner. {argument name="detail right" default="[DETAIL 2]"} mid-growth at the other, not yet what it will be.
+Tiny insects that belong to this plant, {argument name="insect type" default="[BEE / BUTTERFLY / BEETLE]"}, hovering at correct scale.
+The written instructions on the back become garden calendar, "sow in spring" manifests as actual spring light. "full sun" manifests as a single shaft of it, hitting the tallest bloom perfectly.
+Scattered seeds between packet and soil each showing their germination stage, split coat, first root, first shoot, first leaf.
+The packet's torn top edge becomes a treeline.
+Potting bench surface with soil scatter and water droplets.
+Tilt-shift depth of field, greenhouse morning light, the packet as the garden it always intended.
+```
+
+<!-- Case 144: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
+### Case 144: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case144/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text “NESS STUDIO” and smaller red text “TRACK SURFACE.” At the top center of the composition, add the same silver eye logo with the words “NESS STUDIO” and smaller “BY NICOLAS.” Across the background, place one oversized blurred word, {argument name="headline text" default="PRECISION"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text “CHRONOGRAPH SERIES” in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name="tagline text" default="ALSACE MADE"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.
+```
+
+<!-- Case 145: Neon Nike Lumina Ad Poster (by @AlwaveNazca) -->
+### Case 145: [Neon Nike Lumina Ad Poster](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case145/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A high-energy vertical Nike fashion campaign poster featuring a single athletic young woman mid-jump against a futuristic neon studio background. She is captured in a dynamic airborne pose with one knee bent up, the other leg folded back, one arm extended outward and the other bent near her chest, conveying motion and power. Her face is obscured by a clean rectangular blur block centered over the face. She wears a cropped iridescent white hooded windbreaker with a black zipper and small Nike logo on the chest, holographic metallic lavender-blue leggings with a subtle Nike swoosh on the thigh, a black branded waistband visible above the leggings, and white chunky Nike sneakers. Her brown hair is tied in a high ponytail flying outward with the jump. Behind her, enormous glowing white serif letters spell “NIKE” across the upper half, with a small white Nike swoosh centered above the word. Across the middle background, the phrase “LUMINA” appears once in wide bold glowing letters with a horizontal glitch and scanline distortion effect, partially obscured by the model. The color palette is saturated magenta, violet, cyan, and electric blue with strong bloom, glossy highlights, lens flares, and chromatic aberration. Add sweeping circular light trails wrapping around the model’s legs and body, suggesting speed and motion. The overall style is premium sportswear advertising, ultra-polished, cinematic, high contrast, hyperreal retouching, crisp product detail, dramatic rim lighting, and a luminous holographic aesthetic. Place 2 small text lines at the bottom: bottom left reads {argument name="tagline text" default="LIGHT. MOTION. ENERGY."}, bottom right reads {argument name="collection name" default="NIKE LUMINA COLLECTION"} followed by a small Nike swoosh. Include exactly 3 visible Nike swooshes total: 1 above the large NIKE headline, 1 on the jacket chest, and 1 on the leggings.
+```
+
+<!-- Case 146: Streetwear Sneaker Poster Ad (by @AlwaveNazca) -->
+### Case 146: [Streetwear Sneaker Poster Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case146/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a bold streetwear poster advertisement for {argument name="brand name" default="NESS STUDIO"} featuring a young adult model seated casually on the ground in a low-angle fashion pose, one knee raised and one leg extended toward the camera so the sneaker in front appears oversized and dominant. The model wears a dark brown oversized leather bomber jacket, a black shirt, light blue loose-fit jeans, white socks, and chunky black-white-gray sneakers with a red accent in the sole and the {argument name="brand name" default="NESS STUDIO"} logo visible on the shoe side and tongue. The face is intentionally obscured by a soft rectangular blur block centered over the face. Use an off-white textured paper background with distressed grunge design elements and collage layering. Behind the model, place a large rough red paint brushstroke shape spanning diagonally across the center. Add black ink splatters, sketch circles, torn paper scraps, and hand-painted graffiti accents. Include 4 major graphic doodles: a large black X in the upper right, a hand-drawn upward arrow in the lower left, a rough crown sketch in the lower right, and a circular scribble near the top center. In the upper left, place a stylized eye logo above the text "{argument name="brand name" default="NESS STUDIO"}" and a smaller tagline below reading "A MOMENT OF YOUR STYLE". On the left middle area, add the handwritten slogan "INNOVATE CREATE INSPIRE" in stacked black brush lettering. On the right middle area, place a torn black paper patch with the handwritten white slogan "BUILT DIFFERENT MOVE DIFFERENT" and a red underline stroke. In the lower left near the shoe, add a black distressed label sticker containing a globe scribble, the text "{argument name="brand name" default="NESS STUDIO"}", and a barcode. Along the bottom footer, create a clean horizontal strip with 3 social media icons and handles separated by thin vertical dividers: Instagram, Facebook, and Twitter, each followed by "@NESS.STUDIO". The overall style should be edgy, urban, youthful, high-contrast, editorial street fashion, mixing product advertising photography with graffiti poster design, collage textures, and dynamic branding.
+```
+
+<!-- Case 147: Editorial Osaka Six Sweatshirt Ad (by @_LaurentB) -->
+### Case 147: [Editorial Osaka Six Sweatshirt Ad](https://x.com/_LaurentB/status/2048126606313464040) (by [@_LaurentB](https://x.com/_LaurentB))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case147/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A clean editorial fashion advertisement poster on a pale powder-blue studio background with a glossy reflective floor. The composition is vertical and minimal, dominated by oversized bold white condensed sans-serif typography in the background reading “OSAKA SIX:” on the top line and “006 REMAINS” below, filling most of the upper half behind the subject. In the top right corner, small white branding text reads “Designed by ARTTEESHOW.” Centered in the lower middle is an oversized forest-green crewneck sweatshirt standing upright like a sculptural object, with soft heavy cotton fabric, dropped shoulders, extra-long sleeves pooled on the floor, and a small black neck label that reads ARTTEESHOW. On the chest of the sweatshirt is a large abstract collage print made from torn paper fragments in beige, tan, black, gray, white, and vivid red, arranged vertically like layered scraps. Leaning against the right side of the giant sweatshirt is a slim female fashion model with long straight black hair, wearing a matching {argument name="sweatshirt color" default="forest green"} sweatshirt and relaxed wide-leg sweatpants with clean white low-top sneakers. She is posed in profile with a calm detached editorial attitude, one hand in her pocket, her body reclining diagonally against the giant garment, legs extended forward; her face is obscured by a soft rectangular blur for an anonymous art-fashion look. The smaller worn sweatshirt has the same abstract torn-paper collage graphic centered on the chest. At the bottom center, add 2 lines of small white copy text: “Made for comfort, worn for confidence.” and “Because life feels better when someone’s carrying the weight of the world.” The image should feel like a premium conceptual streetwear campaign from the early 1990s reimagined as contemporary luxury advertising, with crisp studio lighting, soft shadows, subtle floor reflections, precise product focus, surreal scale contrast between the oversized sweatshirt and the model, and a polished magazine-poster aesthetic.
+```
+
+<!-- Case 148: Editorial Perfume Shot on Moss (by @Salmaaboukarr) -->
+### Case 148: [Editorial Perfume Shot on Moss](https://x.com/Salmaaboukarr/status/2048103506125463983) (by [@Salmaaboukarr](https://x.com/Salmaaboukarr))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case148/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads "BYREDO", "BAL D’AFRIQUE", and "EAU DE PARFUM". Place the bottle upright on 1 curved piece of pale weathered driftwood, surrounded by a dense carpet of 1 layer of rich green moss covering the foreground and lower frame. Use a minimal studio composition with the product isolated against a smooth warm brown-to-amber gradient background, softly illuminated like sunset light. Light the scene with dramatic directional warm light from the upper right, creating a bright glow on the background, a crisp highlight on the cap, soft reflections in the glass, and gentle shadows across the wood and moss. Keep the framing vertical, the bottle centered slightly low in the composition with generous negative space above, and the overall mood natural, luxurious, earthy, cinematic, and polished like a premium fragrance campaign shot.
+```
+
+<!-- Case 149: Editorial Perfume Bottle in Golden Fur (by @Salmaaboukarr) -->
+### Case 149: [Editorial Perfume Bottle in Golden Fur](https://x.com/Salmaaboukarr/status/2048103506125463983) (by [@Salmaaboukarr](https://x.com/Salmaaboukarr))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case149/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A luxurious editorial product photograph of a single perfume bottle nestled into dense, plush faux fur in rich golden caramel and honey-brown tones. Center the composition on one clear oval glass bottle filled with warm amber liquid, with a glossy rounded black cap and a clean white rectangular label. The label text should read {argument name="brand name" default="BYREDO"} at the top, {argument name="product name" default="BAL D’AFRIQUE"} large in the middle, and {argument name="product type" default="EAU DE PARFUM"} in small text near the bottom. Shoot it as a close-up still life with soft studio lighting, subtle highlights on the glass and cap, gentle shadows in the folds of the fur, and a warm cinematic color palette. The bottle should sit slightly embedded in the fur so the surrounding texture frames it from all sides, creating a premium fashion editorial mood, minimal composition, shallow depth of field, crisp focus on the label, and a high-end beauty campaign aesthetic.
+```
+
+<!-- Case 150: Luxury Miniature Dubai City Model (by @silentempiredev) -->
+### Case 150: [Luxury Miniature Dubai City Model](https://x.com/silentempiredev/status/2048086378383384773) (by [@silentempiredev](https://x.com/silentempiredev))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case150/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A hyper-detailed cinematic isometric miniature city model of {argument name="landmark tower" default="Burj Khalifa"} rising dramatically from the center of a square architectural master-plan board, presented like a luxury urban planning maquette on a black background. The composition shows one dominant ultra-tall silver skyscraper in the exact center, surrounded by a dense ring of modern high-rise towers, illuminated roads, bridges, and glowing warm city lights. Curving turquoise-blue water features and artificial lakes wrap around the central district in multiple connected pools and canals, with one large circular fountain-like feature near the tower base and several small island shapes visible in the water. In the lower right quadrant, include a large low-rise complex with rounded geometric roofs and subtle green-lit sections, connected by multilane roads and looping interchanges. The entire city sits on one square beige map board engraved with faint street grids and planning lines, with the board edges clearly visible and slightly raised. Viewpoint is a high three-quarter isometric angle, centered and symmetrical, with the tower extending far upward into negative space. Lighting is dramatic and luxurious: warm golden edge lights on buildings and roads, cool reflections in the water, crisp metallic highlights on the central tower, and a deep black void surrounding the model. Style should feel like a photorealistic architectural visualization mixed with a premium collectible scale model, extremely intricate, sharp, polished, and elegant.
+```
+
+<!-- Case 131: Parody Luxury Product Advertisement (by @tonysimons_) -->
+### Case 131: [Parody Luxury Product Advertisement](https://x.com/tonysimons_/status/2048057490940596595) (by [@tonysimons_](https://x.com/tonysimons_))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case131/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+High-impact parody e-commerce infographic for “{argument name="product" default="Four Loko"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name="product" default="Four Loko"} toward the camera. The can is slightly cold with visible condensation droplets and a loud, chaotic flavor design. The hand and can have a slight macro-lens blur for depth, with the can still reading clearly as the hero product. Central Subject: In the mid-ground, a funny, disheveled {argument name="subject" default="homeless-looking man"} sitting casually on a milk crate in an urban alley. He has a scruffy beard, messy hair, layered worn clothing, and a huge unbothered grin. He should look chaotic but oddly charismatic, like the accidental king of bad decisions. He is posed like a confident lifestyle-ad model, proudly showing off the can. Background & Lighting: A ridiculously polished ad-style backdrop mixed with a grimy city alley setting. Soft-focus urban textures, dumpster shapes, graffiti hints, and scattered clutter in the distance. Add dramatic studio lighting, soft glow, rainbow prism flares, and subtle light leaks to make the whole thing look way too premium for the subject matter. A few blurred {argument name="product" default="Four Loko"} cans can float artistically in the background for extra absurdity. Typography & Layout (Bold sans-serif, white and neon accent styling): Top Center (Background): Massive, bold text reading “{argument name="brand name" default="FOUR LOKO"}” positioned behind the subject. Top Right: Bold text reading “The Champagne of Bad Ideas”. Mid-Left: “Premium chaos and zero self-control” Mid-Right: Large, bold “23” with the text “ounces of terrible decisions.” Bottom-Right: Large, bold “1" with the text “can to ruin tomorrow.” Optional small callout text near the bottom: “Now with more regret.” Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject.
+```
+
+<!-- Case 109: VR Headset Exploded View Poster (by @wory37303852) -->
+### Case 109: [VR Headset Exploded View Poster](https://x.com/wory37303852/status/2045925660401795478) (by [@wory37303852](https://x.com/wory37303852))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case109/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "type": "exploded view product diagram poster",
+  "subject": "VR headset",
+  "style": "clean high-tech 3D render, studio lighting, glowing accents",
+  "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}",
+  "header": {
+    "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}",
+    "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}"
+  },
+  "layout": {
+    "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。",
+        "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。",
+        "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。"
+      ],
+      "right_side": [
+        "フェイスプレート\n洗練されたデザインと最適な重量バランス。",
+        "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。",
+        "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。",
+        "高性能バッテリー\n長時間駆動を支える最適化された電源設計。",
+        "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。"
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}",
+        "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。"
+      },
+      "right_logo": "∞ Meta"
+    }
+  }
+}
+```
 
 ## Portraet- und Fotografie-Faelle
 

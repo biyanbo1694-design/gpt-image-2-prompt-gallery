@@ -1,6 +1,6 @@
 {
   "repo": "awesome-gpt-image-2-prompts",
-  "generated_at": "2026-04-22T18:00:00+08:00",
+  "generated_at": "2026-04-27T10:35:44.372808+00:00",
   "primary_key": "tweet_url",
   "records": [
     {
@@ -2252,6 +2252,1016 @@
       "suggested_title": "AAA Video Game Screenshot Concept Design",
       "image_path": "images/ui_case47/output.jpg",
       "tweet_id": "2047828814580138156"
+    },
+    {
+      "tweet_url": "https://x.com/Colin_Leeee/status/2044802802149650631",
+      "author_handle": "Colin_Leeee",
+      "title": "18-Panel Mascot Brand Identity Document",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-107-18-panel-mascot-brand-identity-document-by-Colin_Leeee",
+      "image_dir": "images/poster_case107",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/IndieDevHailey/status/2044974254769463312",
+      "author_handle": "IndieDevHailey",
+      "title": "Dark Mode Marketing Case Study UI",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-108-dark-mode-marketing-case-study-ui-by-IndieDevHailey",
+      "image_dir": "images/poster_case108",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/wory37303852/status/2045925660401795478",
+      "author_handle": "wory37303852",
+      "title": "VR Headset Exploded View Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-109-vr-headset-exploded-view-poster-by-wory37303852",
+      "image_dir": "images/poster_case109",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/mm_zzm44854/status/2045861258520568230",
+      "author_handle": "mm_zzm44854",
+      "title": "Illustrated City Food Map",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-110-illustrated-city-food-map-by-mm_zzm44854",
+      "image_dir": "images/poster_case110",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sjbbxhz/status/2045684734714380687",
+      "author_handle": "sjbbxhz",
+      "title": "E-commerce Live Stream UI Mockup",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-89-e-commerce-live-stream-ui-mockup-by-sjbbxhz",
+      "image_dir": "images/ui_case89",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/GeekCatX/status/2045792240044511277",
+      "author_handle": "GeekCatX",
+      "title": "3D Stone Staircase Evolution Infographic",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-111-3d-stone-staircase-evolution-infographic-by-GeekCatX",
+      "image_dir": "images/poster_case111",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/makaneko_AI/status/2045764016858087720",
+      "author_handle": "makaneko_AI",
+      "title": "4-Panel Japanese Digital Ad Banner Grid",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-90-4-panel-japanese-digital-ad-banner-grid-by-makaneko_AI",
+      "image_dir": "images/ui_case90",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Tanemomi_Ver2/status/2046063806846214265",
+      "author_handle": "Tanemomi_Ver2",
+      "title": "Anime Martial Arts Battle Illustration",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-10-anime-martial-arts-battle-illustration-by-Tanemomi_Ver2",
+      "image_dir": "images/character_case10",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/chi_vc_/status/2046061073720369228",
+      "author_handle": "chi_vc_",
+      "title": "Anime Character Brand Identity & Merch Board",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-112-anime-character-brand-identity-&-merch-b-by-chi_vc_",
+      "image_dir": "images/poster_case112",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/S0N_IA_/status/2047414367243657296",
+      "author_handle": "S0N_IA_",
+      "title": "Spanish GRWM Morning Beauty Thumbnail",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-91-spanish-grwm-morning-beauty-thumbnail-by-S0N_IA_",
+      "image_dir": "images/ui_case91",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Gugombly/status/2047310862428303636",
+      "author_handle": "Gugombly",
+      "title": "Cinematic City Explosion Chase",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-92-cinematic-city-explosion-chase-by-Gugombly",
+      "image_dir": "images/ui_case92",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/rerxmsz06/status/2047261622121705782",
+      "author_handle": "rerxmsz06",
+      "title": "Anime VTuber Minecraft Stream Thumbnail",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-93-anime-vtuber-minecraft-stream-thumbnail-by-rerxmsz06",
+      "image_dir": "images/ui_case93",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Shion_yamabuki/status/2047232198382964969",
+      "author_handle": "Shion_yamabuki",
+      "title": "Cozy Anime ASMR Ear Massage Girl",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-94-cozy-anime-asmr-ear-massage-girl-by-Shion_yamabuki",
+      "image_dir": "images/ui_case94",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SelenaGmzIN/status/2047185882009198865",
+      "author_handle": "SelenaGmzIN",
+      "title": "Celebrity Livestream Concept",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-95-celebrity-livestream-concept-by-SelenaGmzIN",
+      "image_dir": "images/ui_case95",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/chesnyfcb/status/2047714457774637213",
+      "author_handle": "chesnyfcb",
+      "title": "Restaurant POV Change Comparison",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "#case-70-restaurant-pov-change-comparison-by-chesnyfcb",
+      "image_dir": "images/comparison_case70",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/MoveHiro1219/status/2047698611665096732",
+      "author_handle": "MoveHiro1219",
+      "title": "Neon AI Thumbnail Comparison",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "#case-72-neon-ai-thumbnail-comparison-by-MoveHiro1219",
+      "image_dir": "images/comparison_case72",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/mirochill/status/2047639852485620070",
+      "author_handle": "mirochill",
+      "title": "Monika Anime Banner Illustration",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-96-monika-anime-banner-illustration-by-mirochill",
+      "image_dir": "images/ui_case96",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Eris_Create_Lab/status/2047537707904274795",
+      "author_handle": "Eris_Create_Lab",
+      "title": "Cyberpunk 404 Witch Summoning",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-100-cyberpunk-404-witch-summoning-by-Eris_Create_Lab",
+      "image_dir": "images/ui_case100",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Design4p0/status/2047531978346398002",
+      "author_handle": "Design4p0",
+      "title": "Anime Fantasy Travel Movie Poster",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-101-anime-fantasy-travel-movie-poster-by-Design4p0",
+      "image_dir": "images/ui_case101",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/mikko_20100518/status/2047514897404354598",
+      "author_handle": "mikko_20100518",
+      "title": "Tokyo DisneySea Front-Row Battle UI",
+      "category": "Comparison & Community Examples",
+      "readme_file": "README.md",
+      "case_anchor": "#case-75-tokyo-disneysea-front-row-battle-ui-by-mikko_20100518",
+      "image_dir": "images/comparison_case75",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sorane_aimusic/status/2047507066697507134",
+      "author_handle": "sorane_aimusic",
+      "title": "Anime Music Bootcamp Promo Poster",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-102-anime-music-bootcamp-promo-poster-by-sorane_aimusic",
+      "image_dir": "images/ui_case102",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Polanco_IA/status/2047689647967609037",
+      "author_handle": "Polanco_IA",
+      "title": "E-commerce Main Image - Luxury Amber Perfume Ad",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-113-e-commerce-main-image---luxury-amber-per-by-Polanco_IA",
+      "image_dir": "images/poster_case113",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Strength04_X/status/2047636636847231222",
+      "author_handle": "Strength04_X",
+      "title": "E-commerce Main Image - Skincare Product Studio Shot",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-114-e-commerce-main-image---skincare-product-by-Strength04_X",
+      "image_dir": "images/poster_case114",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/edimakorfr/status/2047635133466124726",
+      "author_handle": "edimakorfr",
+      "title": "E-commerce Main Image - Tropical Citrus Soda Ad Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-115-e-commerce-main-image---tropical-citrus--by-edimakorfr",
+      "image_dir": "images/poster_case115",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ShamsAmin56/status/2047627860752621647",
+      "author_handle": "ShamsAmin56",
+      "title": "E-commerce Main Image - Industrial Design Presentation Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-116-e-commerce-main-image---industrial-desig-by-ShamsAmin56",
+      "image_dir": "images/poster_case116",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/dynamicwangs/status/2047580984342925545",
+      "author_handle": "dynamicwangs",
+      "title": "E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-117-e-commerce-main-image---luxury-fur-lined-by-dynamicwangs",
+      "image_dir": "images/poster_case117",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/MiguelMaestroIA/status/2047555836252151831",
+      "author_handle": "MiguelMaestroIA",
+      "title": "E-commerce Main Image - Luxury Perfume Ad on Marble Vanity",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-118-e-commerce-main-image---luxury-perfume-a-by-MiguelMaestroIA",
+      "image_dir": "images/poster_case118",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/gdb/status/2048184797374325031",
+      "author_handle": "gdb",
+      "title": "Restored Vintage Mother and Child Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-82-restored-vintage-mother-and-child-portra-by-gdb",
+      "image_dir": "images/portrait_case82",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/gdb/status/2048184698195870102",
+      "author_handle": "gdb",
+      "title": "Ink-Etched Family Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-84-ink-etched-family-portrait-by-gdb",
+      "image_dir": "images/portrait_case84",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ToroJushiAi/status/2048139425465467248",
+      "author_handle": "ToroJushiAi",
+      "title": "Dreamy Backlit Editorial Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-86-dreamy-backlit-editorial-portrait-by-ToroJushiAi",
+      "image_dir": "images/portrait_case86",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Inshrah_ali_/status/2048121503367995753",
+      "author_handle": "Inshrah_ali_",
+      "title": "3D Cartoon Character Render",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-87-3d-cartoon-character-render-by-Inshrah_ali_",
+      "image_dir": "images/portrait_case87",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/XSydneyFan/status/2048114180906217566",
+      "author_handle": "XSydneyFan",
+      "title": "Young Woman in Sequin Dress on Stairs",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-88-young-woman-in-sequin-dress-on-stairs-by-XSydneyFan",
+      "image_dir": "images/portrait_case88",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Abdullah__Ai7/status/2048083022315159595",
+      "author_handle": "Abdullah__Ai7",
+      "title": "Luxury Studio Outfit Transformation",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-89-luxury-studio-outfit-transformation-by-Abdullah__Ai7",
+      "image_dir": "images/portrait_case89",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/yume00112211/status/2048072808606089230",
+      "author_handle": "yume00112211",
+      "title": "Blonde Maid in Warm Cafe",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-90-blonde-maid-in-warm-cafe-by-yume00112211",
+      "image_dir": "images/portrait_case90",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/liyue_ai/status/2048046253842559183",
+      "author_handle": "liyue_ai",
+      "title": "Dreamy Oriental female portrait prompt",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-91-dreamy-oriental-female-portrait-prompt-by-liyue_ai",
+      "image_dir": "images/portrait_case91",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/jiajia232016/status/2048044100793032976",
+      "author_handle": "jiajia232016",
+      "title": "Monochrome Hermes-Inspired Avatar",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-92-monochrome-hermes-inspired-avatar-by-jiajia232016",
+      "image_dir": "images/portrait_case92",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/libearal/status/2048026376645861799",
+      "author_handle": "libearal",
+      "title": "Cyber Crystal Anime Girl Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-93-cyber-crystal-anime-girl-portrait-by-libearal",
+      "image_dir": "images/portrait_case93",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/jeremydevz/status/2048026214812561683",
+      "author_handle": "jeremydevz",
+      "title": "Dark Gatorade-Style Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-97-dark-gatorade-style-portrait-by-jeremydevz",
+      "image_dir": "images/portrait_case97",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/megane_onesan/status/2047989490153926848",
+      "author_handle": "megane_onesan",
+      "title": "Portrait of a Gentle Woman with Glasses",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-98-portrait-of-a-gentle-woman-with-glasses-by-megane_onesan",
+      "image_dir": "images/portrait_case98",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/kotobukigraphic/status/2047967522453123255",
+      "author_handle": "kotobukigraphic",
+      "title": "Dreamy Underwater Woman With Translucent Fish",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-99-dreamy-underwater-woman-with-translucent-by-kotobukigraphic",
+      "image_dir": "images/portrait_case99",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Hair_Hair55/status/2047963832732221723",
+      "author_handle": "Hair_Hair55",
+      "title": "Japanese Classroom Long Hair Snapshot",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-100-japanese-classroom-long-hair-snapshot-by-Hair_Hair55",
+      "image_dir": "images/portrait_case100",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/yume00112211/status/2047951384734228617",
+      "author_handle": "yume00112211",
+      "title": "Cozy Catgirl Pajama Night Portrait",
+      "category": "Portrait & Photography Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-101-cozy-catgirl-pajama-night-portrait-by-yume00112211",
+      "image_dir": "images/portrait_case101",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/erikmackinnon/status/2048190288179675290",
+      "author_handle": "erikmackinnon",
+      "title": "Tropical Parrot Pixel Mosaic",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-103-tropical-parrot-pixel-mosaic-by-erikmackinnon",
+      "image_dir": "images/ui_case103",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/FernandesK47117/status/2048183925294371147",
+      "author_handle": "FernandesK47117",
+      "title": "Golden Cocktail in Greenhouse Bar",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-104-golden-cocktail-in-greenhouse-bar-by-FernandesK47117",
+      "image_dir": "images/ui_case104",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/aimikoda/status/2048183782876778821",
+      "author_handle": "aimikoda",
+      "title": "Multi-Panel Image Board Template",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-105-multi-panel-image-board-template-by-aimikoda",
+      "image_dir": "images/ui_case105",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/mosthssan/status/2048160477658980711",
+      "author_handle": "mosthssan",
+      "title": "Handwritten Realistic Letter",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-106-handwritten-realistic-letter-by-mosthssan",
+      "image_dir": "images/ui_case106",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SDAI1807097011/status/2048127178592915583",
+      "author_handle": "SDAI1807097011",
+      "title": "Anime Band Finale at Budokan",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-107-anime-band-finale-at-budokan-by-SDAI1807097011",
+      "image_dir": "images/ui_case107",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AIillust_studio/status/2048099186214900130",
+      "author_handle": "AIillust_studio",
+      "title": "Anime Girl and Man Date Photo Collage",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-108-anime-girl-and-man-date-photo-collage-by-AIillust_studio",
+      "image_dir": "images/ui_case108",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Just_sharon7/status/2048095904138485962",
+      "author_handle": "Just_sharon7",
+      "title": "Luxury Lifestyle Mustang Shot",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-109-luxury-lifestyle-mustang-shot-by-Just_sharon7",
+      "image_dir": "images/ui_case109",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AIMAG31G/status/2048089673621516547",
+      "author_handle": "AIMAG31G",
+      "title": "Anime Friends Eating Soba",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-110-anime-friends-eating-soba-by-AIMAG31G",
+      "image_dir": "images/ui_case110",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/yanagihara_0805/status/2048085829713842405",
+      "author_handle": "yanagihara_0805",
+      "title": "Gothic Android Warrior Cathedral Key Art",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-111-gothic-android-warrior-cathedral-key-art-by-yanagihara_0805",
+      "image_dir": "images/ui_case111",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Gorden_Sun/status/2048080137149899133",
+      "author_handle": "Gorden_Sun",
+      "title": "Cloud shape doodle generation",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-112-cloud-shape-doodle-generation-by-Gorden_Sun",
+      "image_dir": "images/ui_case112",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/m_Raiko_AIart/status/2048069313387737222",
+      "author_handle": "m_Raiko_AIart",
+      "title": "Rural Station Schoolgirl Scene",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-113-rural-station-schoolgirl-scene-by-m_Raiko_AIart",
+      "image_dir": "images/ui_case113",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sub_raw_jin/status/2048066779835220392",
+      "author_handle": "sub_raw_jin",
+      "title": "Anime Characters in Real Izakaya Photo",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-114-anime-characters-in-real-izakaya-photo-by-sub_raw_jin",
+      "image_dir": "images/ui_case114",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2048063332624843046",
+      "author_handle": "harboriis",
+      "title": "BMW Performance Social Poster",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-116-bmw-performance-social-poster-by-harboriis",
+      "image_dir": "images/ui_case116",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Diplomeme/status/2048060325925470358",
+      "author_handle": "Diplomeme",
+      "title": "Cinematic Chicken Momos Ad Poster",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-117-cinematic-chicken-momos-ad-poster-by-Diplomeme",
+      "image_dir": "images/ui_case117",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/zenkaiAI/status/2048051889460437351",
+      "author_handle": "zenkaiAI",
+      "title": "Nostalgic 16-Photo Couple Grid",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-118-nostalgic-16-photo-couple-grid-by-zenkaiAI",
+      "image_dir": "images/ui_case118",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/_simonsmith/status/2048172203946996041",
+      "author_handle": "_simonsmith",
+      "title": "Biomimetic Skyray Aircraft Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-119-biomimetic-skyray-aircraft-poster-by-_simonsmith",
+      "image_dir": "images/poster_case119",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/leyu37829/status/2048125950681075833",
+      "author_handle": "leyu37829",
+      "title": "Taoist Three Souls Seven Po Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-120-taoist-three-souls-seven-po-poster-by-leyu37829",
+      "image_dir": "images/poster_case120",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/mob_17/status/2048118645017219381",
+      "author_handle": "mob_17",
+      "title": "Vintage Claude Shannon Infographic Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-121-vintage-claude-shannon-infographic-poste-by-mob_17",
+      "image_dir": "images/poster_case121",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/komorimedia/status/2048114825398731143",
+      "author_handle": "komorimedia",
+      "title": "Water Signs Zodiac Character Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-123-water-signs-zodiac-character-poster-by-komorimedia",
+      "image_dir": "images/poster_case123",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/degewa/status/2048104569037783226",
+      "author_handle": "degewa",
+      "title": "Ethnographic Plate for Tibetan Ceremonial Hat",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-127-ethnographic-plate-for-tibetan-ceremonia-by-degewa",
+      "image_dir": "images/poster_case127",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/GlennHasABeard/status/2048087784141857235",
+      "author_handle": "GlennHasABeard",
+      "title": "Vintage PRS Guitar Lineage Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-128-vintage-prs-guitar-lineage-poster-by-GlennHasABeard",
+      "image_dir": "images/poster_case128",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/TWnese/status/2048077204786212887",
+      "author_handle": "TWnese",
+      "title": "Alishan One-Day Travel Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-129-alishan-one-day-travel-poster-by-TWnese",
+      "image_dir": "images/poster_case129",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ciri_ai/status/2048074587955658848",
+      "author_handle": "Ciri_ai",
+      "title": "Dance Movement Reference Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-130-dance-movement-reference-sheet-by-Ciri_ai",
+      "image_dir": "images/poster_case130",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/tonysimons_/status/2048057490940596595",
+      "author_handle": "tonysimons_",
+      "title": "Parody Luxury Product Advertisement",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-131-parody-luxury-product-advertisement-by-tonysimons_",
+      "image_dir": "images/poster_case131",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/himukai_an/status/2047981800535085555",
+      "author_handle": "himukai_an",
+      "title": "Anime BL Promo Thumbnail",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-119-anime-bl-promo-thumbnail-by-himukai_an",
+      "image_dir": "images/ui_case119",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Dakiny/status/2048175219966394695",
+      "author_handle": "Dakiny",
+      "title": "Anime Museum Background Conversion",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-132-anime-museum-background-conversion-by-Dakiny",
+      "image_dir": "images/poster_case132",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ExquisitMe/status/2048143577264402629",
+      "author_handle": "ExquisitMe",
+      "title": "16-Pose Dance Combat Reference Sheet",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-133-16-pose-dance-combat-reference-sheet-by-ExquisitMe",
+      "image_dir": "images/poster_case133",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/xRahultripathi/status/2048140775356354892",
+      "author_handle": "xRahultripathi",
+      "title": "Gas Giant Descent Storyboard",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-137-gas-giant-descent-storyboard-by-xRahultripathi",
+      "image_dir": "images/poster_case137",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/JohnnyWang8802/status/2048129335853559824",
+      "author_handle": "JohnnyWang8802",
+      "title": "Surreal Baroque Painting Reality Fracture",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-138-surreal-baroque-painting-reality-fractur-by-JohnnyWang8802",
+      "image_dir": "images/poster_case138",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Professor_134/status/2048066672398102896",
+      "author_handle": "Professor_134",
+      "title": "Urban Alley Mural Artist",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-139-urban-alley-mural-artist-by-Professor_134",
+      "image_dir": "images/poster_case139",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ArtwlDesign/status/2048054726768709769",
+      "author_handle": "ArtwlDesign",
+      "title": "RPG Map to Anime Event Scene",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-140-rpg-map-to-anime-event-scene-by-ArtwlDesign",
+      "image_dir": "images/poster_case140",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/hoshi122221/status/2048025730425196801",
+      "author_handle": "hoshi122221",
+      "title": "Soft Pastel Anime Girl Full Body",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-141-soft-pastel-anime-girl-full-body-by-hoshi122221",
+      "image_dir": "images/poster_case141",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ray_CROWN0/status/2048024227664494775",
+      "author_handle": "Ray_CROWN0",
+      "title": "Urban Fantasy Coexistence Crossing",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-142-urban-fantasy-coexistence-crossing-by-Ray_CROWN0",
+      "image_dir": "images/poster_case142",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AllaAisling/status/2048156345518768190",
+      "author_handle": "AllaAisling",
+      "title": "Magical Seed Packet Diorama",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-143-magical-seed-packet-diorama-by-AllaAisling",
+      "image_dir": "images/poster_case143",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/AlwaveNazca/status/2048147643809865950",
+      "author_handle": "AlwaveNazca",
+      "title": "Luxury Chronograph Watch Ad",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-144-luxury-chronograph-watch-ad-by-AlwaveNazca",
+      "image_dir": "images/poster_case144",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/_LaurentB/status/2048126606313464040",
+      "author_handle": "_LaurentB",
+      "title": "Editorial Osaka Six Sweatshirt Ad",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-147-editorial-osaka-six-sweatshirt-ad-by-_LaurentB",
+      "image_dir": "images/poster_case147",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Salmaaboukarr/status/2048103506125463983",
+      "author_handle": "Salmaaboukarr",
+      "title": "Editorial Perfume Shot on Moss",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-148-editorial-perfume-shot-on-moss-by-Salmaaboukarr",
+      "image_dir": "images/poster_case148",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/silentempiredev/status/2048086378383384773",
+      "author_handle": "silentempiredev",
+      "title": "Luxury Miniature Dubai City Model",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-150-luxury-miniature-dubai-city-model-by-silentempiredev",
+      "image_dir": "images/poster_case150",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Strength04_X/status/2048074514278563949",
+      "author_handle": "Strength04_X",
+      "title": "E-commerce Main Image - Miniature Diorama Skincare Advertisement",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-151-e-commerce-main-image---miniature-dioram-by-Strength04_X",
+      "image_dir": "images/poster_case151",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/songguoxiansen/status/2048046906585280977",
+      "author_handle": "songguoxiansen",
+      "title": "E-commerce Main Image - Traditional Chinese Art and Porcelain Vases",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-152-e-commerce-main-image---traditional-chin-by-songguoxiansen",
+      "image_dir": "images/poster_case152",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/rojassartorio/status/2048019666816163867",
+      "author_handle": "rojassartorio",
+      "title": "E-commerce Main Image - Premium Gaming Motherboard Studio Shot",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-153-e-commerce-main-image---premium-gaming-m-by-rojassartorio",
+      "image_dir": "images/poster_case153",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/WooGabriel76263/status/2047988112094101770",
+      "author_handle": "WooGabriel76263",
+      "title": "E-commerce Main Image - Premium Grain Powder Ad Board",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-154-e-commerce-main-image---premium-grain-po-by-WooGabriel76263",
+      "image_dir": "images/poster_case154",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SPEEDAI07/status/2047981795552153860",
+      "author_handle": "SPEEDAI07",
+      "title": "E-commerce Main Image - Earbuds E-commerce Infographic",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-155-e-commerce-main-image---earbuds-e-commer-by-SPEEDAI07",
+      "image_dir": "images/poster_case155",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Diplomeme/status/2047957339974828092",
+      "author_handle": "Diplomeme",
+      "title": "E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-156-e-commerce-main-image---sustainable-t-sh-by-Diplomeme",
+      "image_dir": "images/poster_case156",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Adam38363368936/status/2047917266361360682",
+      "author_handle": "Adam38363368936",
+      "title": "E-commerce Main Image - Elegant Cosmetic Poster Prompt",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-157-e-commerce-main-image---elegant-cosmetic-by-Adam38363368936",
+      "image_dir": "images/poster_case157",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Strength04_X/status/2047917220165231011",
+      "author_handle": "Strength04_X",
+      "title": "E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-158-e-commerce-main-image---minimalist-produ-by-Strength04_X",
+      "image_dir": "images/poster_case158",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/SPEEDAI07/status/2047907058079650035",
+      "author_handle": "SPEEDAI07",
+      "title": "E-commerce Main Image - Pastel Blue Crocs Fashion Ad",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-159-e-commerce-main-image---pastel-blue-croc-by-SPEEDAI07",
+      "image_dir": "images/poster_case159",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Magncsans/status/2047876253898903594",
+      "author_handle": "Magncsans",
+      "title": "E-commerce Main Image - 9-Panel Product TVC Storyboard",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-160-e-commerce-main-image---9-panel-product--by-Magncsans",
+      "image_dir": "images/poster_case160",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ismajc/status/2048174302164394493",
+      "author_handle": "ismajc",
+      "title": "GTA 6 in Bangalore Flower Market",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-11-gta-6-in-bangalore-flower-market-by-ismajc",
+      "image_dir": "images/character_case11",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/ismajc/status/2048166630933282995",
+      "author_handle": "ismajc",
+      "title": "GTA 6 Shinjuku Bar Scene",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-12-gta-6-shinjuku-bar-scene-by-ismajc",
+      "image_dir": "images/character_case12",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/almimeister/status/2048309710118687101",
+      "author_handle": "almimeister",
+      "title": "Artist and Ethereal Muse at Night",
+      "category": "UI & Social Media Mockup Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-120-artist-and-ethereal-muse-at-night-by-almimeister",
+      "image_dir": "images/ui_case120",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/sarinaashapi/status/2048307780864606708",
+      "author_handle": "sarinaashapi",
+      "title": "Parent-Child Miscommunication Infographic",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-161-parent-child-miscommunication-infographi-by-sarinaashapi",
+      "image_dir": "images/poster_case161",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Kazuch75240438/status/2048205418238030327",
+      "author_handle": "Kazuch75240438",
+      "title": "Good Bath Day Editorial Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-162-good-bath-day-editorial-poster-by-Kazuch75240438",
+      "image_dir": "images/poster_case162",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/yy7482933910896/status/2048192904922075161",
+      "author_handle": "yy7482933910896",
+      "title": "Japanese Sci-Fi Suit-Up Process Board",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-163-japanese-sci-fi-suit-up-process-board-by-yy7482933910896",
+      "image_dir": "images/poster_case163",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/terunari/status/2048308270914490666",
+      "author_handle": "terunari",
+      "title": "Dreamy Shibuya Bubble Girl",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-164-dreamy-shibuya-bubble-girl-by-terunari",
+      "image_dir": "images/poster_case164",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Gerry/status/2048303505702629537",
+      "author_handle": "Gerry",
+      "title": "Stormy Tropical City With Rooftop Plane",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-165-stormy-tropical-city-with-rooftop-plane-by-Gerry",
+      "image_dir": "images/poster_case165",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/xc5_/status/2048310696686014935",
+      "author_handle": "xc5_",
+      "title": "Japanese Chinese Food Delivery Flyer",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-166-japanese-chinese-food-delivery-flyer-by-xc5_",
+      "image_dir": "images/poster_case166",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/Ayu_AI_0912/status/2048309565817766139",
+      "author_handle": "Ayu_AI_0912",
+      "title": "Pastel Jellyfish Room Goods Poster",
+      "category": "Poster & Illustration Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-167-pastel-jellyfish-room-goods-poster-by-Ayu_AI_0912",
+      "image_dir": "images/poster_case167",
+      "added_at": "2026-04-27T10:35:44+08:00"
+    },
+    {
+      "tweet_url": "https://x.com/yume00112211/status/2048309139013853421",
+      "author_handle": "yume00112211",
+      "title": "Eleanor from White Cat Project",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-13-eleanor-from-white-cat-project-by-yume00112211",
+      "image_dir": "images/character_case13",
+      "added_at": "2026-04-27T10:35:44+08:00"
     }
   ]
 }

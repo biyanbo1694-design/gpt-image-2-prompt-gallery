@@ -10,7 +10,7 @@
     "slug": "posters",
     "name": "Posters",
     "description": "Editorial, travel, event, brand and cinematic poster prompt ideas.",
-    "count": 128,
+    "count": 127,
     "coverImage": "/upstream/images/poster_case133/output.jpg"
   },
   {
@@ -24,7 +24,7 @@
     "slug": "ui-mockups",
     "name": "UI Mockups",
     "description": "App screens, dashboards, status pages and product interface mockups.",
-    "count": 73,
+    "count": 66,
     "coverImage": "/upstream/images/ui_case96/output.jpg"
   },
   {
@@ -38,7 +38,7 @@
     "slug": "community",
     "name": "Community",
     "description": "Community discoveries and prompt experiments that do not fit a single narrow format.",
-    "count": 47,
+    "count": 34,
     "coverImage": "/upstream/images/case_case117/output.jpg"
   }
 ]
