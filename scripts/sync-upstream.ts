@@ -94,10 +94,19 @@ const OUT_DIR = path.join(OUT_ROOT, "generated");
 const UPSTREAM_DIR = path.join(OUT_ROOT, "upstream");
 const UPSTREAM_TMP_DIR = path.join(OUT_ROOT, ".upstream-tmp");
 const PUBLIC_UPSTREAM_IMAGE_DIR = path.join(process.cwd(), "public", "upstream", "images");
+const PUBLIC_UPSTREAM_IMAGE_TMP_DIR = path.join(process.cwd(), "public", "upstream", ".images-tmp");
 
 const PRIMARY_DATA_PATH = path.join(UPSTREAM_DIR, "gpt_image2_prompts.json");
 const FALLBACK_DATA_PATH = path.join(UPSTREAM_DIR, "data", "ingested_tweets.json");
 const IMAGE_EXTENSIONS = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"]);
+const ALLOWED_EXTERNAL_HOSTS = new Set([
+  "github.com",
+  "raw.githubusercontent.com",
+  "opengraph.githubassets.com",
+  "x.com",
+  "twitter.com",
+  "pbs.twimg.com"
+]);
 
 const CATEGORY_RULES: CategoryRule[] = [
   {
@@ -201,19 +210,27 @@ async function syncUpstreamFiles(syncedAt: string): Promise<UpstreamFileRecord[]
       .sort((a, b) => a.path.localeCompare(b.path));
   } catch (error) {
     await safeRm(UPSTREAM_TMP_DIR);
+    const detail = error instanceof Error ? error.message : String(error);
+
+    if (requiresFreshUpstreamSync()) {
+      throw new Error(`Unable to complete a fresh upstream sync in CI: ${detail}`);
+    }
+
     const existing = await buildManifestFromLocalFiles(syncedAt);
 
     if (existing.length > 0) {
       console.warn(
-        `Unable to complete a fresh upstream sync, using existing data/upstream files. ${
-          error instanceof Error ? error.message : String(error)
-        }`
+        `Unable to complete a fresh upstream sync, using existing data/upstream files. ${detail}`
       );
       return existing;
     }
 
     throw error;
   }
+}
+
+function requiresFreshUpstreamSync() {
+  return process.env.CI === "true" && process.env.ALLOW_STALE_UPSTREAM_FALLBACK !== "1";
 }
 
 function fileRecordFromTreeItem(item: GitHubTreeItem, syncedAt: string): UpstreamFileRecord {
@@ -264,40 +281,49 @@ async function buildManifestFromLocalFiles(syncedAt: string): Promise<UpstreamFi
 async function buildUpstreamImageIndex(upstreamFiles: UpstreamFileRecord[]): Promise<UpstreamImageRecord[]> {
   const imageFiles = upstreamFiles.filter((file) => isUpstreamImagePath(file.path));
 
-  await safeRm(PUBLIC_UPSTREAM_IMAGE_DIR);
-  await mkdir(PUBLIC_UPSTREAM_IMAGE_DIR, { recursive: true });
+  await safeRm(PUBLIC_UPSTREAM_IMAGE_TMP_DIR);
+  await mkdir(PUBLIC_UPSTREAM_IMAGE_TMP_DIR, { recursive: true });
 
-  const records = await Promise.all(
-    imageFiles.map(async (file) => {
-      const relativeImagePath = normalizePath(file.path.replace(/^images\//, ""));
-      const upstreamAbsolutePath = path.join(process.cwd(), ...file.localPath.split("/"));
-      const publicLocalPath = normalizePath(path.join("public", "upstream", "images", relativeImagePath));
-      const publicAbsolutePath = path.join(process.cwd(), ...publicLocalPath.split("/"));
+  try {
+    const records = await Promise.all(
+      imageFiles.map(async (file) => {
+        const relativeImagePath = normalizePath(file.path.replace(/^images\//, ""));
+        const upstreamAbsolutePath = path.join(process.cwd(), ...file.localPath.split("/"));
+        const publicLocalPath = normalizePath(path.join("public", "upstream", "images", relativeImagePath));
+        const publicTmpPath = path.join(PUBLIC_UPSTREAM_IMAGE_TMP_DIR, ...relativeImagePath.split("/"));
 
-      await mkdir(path.dirname(publicAbsolutePath), { recursive: true });
-      await copyFile(upstreamAbsolutePath, publicAbsolutePath);
+        await mkdir(path.dirname(publicTmpPath), { recursive: true });
+        await copyFile(upstreamAbsolutePath, publicTmpPath);
 
-      const dimensions = await readImageDimensions(upstreamAbsolutePath);
-      const caseSlug = caseSlugFromImagePath(file.path);
+        const dimensions = await readImageDimensions(upstreamAbsolutePath);
+        const caseSlug = caseSlugFromImagePath(file.path);
 
-      return {
-        id: uniqueImageId(file.path),
-        path: file.path,
-        url: `/upstream/images/${encodePath(relativeImagePath)}`,
-        localPath: publicLocalPath,
-        upstreamUrl: file.downloadUrl,
-        htmlUrl: file.htmlUrl,
-        width: dimensions?.width,
-        height: dimensions?.height,
-        caseSlug,
-        categorySlug: categorySlugFromCaseSlug(caseSlug),
-        source: SOURCE_REPO,
-        sourceUrl: file.htmlUrl
-      };
-    })
-  );
+        return {
+          id: uniqueImageId(file.path),
+          path: file.path,
+          url: `/upstream/images/${encodePath(relativeImagePath)}`,
+          localPath: publicLocalPath,
+          upstreamUrl: file.downloadUrl,
+          htmlUrl: file.htmlUrl,
+          width: dimensions?.width,
+          height: dimensions?.height,
+          caseSlug,
+          categorySlug: categorySlugFromCaseSlug(caseSlug),
+          source: SOURCE_REPO,
+          sourceUrl: file.htmlUrl
+        };
+      })
+    );
 
-  return records.sort((a, b) => a.path.localeCompare(b.path));
+    await safeRm(PUBLIC_UPSTREAM_IMAGE_DIR);
+    await mkdir(path.dirname(PUBLIC_UPSTREAM_IMAGE_DIR), { recursive: true });
+    await rename(PUBLIC_UPSTREAM_IMAGE_TMP_DIR, PUBLIC_UPSTREAM_IMAGE_DIR);
+
+    return records.sort((a, b) => a.path.localeCompare(b.path));
+  } catch (error) {
+    await safeRm(PUBLIC_UPSTREAM_IMAGE_TMP_DIR);
+    throw error;
+  }
 }
 
 async function buildPromptItems(upstreamImages: UpstreamImageRecord[], syncedAt: string): Promise<PromptItem[]> {
@@ -316,28 +342,29 @@ async function buildPromptItems(upstreamImages: UpstreamImageRecord[], syncedAt:
 
   for (const readmeCase of readmeCases) {
     const folders = unique(compact(readmeCase.imagePaths.map(folderFromImagePath)));
+    const imageFolders = ownedFoldersForReadmeCase(folders, readmeCase, ingestedByFolder);
     const sourceKey = normalizeSourceKey(readmeCase.sourceUrl);
     const raw = rawByUrl.get(sourceKey) ?? rawById.get(tweetIdFromUrl(readmeCase.sourceUrl));
-    const ingested = ingestedByUrl.get(sourceKey) ?? folders.map((folder) => ingestedByFolder.get(folder)).find(Boolean);
-    const images = imagesForFolders(folders, imageLookup, readmeCase.title);
+    const ingested = ingestedByUrl.get(sourceKey) ?? imageFolders.map((folder) => ingestedByFolder.get(folder)).find(Boolean);
+    const images = imagesForFolders(imageFolders, imageLookup, readmeCase.title);
 
     if (sourceKey) {
       seenSourceKeys.add(sourceKey);
     }
-    folders.forEach((folder) => seenFolders.add(folder));
+    imageFolders.forEach((folder) => seenFolders.add(folder));
 
     prompts.push(
       createPromptItem({
         id: tweetIdFromUrl(readmeCase.sourceUrl) || readmeCase.imagePaths[0] || `readme-case-${readmeCase.caseNumber}`,
         title: readmeCase.title,
-        categorySlug: categorySlugForCase(readmeCase, folders[0], ingested),
+        categorySlug: categorySlugForCase(readmeCase, imageFolders[0], ingested),
         prompt: readmeCase.prompt || raw?.text || ingested?.prompt || ingested?.text || missingPromptCopy(),
         images: images.length > 0 ? images : remoteImages(raw, readmeCase.title),
         authorName: readmeCase.authorName ?? raw?.author ?? ingested?.author_handle ?? ingested?.author,
         authorUrl: readmeCase.authorUrl ?? authorUrl(raw?.author ?? ingested?.author_handle ?? ingested?.author),
         sourceUrl: readmeCase.sourceUrl ?? raw?.url ?? ingested?.tweet_url ?? ingested?.url,
         caseNumber: readmeCase.caseNumber,
-        imageFolder: folders[0],
+        imageFolder: imageFolders[0],
         createdAt: normalizeDate(raw?.createdAt ?? ingested?.added_at),
         syncedAt,
         sources: compact([readmeCase.readmeFile, raw ? "gpt_image2_prompts.json" : undefined, ingested ? "data/ingested_tweets.json" : undefined]),
@@ -487,10 +514,10 @@ function createPromptItem(input: {
     categorySlug: category.slug,
     prompt,
     excerpt: createExcerpt(prompt),
-    images: input.images,
+    images: input.images.map(safePromptImage).filter(Boolean) as PromptImage[],
     authorName: cleanAuthor(input.authorName),
-    authorUrl: input.authorUrl,
-    sourceUrl: input.sourceUrl,
+    authorUrl: safeExternalUrl(input.authorUrl),
+    sourceUrl: safeExternalUrl(input.sourceUrl),
     caseNumber: input.caseNumber,
     imageFolder: input.imageFolder,
     sources: unique(input.sources ?? []),
@@ -661,6 +688,21 @@ function buildImageLookup(images: UpstreamImageRecord[]) {
   };
 }
 
+function ownedFoldersForReadmeCase(
+  folders: string[],
+  readmeCase: ReadmeCase,
+  ingestedByFolder: Map<string, IngestedRecord>
+) {
+  const readmeSourceKey = normalizeSourceKey(readmeCase.sourceUrl);
+
+  return folders.filter((folder) => {
+    const owner = ingestedByFolder.get(folder);
+    const ownerSourceKey = normalizeSourceKey(owner?.tweet_url ?? owner?.url);
+
+    return !ownerSourceKey || !readmeSourceKey || ownerSourceKey === readmeSourceKey;
+  });
+}
+
 function imagesForFolders(
   folders: string[],
   lookup: ReturnType<typeof buildImageLookup>,
@@ -686,20 +728,77 @@ function promptImageFromRecord(image: UpstreamImageRecord, title: string, index:
     width: image.width,
     height: image.height,
     sourcePath: image.path,
-    sourceUrl: image.htmlUrl
+    sourceUrl: safeExternalUrl(image.htmlUrl)
   };
 }
 
 function remoteImages(raw: UpstreamPrompt | undefined, title: string): PromptImage[] {
   return (raw?.media ?? [])
     .filter((media) => media.type === "photo" && media.url)
-    .map((media, index) => ({
+    .map((media, index) =>
+      safePromptImage({
       url: media.url as string,
       alt: `${title} 示例图 ${index + 1}`,
       width: media.width,
       height: media.height,
       sourceUrl: raw?.url
-    }));
+    })
+    )
+    .filter(Boolean) as PromptImage[];
+}
+
+function safePromptImage(image: PromptImage): PromptImage | undefined {
+  const url = safeImageUrl(image.url);
+
+  if (!url) {
+    return undefined;
+  }
+
+  return {
+    ...image,
+    url,
+    sourceUrl: safeExternalUrl(image.sourceUrl)
+  };
+}
+
+function safeImageUrl(value?: string) {
+  if (!value) {
+    return undefined;
+  }
+
+  if (value.startsWith("/upstream/images/") && !value.includes("..") && !value.includes("\\")) {
+    return value;
+  }
+
+  const url = safeExternalUrl(value);
+  if (!url) {
+    return undefined;
+  }
+
+  const hostname = new URL(url).hostname.toLowerCase();
+  return ["pbs.twimg.com", "raw.githubusercontent.com", "github.com", "opengraph.githubassets.com"].includes(hostname)
+    ? url
+    : undefined;
+}
+
+function safeExternalUrl(value?: string) {
+  if (!value) {
+    return undefined;
+  }
+
+  try {
+    const url = new URL(value);
+    const hostname = url.hostname.toLowerCase();
+
+    if (url.protocol !== "https:" || !ALLOWED_EXTERNAL_HOSTS.has(hostname)) {
+      return undefined;
+    }
+
+    url.hash = "";
+    return url.toString();
+  } catch {
+    return undefined;
+  }
 }
 
 function categorySlugForCase(readmeCase: ReadmeCase, folder?: string, ingested?: IngestedRecord) {

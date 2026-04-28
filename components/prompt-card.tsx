@@ -28,8 +28,9 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
               sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
             />
           ) : (
-            <div className="grid h-full place-items-center text-neutral-400">
+            <div className="flex h-full flex-col items-center justify-center gap-2 text-neutral-400">
               <Images size={34} />
+              <span className="text-xs font-medium uppercase tracking-[0.16em]">Prompt-only</span>
             </div>
           )}
           <div className="absolute left-4 top-4 rounded-full bg-white/82 px-3 py-1 text-xs font-medium text-ink backdrop-blur-xl">
@@ -47,7 +48,7 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
             <Link
               href={prompt.sourceUrl}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               aria-label="View source"
               className="grid size-9 shrink-0 place-items-center rounded-full border border-line text-neutral-500 transition hover:border-neutral-300 hover:text-ink"
             >
@@ -60,7 +61,7 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
 
         <div className="mt-5 flex items-center justify-between gap-4 text-xs text-neutral-400">
           <span>{prompt.authorName ?? "Public creator"}</span>
-          <span>{prompt.images.length} images</span>
+          <span>{prompt.images.length > 0 ? `${prompt.images.length} images` : "Prompt-only"}</span>
         </div>
       </div>
     </motion.article>

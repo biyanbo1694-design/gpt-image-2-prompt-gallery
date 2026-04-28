@@ -7,9 +7,14 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: true
 
 jobs:
   sync:
@@ -17,15 +22,18 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: 22
+          node-version: 24
+          cache: npm
 
       - name: Install dependencies
-        run: npm ci || npm install
+        run: npm ci
 
       - name: Sync upstream data
         env:
@@ -36,13 +44,25 @@ jobs:
         run: npm run build:next
 
       - name: Commit synced data
+        id: commit
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ -n "$(git status --porcelain data/generated data/upstream)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -f data/generated data/upstream
             git commit -m "chore: sync upstream prompts"
+            gh auth setup-git
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No synced data changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger deployment
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-vercel.yml --ref main

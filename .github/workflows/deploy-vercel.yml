@@ -6,8 +6,15 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -15,15 +22,18 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: 22
+          node-version: 24
+          cache: npm
 
       - name: Install dependencies
-        run: npm ci || npm install
+        run: npm ci
 
       - name: Build static site
         env:
@@ -35,7 +45,21 @@ jobs:
           rm -rf .vercel/output
           mkdir -p .vercel/output/static
           cp -R out/. .vercel/output/static/
-          printf '{"version":3}\n' > .vercel/output/config.json
+          node - <<'NODE'
+          const fs = require("fs");
+          const securityHeaders = {
+            "Content-Security-Policy": "default-src 'self'; base-uri 'self'; frame-ancestors 'none'; object-src 'none'; form-action 'self'; img-src 'self' data: blob: https://pbs.twimg.com https://github.com https://raw.githubusercontent.com https://opengraph.githubassets.com; font-src 'self' data:; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src 'self'; upgrade-insecure-requests",
+            "X-Content-Type-Options": "nosniff",
+            "X-Frame-Options": "DENY",
+            "Referrer-Policy": "strict-origin-when-cross-origin",
+            "Permissions-Policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self)",
+            "Cross-Origin-Opener-Policy": "same-origin"
+          };
+          fs.writeFileSync(
+            ".vercel/output/config.json",
+            `${JSON.stringify({ version: 3, routes: [{ src: "/(.*)", headers: securityHeaders, continue: true }] }, null, 2)}\n`
+          );
+          NODE
 
       - name: Deploy production
         id: deploy
@@ -44,11 +68,15 @@ jobs:
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         run: |
-          npx vercel@latest deploy --prebuilt --prod --yes --token="${VERCEL_TOKEN}" | tee /tmp/vercel-deploy.log
+          npx vercel@52.0.0 deploy --prebuilt --prod --yes --token="${VERCEL_TOKEN}" | tee /tmp/vercel-deploy.log
           DEPLOYMENT_URL="$(grep -Eo 'https://[^ ]+\.vercel\.app' /tmp/vercel-deploy.log | tail -n 1)"
+          if [ -z "${DEPLOYMENT_URL}" ]; then
+            echo "Unable to find deployment URL in Vercel output."
+            exit 1
+          fi
           echo "deployment_url=${DEPLOYMENT_URL}" >> "$GITHUB_OUTPUT"
 
       - name: Alias production domain
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-        run: npx vercel@latest alias set "${{ steps.deploy.outputs.deployment_url }}" xiaoqi-ai.vercel.app --token="${VERCEL_TOKEN}"
+        run: npx vercel@52.0.0 alias set "${{ steps.deploy.outputs.deployment_url }}" xiaoqi-ai.vercel.app --token="${VERCEL_TOKEN}"

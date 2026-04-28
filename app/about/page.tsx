@@ -39,7 +39,7 @@ export default function AboutPage() {
         <Link
           href={stats.sourceUrl}
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           className="mt-6 inline-flex items-center gap-2 rounded-full bg-ink px-5 py-3 text-sm font-medium text-white transition hover:bg-neutral-800"
         >
           View Source Repository

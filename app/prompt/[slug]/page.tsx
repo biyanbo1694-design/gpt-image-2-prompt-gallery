@@ -65,8 +65,9 @@ export default async function PromptPage({ params }: PromptPageProps) {
                   priority
                 />
               ) : (
-                <div className="flex aspect-[4/3] items-center justify-center text-neutral-400">
+                <div className="flex aspect-[4/3] flex-col items-center justify-center gap-3 text-neutral-400">
                   <Images size={40} />
+                  <span className="text-xs font-medium uppercase tracking-[0.16em]">Prompt-only</span>
                 </div>
               )}
             </div>
@@ -103,7 +104,7 @@ export default async function PromptPage({ params }: PromptPageProps) {
                 {prompt.createdAt ? (
                   <span>{new Intl.DateTimeFormat("en-US", { dateStyle: "medium" }).format(new Date(prompt.createdAt))}</span>
                 ) : null}
-                <span>{prompt.images.length} images</span>
+                <span>{prompt.images.length > 0 ? `${prompt.images.length} images` : "Prompt-only"}</span>
               </div>
 
               <div className="mt-8 rounded-lg bg-white p-5 shadow-[inset_0_0_0_1px_rgba(230,232,236,0.95)]">
@@ -119,7 +120,7 @@ export default async function PromptPage({ params }: PromptPageProps) {
                   <Link
                     href={prompt.sourceUrl}
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-4 py-2 text-sm font-medium text-ink transition hover:border-neutral-300"
                   >
                     View Source
@@ -130,7 +131,7 @@ export default async function PromptPage({ params }: PromptPageProps) {
                   <Link
                     href={prompt.authorUrl}
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-4 py-2 text-sm font-medium text-ink transition hover:border-neutral-300"
                   >
                     Creator

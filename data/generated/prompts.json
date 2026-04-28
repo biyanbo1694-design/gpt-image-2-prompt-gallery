@@ -49,8 +49,60 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
+  },
+  {
+    "id": "2046188377524076915",
+    "slug": "画像-alt-載-2046188377524076915",
+    "title": "画像のプロンプトはALTに載せてます。",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "画像のプロンプトはALTに載せてます。",
+    "excerpt": "画像のプロンプトはALTに載せてます。",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HGV__0DakAAdaZR.jpg",
+        "alt": "画像のプロンプトはALTに載せてます。 示例图 1",
+        "width": 768,
+        "height": 1200,
+        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGV__0JakAAD8h2.jpg",
+        "alt": "画像のプロンプトはALTに載せてます。 示例图 2",
+        "width": 960,
+        "height": 1200,
+        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGV_c_TbwAAVcw0.jpg",
+        "alt": "画像のプロンプトはALTに載せてます。 示例图 3",
+        "width": 1004,
+        "height": 1567,
+        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGV_ivOaAAAA9B2.jpg",
+        "alt": "画像のプロンプトはALTに載せてます。 示例图 4",
+        "width": 1003,
+        "height": 1568,
+        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
+      }
+    ],
+    "authorName": "yudotanaka",
+    "authorUrl": "https://x.com/yudotanaka",
+    "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-20T11:25:00.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 13,
+      "reposts": 1,
+      "views": 1517
+    }
   },
   {
     "id": "2047207812800147647",
@@ -103,7 +155,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -156,7 +208,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -209,7 +261,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -263,7 +315,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -317,7 +369,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -370,7 +422,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -418,7 +470,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-20T09:12:16.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 546,
       "reposts": 59,
@@ -470,63 +522,11 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-20T13:11:32.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 1,
       "views": 207
-    }
-  },
-  {
-    "id": "2046188377524076915",
-    "slug": "画像-alt-載-2046188377524076915",
-    "title": "画像のプロンプトはALTに載せてます。",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "画像のプロンプトはALTに載せてます。",
-    "excerpt": "画像のプロンプトはALTに載せてます。",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGV__0DakAAdaZR.jpg",
-        "alt": "画像のプロンプトはALTに載せてます。 示例图 1",
-        "width": 768,
-        "height": 1200,
-        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/HGV__0JakAAD8h2.jpg",
-        "alt": "画像のプロンプトはALTに載せてます。 示例图 2",
-        "width": 960,
-        "height": 1200,
-        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/HGV_c_TbwAAVcw0.jpg",
-        "alt": "画像のプロンプトはALTに載せてます。 示例图 3",
-        "width": 1004,
-        "height": 1567,
-        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/HGV_ivOaAAAA9B2.jpg",
-        "alt": "画像のプロンプトはALTに載せてます。 示例图 4",
-        "width": 1003,
-        "height": 1568,
-        "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915"
-      }
-    ],
-    "authorName": "yudotanaka",
-    "authorUrl": "https://x.com/yudotanaka",
-    "sourceUrl": "https://x.com/yudotanaka/status/2046188377524076915",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-20T11:25:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 13,
-      "reposts": 1,
-      "views": 1517
     }
   },
   {
@@ -572,8 +572,53 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
+  },
+  {
+    "id": "2046523494003851300",
+    "slug": "生成-城市-三天旅游攻略-就这么简单一句话-2046523494003851300",
+    "title": "生成【城市】三天旅游攻略，就这么简单一句话",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "生成【城市】三天旅游攻略，就这么简单一句话",
+    "excerpt": "生成【城市】三天旅游攻略，就这么简单一句话",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HGa2KbFXMAAv9Wh.jpg",
+        "alt": "生成【城市】三天旅游攻略，就这么简单一句话 示例图 1",
+        "width": 940,
+        "height": 1672,
+        "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGa2MQNXUAA-lk8.jpg",
+        "alt": "生成【城市】三天旅游攻略，就这么简单一句话 示例图 2",
+        "width": 941,
+        "height": 1672,
+        "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGa2QPdWIAAPxOn.jpg",
+        "alt": "生成【城市】三天旅游攻略，就这么简单一句话 示例图 3",
+        "width": 941,
+        "height": 1672,
+        "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300"
+      }
+    ],
+    "authorName": "MrLarus",
+    "authorUrl": "https://x.com/MrLarus",
+    "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-21T09:36:38.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 4,
+      "reposts": 0,
+      "views": 276
+    }
   },
   {
     "id": "2047227172486824002",
@@ -618,7 +663,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -663,7 +708,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -709,7 +754,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -754,53 +799,8 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
-  },
-  {
-    "id": "2046523494003851300",
-    "slug": "生成-城市-三天旅游攻略-就这么简单一句话-2046523494003851300",
-    "title": "生成【城市】三天旅游攻略，就这么简单一句话",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "生成【城市】三天旅游攻略，就这么简单一句话",
-    "excerpt": "生成【城市】三天旅游攻略，就这么简单一句话",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGa2KbFXMAAv9Wh.jpg",
-        "alt": "生成【城市】三天旅游攻略，就这么简单一句话 示例图 1",
-        "width": 940,
-        "height": 1672,
-        "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/HGa2MQNXUAA-lk8.jpg",
-        "alt": "生成【城市】三天旅游攻略，就这么简单一句话 示例图 2",
-        "width": 941,
-        "height": 1672,
-        "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/HGa2QPdWIAAPxOn.jpg",
-        "alt": "生成【城市】三天旅游攻略，就这么简单一句话 示例图 3",
-        "width": 941,
-        "height": 1672,
-        "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300"
-      }
-    ],
-    "authorName": "MrLarus",
-    "authorUrl": "https://x.com/MrLarus",
-    "sourceUrl": "https://x.com/MrLarus/status/2046523494003851300",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-21T09:36:38.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 4,
-      "reposts": 0,
-      "views": 276
-    }
   },
   {
     "id": "2046508044528582861",
@@ -833,7 +833,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T08:35:14.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -841,42 +841,42 @@
     }
   },
   {
-    "id": "2047192228758692036",
-    "slug": "360-equirectangular-panorama-image-2047192228758692036",
-    "title": "360 Equirectangular Panorama Image",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "360度 equirectangular （正距円筒図法）画像を2:1で生成\n\nOnline 360° Panorama Viewer VR",
-    "excerpt": "360度 equirectangular （正距円筒図法）画像を2:1で生成 Online 360° Panorama Viewer VR",
+    "id": "2046507931907080330",
+    "slug": "用可爱的风格讲述中国远征军的历史故事-2046507931907080330",
+    "title": "用可爱的风格讲述中国远征军的历史故事",
+    "category": "UI Mockups",
+    "categorySlug": "ui-mockups",
+    "prompt": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
+    "excerpt": "用可爱的风格讲述中国远征军的历史故事 用波普风格讲述金刚经",
     "images": [
       {
-        "url": "/upstream/images/poster_case75/output.jpg",
-        "alt": "360 Equirectangular Panorama Image 示例图 1",
-        "width": 1024,
-        "height": 1536,
-        "sourcePath": "images/poster_case75/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case75/output.jpg"
+        "url": "https://pbs.twimg.com/media/HGaoFjmW8AAfZlw.jpg",
+        "alt": "用可爱的风格讲述中国远征军的历史故事 示例图 1",
+        "width": 1197,
+        "height": 1314,
+        "sourceUrl": "https://x.com/RainHuangapp/status/2046507931907080330"
       },
       {
-        "url": "/upstream/images/poster_case75/output1.jpg",
-        "alt": "360 Equirectangular Panorama Image 示例图 2",
-        "width": 1199,
-        "height": 574,
-        "sourcePath": "images/poster_case75/output1.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case75/output1.jpg"
+        "url": "https://pbs.twimg.com/media/HGaoFjrWgAANwsI.jpg",
+        "alt": "用可爱的风格讲述中国远征军的历史故事 示例图 2",
+        "width": 1024,
+        "height": 1536,
+        "sourceUrl": "https://x.com/RainHuangapp/status/2046507931907080330"
       }
     ],
-    "authorName": "rs_elwood",
-    "authorUrl": "https://x.com/rs_elwood",
-    "sourceUrl": "https://x.com/rs_elwood/status/2047192228758692036",
-    "caseNumber": 60,
-    "imageFolder": "poster_case75",
+    "authorName": "RainHuangapp",
+    "authorUrl": "https://x.com/RainHuangapp",
+    "sourceUrl": "https://x.com/RainHuangapp/status/2046507931907080330",
     "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
+      "gpt_image2_prompts.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {}
+    "createdAt": "2026-04-21T08:34:47.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 0,
+      "reposts": 0,
+      "views": 94
+    }
   },
   {
     "id": "2047201597697245252",
@@ -913,7 +913,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -950,7 +950,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -988,7 +988,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1026,7 +1026,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1064,7 +1064,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1097,7 +1097,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2047204566559756707",
@@ -1134,7 +1134,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1172,7 +1172,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1209,7 +1209,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1247,7 +1247,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1281,7 +1281,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T09:13:25.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 0,
@@ -1322,7 +1322,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1360,7 +1360,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1398,7 +1398,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1436,7 +1436,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1474,7 +1474,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1511,7 +1511,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1548,7 +1548,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1586,7 +1586,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1624,7 +1624,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1662,7 +1662,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1700,7 +1700,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1738,7 +1738,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1775,46 +1775,8 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
-  },
-  {
-    "id": "2046507931907080330",
-    "slug": "用可爱的风格讲述中国远征军的历史故事-2046507931907080330",
-    "title": "用可爱的风格讲述中国远征军的历史故事",
-    "category": "UI Mockups",
-    "categorySlug": "ui-mockups",
-    "prompt": "用可爱的风格讲述中国远征军的历史故事\n用波普风格讲述金刚经",
-    "excerpt": "用可爱的风格讲述中国远征军的历史故事 用波普风格讲述金刚经",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGaoFjmW8AAfZlw.jpg",
-        "alt": "用可爱的风格讲述中国远征军的历史故事 示例图 1",
-        "width": 1197,
-        "height": 1314,
-        "sourceUrl": "https://x.com/RainHuangapp/status/2046507931907080330"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/HGaoFjrWgAANwsI.jpg",
-        "alt": "用可爱的风格讲述中国远征军的历史故事 示例图 2",
-        "width": 1024,
-        "height": 1536,
-        "sourceUrl": "https://x.com/RainHuangapp/status/2046507931907080330"
-      }
-    ],
-    "authorName": "RainHuangapp",
-    "authorUrl": "https://x.com/RainHuangapp",
-    "sourceUrl": "https://x.com/RainHuangapp/status/2046507931907080330",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-21T08:34:47.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 0,
-      "reposts": 0,
-      "views": 94
-    }
   },
   {
     "id": "2046506783850815703",
@@ -1845,7 +1807,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:30:14.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 3,
       "reposts": 0,
@@ -1878,7 +1840,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1909,7 +1871,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1940,7 +1902,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -1971,7 +1933,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2000,7 +1962,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2029,7 +1991,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2058,7 +2020,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2089,7 +2051,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2120,8 +2082,132 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
+  },
+  {
+    "id": "2046491397424111659",
+    "slug": "创作一幅超逼真的-3d-插画-描绘一个略微倾斜的-twitter-x-个人资料页面-背景为简洁的灰色-保留原有的卡通头像-界面必须与真实的-x-2046491397424111659",
+    "title": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X...",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。\n\n个人资料详情：\n\n一位时尚的年轻男子，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征，只是将表情改为自然自信的微笑。他握着撕开的纸片边缘，纸屑四处飞溅，营造出强烈的 3D 突破效果。\n\n柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。\n\n重要提示：\n\n- 请勿更改头像\n\n- 保持 X UI 界面准确\n\n- 保留原有的面部特征\n\n- 角色为男性\n\n- 仅增强笑容\n\n- 确保所有中文文字清晰易读",
+    "excerpt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。 个人资料详情： 一位时尚的年轻男子，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页...",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HGaYpIJbIAE8rsz.jpg",
+        "alt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X... 示例图 1",
+        "width": 1086,
+        "height": 1448,
+        "sourceUrl": "https://x.com/GoSailGlobal/status/2046491397424111659"
+      }
+    ],
+    "authorName": "GoSailGlobal",
+    "authorUrl": "https://x.com/GoSailGlobal",
+    "sourceUrl": "https://x.com/GoSailGlobal/status/2046491397424111659",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-21T07:29:05.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 4,
+      "reposts": 0,
+      "views": 664
+    }
+  },
+  {
+    "id": "2046536551681954207",
+    "slug": "生成一个抖音直播的截图-里面是一个美女在直播-在卖丝袜和内衣-她的在线人数是99996-热度是18-有个叫小互的大哥-给她刷了一个飞机礼物-2046536551681954207",
+    "title": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
+    "excerpt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HGbB4--bAAAfGnL.jpg",
+        "alt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 示例图 1",
+        "width": 853,
+        "height": 1844,
+        "sourceUrl": "https://x.com/xiaohu/status/2046536551681954207"
+      }
+    ],
+    "authorName": "xiaohu",
+    "authorUrl": "https://x.com/xiaohu",
+    "sourceUrl": "https://x.com/xiaohu/status/2046536551681954207",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-21T10:28:31.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 19,
+      "reposts": 1,
+      "views": 2640
+    }
+  },
+  {
+    "id": "2046165776055546341",
+    "slug": "生成一张慈禧的x主页-2046165776055546341",
+    "title": "生成一张慈禧的X主页",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "生成一张慈禧的X主页",
+    "excerpt": "生成一张慈禧的X主页",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HGVw2JUbQAAG9Bn.jpg",
+        "alt": "生成一张慈禧的X主页 示例图 1",
+        "width": 1086,
+        "height": 1448,
+        "sourceUrl": "https://x.com/Cryptohaifeng_/status/2046165776055546341"
+      }
+    ],
+    "authorName": "Cryptohaifeng_",
+    "authorUrl": "https://x.com/Cryptohaifeng_",
+    "sourceUrl": "https://x.com/Cryptohaifeng_/status/2046165776055546341",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-20T09:55:11.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 4,
+      "reposts": 0,
+      "views": 370
+    }
+  },
+  {
+    "id": "2046523491940225366",
+    "slug": "玄武门之变的朋友圈-2046523491940225366",
+    "title": "玄武门之变的朋友圈",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "玄武门之变的朋友圈",
+    "excerpt": "玄武门之变的朋友圈",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HGa2ROUX0AAadhO.jpg",
+        "alt": "玄武门之变的朋友圈 示例图 1",
+        "width": 1086,
+        "height": 1448,
+        "sourceUrl": "https://x.com/Tz_2022/status/2046523491940225366"
+      }
+    ],
+    "authorName": "Tz_2022",
+    "authorUrl": "https://x.com/Tz_2022",
+    "sourceUrl": "https://x.com/Tz_2022/status/2046523491940225366",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-21T09:36:37.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 4,
+      "reposts": 1,
+      "views": 454
+    }
   },
   {
     "id": "2047234995627172229",
@@ -2150,7 +2236,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2180,7 +2266,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2211,7 +2297,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2241,7 +2327,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2273,7 +2359,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T09:41:31.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -2309,7 +2395,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T13:23:22.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 0,
@@ -2342,7 +2428,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2373,7 +2459,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2405,7 +2491,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:12:05.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 4,
       "reposts": 0,
@@ -2439,7 +2525,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2468,7 +2554,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2497,7 +2583,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2526,7 +2612,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2555,7 +2641,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2584,7 +2670,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2613,7 +2699,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2642,7 +2728,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2671,7 +2757,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2700,7 +2786,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2731,7 +2817,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2760,7 +2846,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2790,7 +2876,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2820,7 +2906,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2849,7 +2935,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2879,7 +2965,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2909,7 +2995,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2939,7 +3025,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2969,7 +3055,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -2999,7 +3085,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3029,7 +3115,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3058,7 +3144,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3087,7 +3173,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3116,7 +3202,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3147,7 +3233,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3178,7 +3264,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3210,7 +3296,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:44:14.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 3,
       "reposts": 0,
@@ -3244,7 +3330,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3274,7 +3360,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3306,7 +3392,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T11:33:35.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 190,
       "reposts": 11,
@@ -3339,7 +3425,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3371,7 +3457,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T04:39:43.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 0,
@@ -3407,7 +3493,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T16:22:08.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 2,
       "reposts": 0,
@@ -3443,7 +3529,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T23:30:59.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 29,
       "reposts": 1,
@@ -3472,7 +3558,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "character_case6",
@@ -3496,7 +3582,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2045396918965285111",
@@ -3526,7 +3612,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3558,7 +3644,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T16:40:14.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -3592,7 +3678,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3623,7 +3709,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3652,7 +3738,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3681,7 +3767,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3713,7 +3799,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T14:04:22.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -3748,7 +3834,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3777,7 +3863,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -3802,7 +3888,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "case_case73",
@@ -3826,7 +3912,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "case_case76",
@@ -3850,7 +3936,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case11",
@@ -3874,7 +3960,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case17",
@@ -3898,7 +3984,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case18",
@@ -3922,7 +4008,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case19",
@@ -3946,7 +4032,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case2",
@@ -3970,7 +4056,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case20",
@@ -3994,7 +4080,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case21",
@@ -4018,7 +4104,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case22",
@@ -4042,7 +4128,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case3",
@@ -4066,7 +4152,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case4",
@@ -4090,7 +4176,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case6",
@@ -4114,7 +4200,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case7",
@@ -4138,7 +4224,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "comparison_case8",
@@ -4162,7 +4248,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2045167461147042202",
@@ -4192,7 +4278,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4224,7 +4310,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T02:07:42.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -4257,7 +4343,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4286,7 +4372,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4316,7 +4402,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4345,7 +4431,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4377,7 +4463,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T06:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -4411,7 +4497,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4440,7 +4526,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4472,7 +4558,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T13:49:38.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 2,
       "reposts": 0,
@@ -4505,7 +4591,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4534,7 +4620,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4566,7 +4652,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T15:02:34.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 25,
       "reposts": 1,
@@ -4602,7 +4688,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T03:53:51.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 3,
       "reposts": 0,
@@ -4637,7 +4723,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4667,7 +4753,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4696,7 +4782,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4725,7 +4811,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4754,7 +4840,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4783,7 +4869,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4812,7 +4898,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2045684734714380687",
@@ -4840,7 +4926,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4869,7 +4955,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4898,7 +4984,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4927,7 +5013,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4956,7 +5042,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -4985,7 +5071,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5014,7 +5100,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5043,7 +5129,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5072,7 +5158,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5101,7 +5187,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5130,7 +5216,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5159,7 +5245,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5188,7 +5274,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5217,7 +5303,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5246,7 +5332,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5275,7 +5361,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5304,7 +5390,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5334,7 +5420,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5364,7 +5450,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5393,7 +5479,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5422,7 +5508,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5454,7 +5540,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:09:35.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -5488,7 +5574,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5519,7 +5605,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5548,7 +5634,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5577,7 +5663,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2046509734954741780",
@@ -5608,7 +5694,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:41:57.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 98,
       "reposts": 9,
@@ -5639,7 +5725,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T02:23:43.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 0,
@@ -5675,7 +5761,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T12:18:29.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 591,
       "reposts": 82,
@@ -5711,7 +5797,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:12:22.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 20,
       "reposts": 2,
@@ -5747,7 +5833,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T06:56:47.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 42,
       "reposts": 3,
@@ -5782,7 +5868,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5813,7 +5899,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5842,7 +5928,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5872,7 +5958,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5902,7 +5988,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5932,7 +6018,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5961,7 +6047,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -5990,7 +6076,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6019,7 +6105,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6050,7 +6136,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6079,7 +6165,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6108,7 +6194,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6139,7 +6225,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6168,7 +6254,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2046514998965371144",
@@ -6199,7 +6285,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:02:52.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 5,
       "reposts": 0,
@@ -6234,7 +6320,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6263,7 +6349,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6293,7 +6379,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6323,7 +6409,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6352,7 +6438,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6379,7 +6465,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T08:51:29.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -6414,7 +6500,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6445,7 +6531,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6474,7 +6560,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6503,7 +6589,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6535,7 +6621,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:21:23.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -6570,7 +6656,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6599,7 +6685,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6631,7 +6717,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:01:07.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 2,
       "reposts": 0,
@@ -6667,7 +6753,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T16:56:48.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -6702,7 +6788,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6734,7 +6820,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T09:00:02.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 406,
       "reposts": 43,
@@ -6770,7 +6856,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T16:45:08.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 89,
       "reposts": 10,
@@ -6804,7 +6890,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6835,7 +6921,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6866,7 +6952,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6898,7 +6984,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T06:42:56.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -6932,7 +7018,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6962,7 +7048,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -6992,7 +7078,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7023,7 +7109,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7052,7 +7138,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7081,7 +7167,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7111,7 +7197,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7140,7 +7226,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7169,7 +7255,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7201,7 +7287,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T08:31:50.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 30,
       "reposts": 3,
@@ -7236,7 +7322,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7267,7 +7353,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7296,7 +7382,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7328,7 +7414,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T07:37:13.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 35,
       "reposts": 7,
@@ -7361,7 +7447,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7392,7 +7478,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7423,7 +7509,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7453,7 +7539,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7485,7 +7571,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T13:11:53.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 46,
       "reposts": 3,
@@ -7519,7 +7605,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7549,7 +7635,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7578,7 +7664,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7609,7 +7695,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7639,7 +7725,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7670,7 +7756,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7702,7 +7788,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T10:05:31.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 3,
       "reposts": 0,
@@ -7735,7 +7821,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7764,7 +7850,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7793,7 +7879,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7823,7 +7909,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7854,7 +7940,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7886,7 +7972,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:58:04.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -7919,7 +8005,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -7944,7 +8030,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case18",
@@ -7968,7 +8054,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case19",
@@ -7992,7 +8078,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case20",
@@ -8016,7 +8102,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case21",
@@ -8040,7 +8126,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case43",
@@ -8064,7 +8150,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case44",
@@ -8088,7 +8174,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case52",
@@ -8112,7 +8198,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case53",
@@ -8136,7 +8222,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "poster_case6",
@@ -8160,7 +8246,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2046406024303976904",
@@ -8191,7 +8277,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T01:49:51.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 0,
@@ -8225,7 +8311,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8257,7 +8343,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T07:56:23.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 99,
       "reposts": 4,
@@ -8288,7 +8374,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T10:44:46.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -8321,7 +8407,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2047862141894681076",
@@ -8350,7 +8436,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8380,7 +8466,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8412,7 +8498,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:10:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 8,
       "reposts": 0,
@@ -8446,7 +8532,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8478,7 +8564,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:04:09.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 3,
       "reposts": 0,
@@ -8511,7 +8597,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8540,7 +8626,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8572,7 +8658,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T16:59:35.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 16,
       "reposts": 2,
@@ -8608,7 +8694,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T06:30:09.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 5,
       "reposts": 0,
@@ -8644,7 +8730,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:32:32.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -8680,7 +8766,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:46:19.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 4,
       "reposts": 0,
@@ -8715,7 +8801,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8747,7 +8833,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T14:16:31.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 441,
       "reposts": 66,
@@ -8783,7 +8869,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T02:20:11.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 1,
@@ -8819,7 +8905,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T08:59:43.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 10,
       "reposts": 1,
@@ -8854,7 +8940,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8886,7 +8972,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:35:27.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 1,
       "reposts": 1,
@@ -8920,7 +9006,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -8952,7 +9038,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T06:35:08.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 363,
       "reposts": 22,
@@ -8988,7 +9074,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T03:43:41.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 183,
       "reposts": 10,
@@ -9024,7 +9110,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-21T09:15:33.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 23,
       "reposts": 2,
@@ -9057,7 +9143,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9087,7 +9173,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9114,7 +9200,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T09:11:28.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -9149,7 +9235,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9180,7 +9266,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9209,7 +9295,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9239,7 +9325,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9270,7 +9356,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9301,7 +9387,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9330,7 +9416,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9360,7 +9446,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9391,7 +9477,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9421,7 +9507,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9452,7 +9538,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9481,7 +9567,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9512,7 +9598,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9542,7 +9628,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9572,7 +9658,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9601,7 +9687,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9633,7 +9719,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T23:59:17.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -9667,7 +9753,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9696,7 +9782,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9725,7 +9811,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9757,7 +9843,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-20T02:10:53.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -9791,7 +9877,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -9816,7 +9902,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case12",
@@ -9840,7 +9926,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case26",
@@ -9864,7 +9950,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case27",
@@ -9888,7 +9974,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case28",
@@ -9912,7 +9998,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case29",
@@ -9936,7 +10022,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case30",
@@ -9960,7 +10046,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case31",
@@ -9984,7 +10070,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "ui_case6",
@@ -10008,7 +10094,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2047175250761433416",
@@ -10037,7 +10123,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10067,7 +10153,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10096,7 +10182,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10125,7 +10211,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10156,7 +10242,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10187,7 +10273,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10216,7 +10302,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10245,7 +10331,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10276,7 +10362,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10305,7 +10391,7 @@
     "sources": [
       "README.md"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {}
   },
   {
@@ -10332,7 +10418,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T10:51:04.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 0,
       "reposts": 0,
@@ -10363,7 +10449,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T08:04:59.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 16,
       "reposts": 3,
@@ -10394,7 +10480,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T07:40:28.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 20,
       "reposts": 2,
@@ -10425,7 +10511,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T10:05:30.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 32,
       "reposts": 0,
@@ -10433,128 +10519,24 @@
     }
   },
   {
-    "id": "2046491397424111659",
-    "slug": "创作一幅超逼真的-3d-插画-描绘一个略微倾斜的-twitter-x-个人资料页面-背景为简洁的灰色-保留原有的卡通头像-界面必须与真实的-x-2046491397424111659",
-    "title": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X...",
+    "id": "2047192228758692036",
+    "slug": "360-equirectangular-panorama-image-2047192228758692036",
+    "title": "360 Equirectangular Panorama Image",
     "category": "Posters",
     "categorySlug": "posters",
-    "prompt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。\n\n个人资料详情：\n\n一位时尚的年轻男子，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征，只是将表情改为自然自信的微笑。他握着撕开的纸片边缘，纸屑四处飞溅，营造出强烈的 3D 突破效果。\n\n柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。\n\n重要提示：\n\n- 请勿更改头像\n\n- 保持 X UI 界面准确\n\n- 保留原有的面部特征\n\n- 角色为男性\n\n- 仅增强笑容\n\n- 确保所有中文文字清晰易读",
-    "excerpt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。 个人资料详情： 一位时尚的年轻男子，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页...",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGaYpIJbIAE8rsz.jpg",
-        "alt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 Twitter/X 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X... 示例图 1",
-        "width": 1086,
-        "height": 1448,
-        "sourceUrl": "https://x.com/GoSailGlobal/status/2046491397424111659"
-      }
-    ],
-    "authorName": "GoSailGlobal",
-    "authorUrl": "https://x.com/GoSailGlobal",
-    "sourceUrl": "https://x.com/GoSailGlobal/status/2046491397424111659",
+    "prompt": "360度 equirectangular （正距円筒図法）画像を2:1で生成\n\nOnline 360° Panorama Viewer VR",
+    "excerpt": "360度 equirectangular （正距円筒図法）画像を2:1で生成 Online 360° Panorama Viewer VR",
+    "images": [],
+    "authorName": "rs_elwood",
+    "authorUrl": "https://x.com/rs_elwood",
+    "sourceUrl": "https://x.com/rs_elwood/status/2047192228758692036",
+    "caseNumber": 60,
     "sources": [
-      "gpt_image2_prompts.json"
+      "README.md",
+      "data/ingested_tweets.json"
     ],
-    "createdAt": "2026-04-21T07:29:05.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 4,
-      "reposts": 0,
-      "views": 664
-    }
-  },
-  {
-    "id": "2046523491940225366",
-    "slug": "玄武门之变的朋友圈-2046523491940225366",
-    "title": "玄武门之变的朋友圈",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "玄武门之变的朋友圈",
-    "excerpt": "玄武门之变的朋友圈",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGa2ROUX0AAadhO.jpg",
-        "alt": "玄武门之变的朋友圈 示例图 1",
-        "width": 1086,
-        "height": 1448,
-        "sourceUrl": "https://x.com/Tz_2022/status/2046523491940225366"
-      }
-    ],
-    "authorName": "Tz_2022",
-    "authorUrl": "https://x.com/Tz_2022",
-    "sourceUrl": "https://x.com/Tz_2022/status/2046523491940225366",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-21T09:36:37.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 4,
-      "reposts": 1,
-      "views": 454
-    }
-  },
-  {
-    "id": "2046536551681954207",
-    "slug": "生成一个抖音直播的截图-里面是一个美女在直播-在卖丝袜和内衣-她的在线人数是99996-热度是18-有个叫小互的大哥-给她刷了一个飞机礼物-2046536551681954207",
-    "title": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
-    "excerpt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGbB4--bAAAfGnL.jpg",
-        "alt": "生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 示例图 1",
-        "width": 853,
-        "height": 1844,
-        "sourceUrl": "https://x.com/xiaohu/status/2046536551681954207"
-      }
-    ],
-    "authorName": "xiaohu",
-    "authorUrl": "https://x.com/xiaohu",
-    "sourceUrl": "https://x.com/xiaohu/status/2046536551681954207",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-21T10:28:31.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 19,
-      "reposts": 1,
-      "views": 2640
-    }
-  },
-  {
-    "id": "2046165776055546341",
-    "slug": "生成一张慈禧的x主页-2046165776055546341",
-    "title": "生成一张慈禧的X主页",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "生成一张慈禧的X主页",
-    "excerpt": "生成一张慈禧的X主页",
-    "images": [
-      {
-        "url": "https://pbs.twimg.com/media/HGVw2JUbQAAG9Bn.jpg",
-        "alt": "生成一张慈禧的X主页 示例图 1",
-        "width": 1086,
-        "height": 1448,
-        "sourceUrl": "https://x.com/Cryptohaifeng_/status/2046165776055546341"
-      }
-    ],
-    "authorName": "Cryptohaifeng_",
-    "authorUrl": "https://x.com/Cryptohaifeng_",
-    "sourceUrl": "https://x.com/Cryptohaifeng_/status/2046165776055546341",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-20T09:55:11.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 4,
-      "reposts": 0,
-      "views": 370
-    }
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {}
   },
   {
     "id": "5716b293388e5c72",
@@ -10571,7 +10553,30 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
+  },
+  {
+    "id": "2046388238982771123",
+    "slug": "在-広告-10-1-1枚-作成-下-2046388238982771123",
+    "title": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
+    "excerpt": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
+    "images": [],
+    "authorName": "Yuupapa_free",
+    "authorUrl": "https://x.com/Yuupapa_free",
+    "sourceUrl": "https://x.com/Yuupapa_free/status/2046388238982771123",
+    "sources": [
+      "gpt_image2_prompts.json"
+    ],
+    "createdAt": "2026-04-21T00:39:10.000Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
+    "metrics": {
+      "likes": 3,
+      "reposts": 1,
+      "views": 489
+    }
   },
   {
     "id": "e419b632cd38ad38",
@@ -10588,7 +10593,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "3d2c9a637875afb5",
@@ -10605,7 +10610,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "05634aaa2b04c696",
@@ -10622,7 +10627,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "380ea0cae11f03e6",
@@ -10639,7 +10644,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2046534215311970694",
@@ -10657,7 +10662,7 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-21T10:19:14.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 17,
       "reposts": 3,
@@ -10679,7 +10684,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-27T13:53:02.458Z"
+    "syncedAt": "2026-04-28T01:40:56.431Z"
   },
   {
     "id": "2046114427972600131",
@@ -10697,34 +10702,11 @@
       "gpt_image2_prompts.json"
     ],
     "createdAt": "2026-04-20T06:31:09.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
+    "syncedAt": "2026-04-28T01:40:56.431Z",
     "metrics": {
       "likes": 2,
       "reposts": 0,
       "views": 1835
-    }
-  },
-  {
-    "id": "2046388238982771123",
-    "slug": "在-広告-10-1-1枚-作成-下-2046388238982771123",
-    "title": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
-    "excerpt": "在りそうでないサービスの広告を10サービズ(1サービス1枚)作成して下さい",
-    "images": [],
-    "authorName": "Yuupapa_free",
-    "authorUrl": "https://x.com/Yuupapa_free",
-    "sourceUrl": "https://x.com/Yuupapa_free/status/2046388238982771123",
-    "sources": [
-      "gpt_image2_prompts.json"
-    ],
-    "createdAt": "2026-04-21T00:39:10.000Z",
-    "syncedAt": "2026-04-27T13:53:02.458Z",
-    "metrics": {
-      "likes": 3,
-      "reposts": 1,
-      "views": 489
     }
   }
 ]

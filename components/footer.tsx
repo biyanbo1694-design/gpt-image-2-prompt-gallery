@@ -9,7 +9,7 @@ export function Footer() {
           <Link
             href="https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="font-medium text-ink"
           >
             EvoLinkAI/awesome-gpt-image-2-prompts
