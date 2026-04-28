@@ -3,14 +3,14 @@
     "slug": "portraits",
     "name": "Portraits",
     "description": "Polished portrait prompts, photoshoots, identity-consistent characters and personal images.",
-    "count": 46,
+    "count": 48,
     "coverImage": "/upstream/images/portrait_case70/output.jpg"
   },
   {
     "slug": "posters",
     "name": "Posters",
     "description": "Editorial, travel, event, brand and cinematic poster prompt ideas.",
-    "count": 127,
+    "count": 133,
     "coverImage": "/upstream/images/poster_case133/output.jpg"
   },
   {
