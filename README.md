@@ -43,4 +43,4 @@ The app is configured for static export through `next build`, so it can be deplo
 
 Production URL:
 
-https://gpt-image-2-prompt-gallery-static.vercel.app
+https://xiaoqi.vercel.app
