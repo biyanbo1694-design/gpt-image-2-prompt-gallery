@@ -8,6 +8,7 @@ import { getCategoryDisplayName } from "@/components/category-display";
 import { CopyPromptButton } from "@/components/copy-prompt-button";
 import { PromptGrid } from "@/components/prompt-grid";
 import { getAllPrompts, getPromptBySlug, getRelatedPrompts } from "@/lib/data";
+import { getPromptTimelineDate } from "@/lib/dates";
 
 type PromptPageProps = {
   params: Promise<{
@@ -40,6 +41,7 @@ export default async function PromptPage({ params }: PromptPageProps) {
 
   const related = getRelatedPrompts(prompt);
   const heroImage = prompt.images[0];
+  const timelineDate = getPromptTimelineDate(prompt);
 
   return (
     <div className="pb-20 pt-24">
@@ -101,9 +103,7 @@ export default async function PromptPage({ params }: PromptPageProps) {
 
               <div className="mt-5 flex flex-wrap gap-3 text-sm text-neutral-500">
                 {prompt.authorName ? <span>Creator: {prompt.authorName}</span> : null}
-                {prompt.createdAt ? (
-                  <span>{new Intl.DateTimeFormat("en-US", { dateStyle: "medium" }).format(new Date(prompt.createdAt))}</span>
-                ) : null}
+                {timelineDate ? <span>{`${timelineDate.label}: ${timelineDate.value}`}</span> : null}
                 <span>{prompt.images.length > 0 ? `${prompt.images.length} images` : "Prompt-only"}</span>
               </div>
 

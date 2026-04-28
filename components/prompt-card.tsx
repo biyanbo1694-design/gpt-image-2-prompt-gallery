@@ -6,10 +6,12 @@ import { motion } from "framer-motion";
 import { ExternalLink, Images } from "lucide-react";
 
 import { getCategoryDisplayName } from "@/components/category-display";
+import { getPromptTimelineDate } from "@/lib/dates";
 import type { PromptItem } from "@/lib/types";
 
 export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; compact?: boolean }) {
   const image = prompt.images[0];
+  const timelineDate = getPromptTimelineDate(prompt);
 
   return (
     <motion.article
@@ -59,9 +61,16 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
 
         <p className="mt-3 line-clamp-3 text-sm leading-6 text-neutral-600">{prompt.excerpt}</p>
 
-        <div className="mt-5 flex items-center justify-between gap-4 text-xs text-neutral-400">
-          <span>{prompt.authorName ?? "Public creator"}</span>
-          <span>{prompt.images.length > 0 ? `${prompt.images.length} images` : "Prompt-only"}</span>
+        <div className="mt-5 space-y-2 text-xs text-neutral-400">
+          <div className="flex items-center justify-between gap-4">
+            <span>{prompt.authorName ?? "Public creator"}</span>
+            <span>{prompt.images.length > 0 ? `${prompt.images.length} images` : "Prompt-only"}</span>
+          </div>
+          {timelineDate ? (
+            <p className="text-neutral-500">
+              {timelineDate.label} {timelineDate.value}
+            </p>
+          ) : null}
         </div>
       </div>
     </motion.article>
