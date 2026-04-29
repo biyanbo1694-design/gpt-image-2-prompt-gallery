@@ -1,13 +1,13 @@
 {
-  "totalPrompts": 329,
+  "totalPrompts": 349,
   "totalCategories": 6,
-  "totalImages": 377,
-  "totalUpstreamImages": 376,
-  "localImageCount": 376,
-  "upstreamFiles": 414,
-  "upstreamBytes": 91786426,
-  "latestCreatedAt": "2026-04-28T10:00:00.000Z",
-  "syncedAt": "2026-04-29T11:56:48.012Z",
+  "totalImages": 386,
+  "totalUpstreamImages": 385,
+  "localImageCount": 385,
+  "upstreamFiles": 428,
+  "upstreamBytes": 91276124,
+  "latestCreatedAt": "2026-04-29T13:20:00.000Z",
+  "syncedAt": "2026-04-29T14:34:11.582Z",
   "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
   "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
 }

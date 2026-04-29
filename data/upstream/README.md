@@ -42,7 +42,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
-- **April 29, 2026:** Added 8 new GPT-Image-2 prompt cases (2 portrait, 6 poster) and synced localized prompt entries for Cases 102 and 103
+- **April 29, 2026:** Added 22 new GPT-Image-2 prompt cases across the review batches (3 e-commerce, 3 ad creative, 4 portrait, 2 character, 9 poster, 1 comparison), synced localized prompt entries for Cases 102 and 103, and incorporated the broader valid keep-set pass
 - **April 26, 2026:** Added 9 new GPT-Image-2 prompt cases (1 character, 7 poster, 1 ui)
 - **April 25, 2026:** Added 81 new GPT-Image-2 prompt cases (2 character, 20 portrait, 42 poster, 17 ui)
 - **April 24, 2026:** Added 19 new GPT-Image-2 prompt cases (6 comparison, 6 poster, 7 ui)
@@ -60,54 +60,60 @@ If you find this useful, consider giving it a star. ⭐
 
 ## 📑 Menu
 
-- [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
-- [📑 Menu](#-menu)
+- [🍌 Introduction](#introduction)
+- [📰 News](#news)
+- [📑 Menu](#menu)
 - [🛒 E-commerce Cases](#e-commerce-cases)
-  - [Case 113: E-commerce Main Image - Luxury Amber Perfume Ad (by @Polanco_IA)](#case-113-e-commerce-main-image-luxury-amber-perfume-ad-by-polanco_ia)
-  - [Case 114: E-commerce Main Image - Skincare Product Studio Shot (by @Strength04_X)](#case-114-e-commerce-main-image-skincare-product-studio-shot-by-strength04_x)
+  - [Case 113: E-commerce Main Image - Luxury Amber Perfume Ad (by @Polanco_IA)](#case-113-e-commerce-main-image-luxury-amber-perfume-ad-by-polancoia)
+  - [Case 114: E-commerce Main Image - Skincare Product Studio Shot (by @Strength04_X)](#case-114-e-commerce-main-image-skincare-product-studio-shot-by-strength04x)
   - [Case 115: E-commerce Main Image - Tropical Citrus Soda Ad Poster (by @edimakorfr)](#case-115-e-commerce-main-image-tropical-citrus-soda-ad-poster-by-edimakorfr)
   - [Case 116: E-commerce Main Image - Industrial Design Presentation Sheet (by @ShamsAmin56)](#case-116-e-commerce-main-image-industrial-design-presentation-sheet-by-shamsamin56)
   - [Case 117: E-commerce Main Image - Luxury Fur-Lined Loafer Lifestyle Photo (by @dynamicwangs)](#case-117-e-commerce-main-image-luxury-fur-lined-loafer-lifestyle-photo-by-dynamicwangs)
   - [Case 118: E-commerce Main Image - Luxury Perfume Ad on Marble Vanity (by @MiguelMaestroIA)](#case-118-e-commerce-main-image-luxury-perfume-ad-on-marble-vanity-by-miguelmaestroia)
-  - [Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X)](#case-151-e-commerce-main-image-miniature-diorama-skincare-advertisement-by-strength04_x)
+  - [Case 151: E-commerce Main Image - Miniature Diorama Skincare Advertisement (by @Strength04_X)](#case-151-e-commerce-main-image-miniature-diorama-skincare-advertisement-by-strength04x)
   - [Case 152: E-commerce Main Image - Traditional Chinese Art and Porcelain Vases (by @songguoxiansen)](#case-152-e-commerce-main-image-traditional-chinese-art-and-porcelain-vases-by-songguoxiansen)
   - [Case 153: E-commerce Main Image - Premium Gaming Motherboard Studio Shot (by @rojassartorio)](#case-153-e-commerce-main-image-premium-gaming-motherboard-studio-shot-by-rojassartorio)
   - [Case 154: E-commerce Main Image - Premium Grain Powder Ad Board (by @WooGabriel76263)](#case-154-e-commerce-main-image-premium-grain-powder-ad-board-by-woogabriel76263)
   - [Case 155: E-commerce Main Image - Earbuds E-commerce Infographic (by @SPEEDAI07)](#case-155-e-commerce-main-image-earbuds-e-commerce-infographic-by-speedai07)
   - [Case 156: E-commerce Main Image - Sustainable T-Shirt Plantable Tag Ad (by @Diplomeme)](#case-156-e-commerce-main-image-sustainable-t-shirt-plantable-tag-ad-by-diplomeme)
   - [Case 157: E-commerce Main Image - Elegant Cosmetic Poster Prompt (by @Adam38363368936)](#case-157-e-commerce-main-image-elegant-cosmetic-poster-prompt-by-adam38363368936)
-  - [Case 158: E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH (by @Strength04_X)](#case-158-e-commerce-main-image-minimalist-product-ad-pure-crunch-by-strength04_x)
+  - [Case 158: E-commerce Main Image - Minimalist Product Ad: PURE CRUNCH (by @Strength04_X)](#case-158-e-commerce-main-image-minimalist-product-ad-pure-crunch-by-strength04x)
   - [Case 159: E-commerce Main Image - Pastel Blue Crocs Fashion Ad (by @SPEEDAI07)](#case-159-e-commerce-main-image-pastel-blue-crocs-fashion-ad-by-speedai07)
   - [Case 160: E-commerce Main Image - 9-Panel Product TVC Storyboard (by @Magncsans)](#case-160-e-commerce-main-image-9-panel-product-tvc-storyboard-by-magncsans)
   - [Case 89: E-commerce Live Stream UI Mockup (by @sjbbxhz)](#case-89-e-commerce-live-stream-ui-mockup-by-sjbbxhz)
+  - [Case 161: Premium product studio shot template (by @PrometheanAIX)](#case-161-premium-product-studio-shot-template-by-prometheanaix)
+  - [Case 162: Premium food photography template (by @PrometheanAIX)](#case-162-premium-food-photography-template-by-prometheanaix)
+  - [Case 163: Burger hero image plus 9-cell ad storyboard (by @Gdgtify)](#case-163-burger-hero-image-plus-9-cell-ad-storyboard-by-gdgtify)
 - [📣 Ad Creative Cases](#ad-creative-cases)
-  - [Case 90: 4-Panel Japanese Digital Ad Banner Grid (by @makaneko_AI)](#case-90-4-panel-japanese-digital-ad-banner-grid-by-makaneko_ai)
-  - [Case 112: Anime Character Brand Identity & Merch Board (by @chi_vc_)](#case-112-anime-character-brand-identity-merch-board-by-chi_vc_)
+  - [Case 90: 4-Panel Japanese Digital Ad Banner Grid (by @makaneko_AI)](#case-90-4-panel-japanese-digital-ad-banner-grid-by-makanekoai)
+  - [Case 112: Anime Character Brand Identity & Merch Board (by @chi_vc_)](#case-112-anime-character-brand-identity-merch-board-by-chivc)
   - [Case 108: Dark Mode Marketing Case Study UI (by @IndieDevHailey)](#case-108-dark-mode-marketing-case-study-ui-by-indiedevhailey)
-  - [Case 107: 18-Panel Mascot Brand Identity Document (by @Colin_Leeee)](#case-107-18-panel-mascot-brand-identity-document-by-colin_leeee)
-  - [Case 166: Japanese Chinese Food Delivery Flyer (by @xc5_)](#case-166-japanese-chinese-food-delivery-flyer-by-xc5_)
-  - [Case 167: Pastel Jellyfish Room Goods Poster (by @Ayu_AI_0912)](#case-167-pastel-jellyfish-room-goods-poster-by-ayu_ai_0912)
+  - [Case 107: 18-Panel Mascot Brand Identity Document (by @Colin_Leeee)](#case-107-18-panel-mascot-brand-identity-document-by-colinleeee)
+  - [Case 166: Japanese Chinese Food Delivery Flyer (by @xc5_)](#case-166-japanese-chinese-food-delivery-flyer-by-xc5)
+  - [Case 167: Pastel Jellyfish Room Goods Poster (by @Ayu_AI_0912)](#case-167-pastel-jellyfish-room-goods-poster-by-ayuai0912)
   - [Case 143: Magical Seed Packet Diorama (by @AllaAisling)](#case-143-magical-seed-packet-diorama-by-allaaisling)
   - [Case 144: Luxury Chronograph Watch Ad (by @AlwaveNazca)](#case-144-luxury-chronograph-watch-ad-by-alwavenazca)
   - [Case 145: Neon Nike Lumina Ad Poster (by @AlwaveNazca)](#case-145-neon-nike-lumina-ad-poster-by-alwavenazca)
   - [Case 146: Streetwear Sneaker Poster Ad (by @AlwaveNazca)](#case-146-streetwear-sneaker-poster-ad-by-alwavenazca)
-  - [Case 147: Editorial Osaka Six Sweatshirt Ad (by @_LaurentB)](#case-147-editorial-osaka-six-sweatshirt-ad-by-_laurentb)
+  - [Case 147: Editorial Osaka Six Sweatshirt Ad (by @_LaurentB)](#case-147-editorial-osaka-six-sweatshirt-ad-by-laurentb)
   - [Case 148: Editorial Perfume Shot on Moss (by @Salmaaboukarr)](#case-148-editorial-perfume-shot-on-moss-by-salmaaboukarr)
   - [Case 149: Editorial Perfume Bottle in Golden Fur (by @Salmaaboukarr)](#case-149-editorial-perfume-bottle-in-golden-fur-by-salmaaboukarr)
   - [Case 150: Luxury Miniature Dubai City Model (by @silentempiredev)](#case-150-luxury-miniature-dubai-city-model-by-silentempiredev)
-  - [Case 131: Parody Luxury Product Advertisement (by @tonysimons_)](#case-131-parody-luxury-product-advertisement-by-tonysimons_)
+  - [Case 131: Parody Luxury Product Advertisement (by @tonysimons_)](#case-131-parody-luxury-product-advertisement-by-tonysimons)
   - [Case 109: VR Headset Exploded View Poster (by @wory37303852)](#case-109-vr-headset-exploded-view-poster-by-wory37303852)
+  - [Case 168: Luxury poster for fictional AI ad printer (by @nijisora_yuma)](#case-168-luxury-poster-for-fictional-ai-ad-printer-by-nijisorayuma)
+  - [Case 169: Luxury chocolate campaign system (by @SPEEDAI07)](#case-169-luxury-chocolate-campaign-system-by-speedai07)
+  - [Case 170: Urban fruit juice ad poster (by @AIwithSarah_)](#case-170-urban-fruit-juice-ad-poster-by-aiwithsarah)
 - [🍌 Portrait & Photography Cases](#portrait-photography-cases)
   - [Case 1: Convenience Store Neon Portrait (by @BubbleBrain)](#case-1-convenience-store-neon-portrait-by-bubblebrain)
-  - [Case 2: Cinematic Minimal Portrait (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iam_miharbi)
+  - [Case 2: Cinematic Minimal Portrait (by @iam_miharbi)](#case-2-cinematic-minimal-portrait-by-iammiharbi)
   - [Case 3: Japanese Onsen Ryokan Portrait (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
   - [Case 4: 35mm Flash Editorial Portrait (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
   - [Case 5: Mirror Selfie Bedroom Portrait (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
   - [Case 6: Soft Airy 35mm Portrait (by @BubbleBrain)](#case-6-soft-airy-35mm-portrait-by-bubblebrain)
   - [Case 7: Luxury Glam Beauty Portrait (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
   - [Case 8: 9:16 Cosplayer Portrait Screenshot (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
-  - [Case 9: Urban Turn-Back Street Portrait (by @Tz_2022)](#case-9-urban-turn-back-street-portrait-by-tz_2022)
+  - [Case 9: Urban Turn-Back Street Portrait (by @Tz_2022)](#case-9-urban-turn-back-street-portrait-by-tz2022)
   - [Case 10: Sam Altman Skatepark Snapshot (by @Malek1173989)](#case-10-sam-altman-skatepark-snapshot-by-malek1173989)
   - [Case 11: Korean Idol 3x3 Grid Portrait (by @BubbleBrain)](#case-11-korean-idol-3x3-grid-portrait-by-bubblebrain)
   - [Case 12: CCD Camera Flash Korean Idol (by @BubbleBrain)](#case-12-ccd-camera-flash-korean-idol-by-bubblebrain)
@@ -120,7 +126,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 19: Create the most realistic front page design of a vintage newspaper featuring ... (by @Naiknelofar788)](#case-19-create-the-most-realistic-front-page-design-of-a-vintage-newspaper-featuring-by-naiknelofar788)
   - [Case 20: Magazine Travel Guide Feature Article (by @andis13)](#case-20-magazine-travel-guide-feature-article-by-andis13)
   - [Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. brea... (by @pavellaslov)](#case-21-analyze-this-photo-and-give-me-a-detailed-json-prompt-that-recreates-it-brea-by-pavellaslov)
-  - [Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-... (by @ZaraIrahh)](#case-22-calming-green-tea-film-kit-displayed-frontally-the-open-box-shows-soft-sage-by-zarairahh)
+  - [Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-... (by @ZaraIrahh)](#case-22-calming-green-tea-film-kit-displayed-frontally-the-open-box-shows-soft-sage--by-zarairahh)
   - [Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream... (by @ZaraIrahh)](#case-23-ultra-realistic-product-photography-of-a-rich-strawberry-soft-serve-ice-cream-by-zarairahh)
   - [Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ... (by @ZaraIrahh)](#case-24-a-hyper-realistic-uiux-mockup-displayed-on-a-slim-modern-laptop-placed-on-a-by-zarairahh)
   - [Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma... (by @harboriis)](#case-25-ultra-realistic-cinematic-dslr-photograph-of-an-18-year-old-handsome-young-ma-by-harboriis)
@@ -128,72 +134,74 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 27: Musician Leaving Bodega Night Cinematic Portrait (by @commanderdgr8)](#case-27-musician-leaving-bodega-night-cinematic-portrait-by-commanderdgr8)
   - [Case 28: Old Delhi Sweet Shop Storefront Documentary Photo (by @commanderdgr8)](#case-28-old-delhi-sweet-shop-storefront-documentary-photo-by-commanderdgr8)
   - [Case 29: Cyberpunk Sci-Fi Side Profile Portrait (by @iamsofiaijaz)](#case-29-cyberpunk-sci-fi-side-profile-portrait-by-iamsofiaijaz)
-  - [Case 30: Realistic Candid Bedroom Recording Portrait (by @ChillaiKalan__)](#case-30-realistic-candid-bedroom-recording-portrait-by-chillaikalan__)
+  - [Case 30: Realistic Candid Bedroom Recording Portrait (by @ChillaiKalan__)](#case-30-realistic-candid-bedroom-recording-portrait-by-chillaikalan)
   - [Case 31: Toddler Crayon Scribble Art Style Portrait (by @akakageAI)](#case-31-toddler-crayon-scribble-art-style-portrait-by-akakageai)
   - [Case 82: Restored Vintage Mother and Child Portrait (by @gdb)](#case-82-restored-vintage-mother-and-child-portrait-by-gdb)
   - [Case 83: Damaged Vintage Mother and Child Photo (by @gdb)](#case-83-damaged-vintage-mother-and-child-photo-by-gdb)
   - [Case 84: Ink-Etched Family Portrait (by @gdb)](#case-84-ink-etched-family-portrait-by-gdb)
   - [Case 85: Vintage Engraved Hoodie Portrait (by @gdb)](#case-85-vintage-engraved-hoodie-portrait-by-gdb)
   - [Case 86: Dreamy Backlit Editorial Portrait (by @ToroJushiAi)](#case-86-dreamy-backlit-editorial-portrait-by-torojushiai)
-  - [Case 87: 3D Cartoon Character Render (by @Inshrah_ali_)](#case-87-3d-cartoon-character-render-by-inshrah_ali_)
+  - [Case 87: 3D Cartoon Character Render (by @Inshrah_ali_)](#case-87-3d-cartoon-character-render-by-inshrahali)
   - [Case 88: Young Woman in Sequin Dress on Stairs (by @XSydneyFan)](#case-88-young-woman-in-sequin-dress-on-stairs-by-xsydneyfan)
-  - [Case 89: Luxury Studio Outfit Transformation (by @Abdullah__Ai7)](#case-89-luxury-studio-outfit-transformation-by-abdullah__ai7)
+  - [Case 89: Luxury Studio Outfit Transformation (by @Abdullah__Ai7)](#case-89-luxury-studio-outfit-transformation-by-abdullahai7)
   - [Case 90: Blonde Maid in Warm Cafe (by @yume00112211)](#case-90-blonde-maid-in-warm-cafe-by-yume00112211)
-  - [Case 91: Dreamy Oriental female portrait prompt (by @liyue_ai)](#case-91-dreamy-oriental-female-portrait-prompt-by-liyue_ai)
+  - [Case 91: Dreamy Oriental female portrait prompt (by @liyue_ai)](#case-91-dreamy-oriental-female-portrait-prompt-by-liyueai)
   - [Case 92: Monochrome Hermes-Inspired Avatar (by @jiajia232016)](#case-92-monochrome-hermes-inspired-avatar-by-jiajia232016)
   - [Case 93: Cyber Crystal Anime Girl Portrait (by @libearal)](#case-93-cyber-crystal-anime-girl-portrait-by-libearal)
   - [Case 94: Pastel Lavender Anime Girl Portrait (by @libearal)](#case-94-pastel-lavender-anime-girl-portrait-by-libearal)
   - [Case 95: Lavender AI Girl in Memory Space (by @libearal)](#case-95-lavender-ai-girl-in-memory-space-by-libearal)
   - [Case 96: Pastel AI Assistant Anime Portrait (by @libearal)](#case-96-pastel-ai-assistant-anime-portrait-by-libearal)
   - [Case 97: Dark Gatorade-Style Portrait (by @jeremydevz)](#case-97-dark-gatorade-style-portrait-by-jeremydevz)
-  - [Case 98: Portrait of a Gentle Woman with Glasses (by @megane_onesan)](#case-98-portrait-of-a-gentle-woman-with-glasses-by-megane_onesan)
+  - [Case 98: Portrait of a Gentle Woman with Glasses (by @megane_onesan)](#case-98-portrait-of-a-gentle-woman-with-glasses-by-meganeonesan)
   - [Case 99: Dreamy Underwater Woman With Translucent Fish (by @kotobukigraphic)](#case-99-dreamy-underwater-woman-with-translucent-fish-by-kotobukigraphic)
-  - [Case 100: Japanese Classroom Long Hair Snapshot (by @Hair_Hair55)](#case-100-japanese-classroom-long-hair-snapshot-by-hair_hair55)
+  - [Case 100: Japanese Classroom Long Hair Snapshot (by @Hair_Hair55)](#case-100-japanese-classroom-long-hair-snapshot-by-hairhair55)
   - [Case 101: Cozy Catgirl Pajama Night Portrait (by @yume00112211)](#case-101-cozy-catgirl-pajama-night-portrait-by-yume00112211)
   - [Case 102: Collectible Figure Workspace Photo (by @Shinning1010)](#case-102-collectible-figure-workspace-photo-by-shinning1010)
   - [Case 103: Rainy Bus Stop Portrait (by @harboriis)](#case-103-rainy-bus-stop-portrait-by-harboriis)
-- [🖼️ Poster & Illustration Cases](#poster-illustration-cases)
+  - [Case 104: CCD flash beauty portrait template (by @AIwithAliya)](#case-104-ccd-flash-beauty-portrait-template-by-aiwithaliya)
+  - [Case 105: Black-and-red streetwear campaign portrait (by @harboriis)](#case-105-black-and-red-streetwear-campaign-portrait-by-harboriis)
+- [🎨 Poster & Illustration Cases](#poster-illustration-cases)
   - [Case 1: Boston Spring 2026 City Poster (by @BubbleBrain)](#case-1-boston-spring-2026-city-poster-by-bubblebrain)
   - [Case 2: Vintage Amalfi Travel Poster (by @WolfRiccardo)](#case-2-vintage-amalfi-travel-poster-by-wolfriccardo)
   - [Case 3: Chengdu Food Map Illustration (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
-  - [Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
-  - [Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
+  - [Case 4: Chinese Minimalist S-Shaped Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyueai)
+  - [Case 5: 2026 Spring Guangzhou City Poster (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyueai)
   - [Case 7: Doodle Sketch AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
   - [Case 8: Futuristic Mandala Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
   - [Case 9: Super Famicom Poster Style (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
   - [Case 10: Browser Game Ad Creative Poster (by @llllegend0620)](#case-10-browser-game-ad-creative-poster-by-llllegend0620)
-  - [Case 11: Surreal Koi Nebula Illustration (by @liyue_ai)](#case-11-surreal-koi-nebula-illustration-by-liyue_ai)
-  - [Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai)](#case-12-ink-curve-guangzhou-aesthetics-poster-by-liyue_ai)
-  - [Case 13: Guangdong Super League Invitation Poster (by @liyue_ai)](#case-13-guangdong-super-league-invitation-poster-by-liyue_ai)
+  - [Case 11: Surreal Koi Nebula Illustration (by @liyue_ai)](#case-11-surreal-koi-nebula-illustration-by-liyueai)
+  - [Case 12: Ink-Curve Guangzhou Aesthetics Poster (by @liyue_ai)](#case-12-ink-curve-guangzhou-aesthetics-poster-by-liyueai)
+  - [Case 13: Guangdong Super League Invitation Poster (by @liyue_ai)](#case-13-guangdong-super-league-invitation-poster-by-liyueai)
   - [Case 14: Spring 2026 Guangzhou Promo Poster (by @grok)](#case-14-spring-2026-guangzhou-promo-poster-by-grok)
   - [Case 15: Epic Silhouette World Poster (by @Ghhhh3owi)](#case-15-epic-silhouette-world-poster-by-ghhhh3owi)
   - [Case 24: Spring Guangzhou City Poster (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
   - [Case 32: Science Encyclopedia Vertical Poster (by @pfanis)](#case-32-science-encyclopedia-vertical-poster-by-pfanis)
   - [Case 33: Journey to the West Chinese Comic (by @overseas58)](#case-33-journey-to-the-west-chinese-comic-by-overseas58)
   - [Case 34: Character Relationship Map Poster (by @MrLarus)](#case-34-character-relationship-map-poster-by-mrlarus)
-  - [Case 35: New Chinese Ink Landscape Poster (by @liyue_ai)](#case-35-new-chinese-ink-landscape-poster-by-liyue_ai)
-  - [Case 36: AI Builder Doodle Sketch (by @opc_8838)](#case-36-ai-builder-doodle-sketch-by-opc_8838)
+  - [Case 35: New Chinese Ink Landscape Poster (by @liyue_ai)](#case-35-new-chinese-ink-landscape-poster-by-liyueai)
+  - [Case 36: AI Builder Doodle Sketch (by @opc_8838)](#case-36-ai-builder-doodle-sketch-by-opc8838)
   - [Case 38: Character Visual Vertical Poster (by @tebasaki3D)](#case-38-character-visual-vertical-poster-by-tebasaki3d)
   - [Case 39: Science Encyclopedia Infographic (by @MrLarus)](#case-39-science-encyclopedia-infographic-by-mrlarus)
   - [Case 40: Fictional Anime Movie Poster (by @seiiiiiiiiiiru)](#case-40-fictional-anime-movie-poster-by-seiiiiiiiiiiru)
-  - [Case 41: Product Ad Redesign (by @genel_ai)](#case-41-product-ad-redesign-by-genel_ai)
-  - [Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai)](#case-42-dark-fantasy-guangzhou-city-poster-by-liyue_ai)
+  - [Case 41: Product Ad Redesign (by @genel_ai)](#case-41-product-ad-redesign-by-genelai)
+  - [Case 42: Dark-Fantasy Guangzhou City Poster (by @liyue_ai)](#case-42-dark-fantasy-guangzhou-city-poster-by-liyueai)
   - [Case 45: Science Fiction Movie Poster (by @underwoodxie96)](#case-45-science-fiction-movie-poster-by-underwoodxie96)
-  - [Case 46: Refreshing Summer Udon Ad (by @genel_ai)](#case-46-refreshing-summer-udon-ad-by-genel_ai)
+  - [Case 46: Refreshing Summer Udon Ad (by @genel_ai)](#case-46-refreshing-summer-udon-ad-by-genelai)
   - [Case 47: Handwritten Medical Prescription Sheet (by @MrLarus)](#case-47-handwritten-medical-prescription-sheet-by-mrlarus)
   - [Case 48: Silicon Valley 2026 Promo Poster (by @carsonyungos)](#case-48-silicon-valley-2026-promo-poster-by-carsonyungos)
-  - [Case 49: Japanese Supermarket Sale Flyer (by @weel_corp)](#case-49-japanese-supermarket-sale-flyer-by-weel_corp)
+  - [Case 49: Japanese Supermarket Sale Flyer (by @weel_corp)](#case-49-japanese-supermarket-sale-flyer-by-weelcorp)
   - [Case 50: Dark Epic Concept Poster (by @A9Quant)](#case-50-dark-epic-concept-poster-by-a9quant)
-  - [Case 51: Pilates Studio Ad Poster (by @ck_igarashi)](#case-51-pilates-studio-ad-poster-by-ck_igarashi)
+  - [Case 51: Pilates Studio Ad Poster (by @ck_igarashi)](#case-51-pilates-studio-ad-poster-by-ckigarashi)
   - [Case 52: 6-Block Fashion Campaign Prompt Formula (by @anacoding)](#case-52-6-block-fashion-campaign-prompt-formula-by-anacoding)
-  - [Case 53: Sony A7 Exploded View Breakdown Prompt (by @iaPulse_)](#case-53-sony-a7-exploded-view-breakdown-prompt-by-iapulse_)
-  - [Case 54: 1900 Istiklal Street Panorama Prompt (by @ai_gezgini)](#case-54-1900-istiklal-street-panorama-prompt-by-ai_gezgini)
+  - [Case 53: Sony A7 Exploded View Breakdown Prompt (by @iaPulse_)](#case-53-sony-a7-exploded-view-breakdown-prompt-by-iapulse)
+  - [Case 54: 1900 Istiklal Street Panorama Prompt (by @ai_gezgini)](#case-54-1900-istiklal-street-panorama-prompt-by-aigezgini)
   - [Case 57: Theme Science Encyclopedia Card (by @alanlovelq)](#case-57-theme-science-encyclopedia-card-by-alanlovelq)
-  - [Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurt_rousey466)
+  - [Case 55: Chili Pork Cooking Flowchart (by @Kurt_Rousey466)](#case-55-chili-pork-cooking-flowchart-by-kurtrousey466)
   - [Case 56: Cinematic Infographic Concept Poster (by @A9Quant)](#case-56-cinematic-infographic-concept-poster-by-a9quant)
-  - [Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_)](#case-58-a-full-body-outdoor-shot-captures-a-young-caucasian-woman-possibly-in-her-la-by-aiwithsarah_)
-  - [Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695)](#case-59-a-professional-product-photography-shot-of-a-cold-sparkling-water-by-meng_dagg695)
-  - [Case 60: 360 Equirectangular Panorama Image (by @rs_elwood)](#case-60-360-equirectangular-panorama-image-by-rs_elwood)
+  - [Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her la... (by @AIwithSarah_)](#case-58-a-full-body-outdoor-shot-captures-a-young-caucasian-woman-possibly-in-her-la-by-aiwithsarah)
+  - [Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695)](#case-59-a-professional-product-photography-shot-of-a-cold-sparkling-water-by-mengdagg695)
+  - [Case 60: 360 Equirectangular Panorama Image (by @rs_elwood)](#case-60-360-equirectangular-panorama-image-by-rselwood)
   - [Case 61: Soft poetic children's book illustration with watercolor and gouache textures... (by @dotey)](#case-61-soft-poetic-childrens-book-illustration-with-watercolor-and-gouache-textures-by-dotey)
   - [Case 62: Aspect Ratio: 9:16 Vertical (by @GeekCatX)](#case-62-aspect-ratio-916-vertical-by-geekcatx)
   - [Case 63: Hangzhou West Lake Travel Poster (by @BNBOKBt5)](#case-63-hangzhou-west-lake-travel-poster-by-bnbokbt5)
@@ -203,24 +211,24 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 67: Royal Tramp Character Poster (by @caiziboshi)](#case-67-royal-tramp-character-poster-by-caiziboshi)
   - [Case 68: generate an image of a racing car poster with its spec and pricing (by @verysmallwoods)](#case-68-generate-an-image-of-a-racing-car-poster-with-its-spec-and-pricing-by-verysmallwoods)
   - [Case 69: Charlie Chaplin Product Poster Redesign (by @chenenpei)](#case-69-charlie-chaplin-product-poster-redesign-by-chenenpei)
-  - [Case 70: Luxury Sportswear Basketball Athlete Campaign Poster (by @Shorelyn_)](#case-70-luxury-sportswear-basketball-athlete-campaign-poster-by-shorelyn_)
+  - [Case 70: Luxury Sportswear Basketball Athlete Campaign Poster (by @Shorelyn_)](#case-70-luxury-sportswear-basketball-athlete-campaign-poster-by-shorelyn)
   - [Case 71: Streetwear Fashion Campaign Asian Apparel Poster (by @harboriis)](#case-71-streetwear-fashion-campaign-asian-apparel-poster-by-harboriis)
   - [Case 72: Epic Career Moments Cinematic Poster Template (by @Goodmanprotocol)](#case-72-epic-career-moments-cinematic-poster-template-by-goodmanprotocol)
   - [Case 73: Avant-Garde Basketball Sculpture Sports Fashion Ad (by @AIwithkhan)](#case-73-avant-garde-basketball-sculpture-sports-fashion-ad-by-aiwithkhan)
   - [Case 74: Avant-Garde Tennis Racket Sculpture Sports Fashion Ad (by @AIwithSynthia)](#case-74-avant-garde-tennis-racket-sculpture-sports-fashion-ad-by-aiwithsynthia)
-  - [Case 75: Surrealist Liquor Brand High Fashion Poster (by @hmontilla_)](#case-75-surrealist-liquor-brand-high-fashion-poster-by-hmontilla_)
+  - [Case 75: Surrealist Liquor Brand High Fashion Poster (by @hmontilla_)](#case-75-surrealist-liquor-brand-high-fashion-poster-by-hmontilla)
   - [Case 76: Premium Food Recipe Poster Elegant Layout (by @Preda2005)](#case-76-premium-food-recipe-poster-elegant-layout-by-preda2005)
   - [Case 77: Luxury Fashion Magazine Cover Black and White (by @iamrealsnow)](#case-77-luxury-fashion-magazine-cover-black-and-white-by-iamrealsnow)
   - [Case 78: Surrealist Rolex Luxury Watch Fashion Poster (by @Sheldon056)](#case-78-surrealist-rolex-luxury-watch-fashion-poster-by-sheldon056)
   - [Case 79: Peacock Botanical Vintage Symmetrical Art Print (by @dotey)](#case-79-peacock-botanical-vintage-symmetrical-art-print-by-dotey)
   - [Case 80: SPLASH Fashion Brand Hyper-Realistic Campaign Poster (by @miratechtool)](#case-80-splash-fashion-brand-hyper-realistic-campaign-poster-by-miratechtool)
   - [Case 81: Avant-Garde Guitar Sculpture Fashion Advertisement (by @QamarRiaz1)](#case-81-avant-garde-guitar-sculpture-fashion-advertisement-by-qamarriaz1)
-  - [Case 110: Illustrated City Food Map (by @mm_zzm44854)](#case-110-illustrated-city-food-map-by-mm_zzm44854)
+  - [Case 110: Illustrated City Food Map (by @mm_zzm44854)](#case-110-illustrated-city-food-map-by-mmzzm44854)
   - [Case 111: 3D Stone Staircase Evolution Infographic (by @GeekCatX)](#case-111-3d-stone-staircase-evolution-infographic-by-geekcatx)
-  - [Case 119: Biomimetic Skyray Aircraft Poster (by @_simonsmith)](#case-119-biomimetic-skyray-aircraft-poster-by-_simonsmith)
+  - [Case 119: Biomimetic Skyray Aircraft Poster (by @_simonsmith)](#case-119-biomimetic-skyray-aircraft-poster-by-simonsmith)
   - [Case 120: Taoist Three Souls Seven Po Poster (by @leyu37829)](#case-120-taoist-three-souls-seven-po-poster-by-leyu37829)
-  - [Case 121: Vintage Claude Shannon Infographic Poster (by @mob_17)](#case-121-vintage-claude-shannon-infographic-poster-by-mob_17)
-  - [Case 122: Ink-Wash Tribute Poster for Chen Uen (by @mob_17)](#case-122-ink-wash-tribute-poster-for-chen-uen-by-mob_17)
+  - [Case 121: Vintage Claude Shannon Infographic Poster (by @mob_17)](#case-121-vintage-claude-shannon-infographic-poster-by-mob17)
+  - [Case 122: Ink-Wash Tribute Poster for Chen Uen (by @mob_17)](#case-122-ink-wash-tribute-poster-for-chen-uen-by-mob17)
   - [Case 123: Water Signs Zodiac Character Poster (by @komorimedia)](#case-123-water-signs-zodiac-character-poster-by-komorimedia)
   - [Case 124: Earth Signs Zodiac Character Poster (by @komorimedia)](#case-124-earth-signs-zodiac-character-poster-by-komorimedia)
   - [Case 125: Fire Sign Zodiac Character Poster (by @komorimedia)](#case-125-fire-sign-zodiac-character-poster-by-komorimedia)
@@ -228,7 +236,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 127: Ethnographic Plate for Tibetan Ceremonial Hat (by @degewa)](#case-127-ethnographic-plate-for-tibetan-ceremonial-hat-by-degewa)
   - [Case 128: Vintage PRS Guitar Lineage Poster (by @GlennHasABeard)](#case-128-vintage-prs-guitar-lineage-poster-by-glennhasabeard)
   - [Case 129: Alishan One-Day Travel Poster (by @TWnese)](#case-129-alishan-one-day-travel-poster-by-twnese)
-  - [Case 130: Dance Movement Reference Sheet (by @Ciri_ai)](#case-130-dance-movement-reference-sheet-by-ciri_ai)
+  - [Case 130: Dance Movement Reference Sheet (by @Ciri_ai)](#case-130-dance-movement-reference-sheet-by-ciriai)
   - [Case 132: Anime Museum Background Conversion (by @Dakiny)](#case-132-anime-museum-background-conversion-by-dakiny)
   - [Case 133: 16-Pose Dance Combat Reference Sheet (by @ExquisitMe)](#case-133-16-pose-dance-combat-reference-sheet-by-exquisitme)
   - [Case 134: 16-Panel Dance Pose Reference Sheet (by @ExquisitMe)](#case-134-16-panel-dance-pose-reference-sheet-by-exquisitme)
@@ -236,33 +244,38 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 136: 16-Pose Dance Reference Sheet (by @ExquisitMe)](#case-136-16-pose-dance-reference-sheet-by-exquisitme)
   - [Case 137: Gas Giant Descent Storyboard (by @xRahultripathi)](#case-137-gas-giant-descent-storyboard-by-xrahultripathi)
   - [Case 138: Surreal Baroque Painting Reality Fracture (by @JohnnyWang8802)](#case-138-surreal-baroque-painting-reality-fracture-by-johnnywang8802)
-  - [Case 139: Urban Alley Mural Artist (by @Professor_134)](#case-139-urban-alley-mural-artist-by-professor_134)
+  - [Case 139: Urban Alley Mural Artist (by @Professor_134)](#case-139-urban-alley-mural-artist-by-professor134)
   - [Case 140: RPG Map to Anime Event Scene (by @ArtwlDesign)](#case-140-rpg-map-to-anime-event-scene-by-artwldesign)
   - [Case 141: Soft Pastel Anime Girl Full Body (by @hoshi122221)](#case-141-soft-pastel-anime-girl-full-body-by-hoshi122221)
-  - [Case 142: Urban Fantasy Coexistence Crossing (by @Ray_CROWN0)](#case-142-urban-fantasy-coexistence-crossing-by-ray_crown0)
+  - [Case 142: Urban Fantasy Coexistence Crossing (by @Ray_CROWN0)](#case-142-urban-fantasy-coexistence-crossing-by-raycrown0)
   - [Case 161: Parent-Child Miscommunication Infographic (by @sarinaashapi)](#case-161-parent-child-miscommunication-infographic-by-sarinaashapi)
   - [Case 162: Good Bath Day Editorial Poster (by @Kazuch75240438)](#case-162-good-bath-day-editorial-poster-by-kazuch75240438)
   - [Case 163: Japanese Sci-Fi Suit-Up Process Board (by @yy7482933910896)](#case-163-japanese-sci-fi-suit-up-process-board-by-yy7482933910896)
   - [Case 164: Dreamy Shibuya Bubble Girl (by @terunari)](#case-164-dreamy-shibuya-bubble-girl-by-terunari)
   - [Case 165: Stormy Tropical City With Rooftop Plane (by @Gerry)](#case-165-stormy-tropical-city-with-rooftop-plane-by-gerry)
   - [Case 168: Outdoor Sportswear Grid Campaign (by @SPEEDAI07)](#case-168-outdoor-sportswear-grid-campaign-by-speedai07)
-  - [Case 169: Topographic Letter Satellite Panels (by @madpencil_)](#case-169-topographic-letter-satellite-panels-by-madpencil_)
-  - [Case 170: Iced Coffee Product Infographic (by @Strength04_X)](#case-170-iced-coffee-product-infographic-by-strength04_x)
+  - [Case 169: Topographic Letter Satellite Panels (by @madpencil_)](#case-169-topographic-letter-satellite-panels-by-madpencil)
+  - [Case 170: Iced Coffee Product Infographic (by @Strength04_X)](#case-170-iced-coffee-product-infographic-by-strength04x)
   - [Case 171: Fashion Dress Collection Infographic (by @cellinlab)](#case-171-fashion-dress-collection-infographic-by-cellinlab)
-  - [Case 172: Monochrome Fashion Cover (by @sha_zdiii)](#case-172-monochrome-fashion-cover-by-sha_zdiii)
+  - [Case 172: Monochrome Fashion Cover (by @sha_zdiii)](#case-172-monochrome-fashion-cover-by-shazdiii)
   - [Case 173: Fast Food Character Poster (by @LoovaAI)](#case-173-fast-food-character-poster-by-loovaai)
-- [🎭 Character Design Cases](#character-design-cases)
+  - [Case 174: New York across two centuries cinematic poster (by @Shinning1010)](#case-174-new-york-across-two-centuries-cinematic-poster-by-shinning1010)
+  - [Case 175: Blue Tears cocktail tutorial infographic poster (by @cellinlab)](#case-175-blue-tears-cocktail-tutorial-infographic-poster-by-cellinlab)
+  - [Case 176: ASCII dengue infographic (by @mapasbr)](#case-176-ascii-dengue-infographic-by-mapasbr)
+- [🧍 Character Design Cases](#character-design-cases)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
   - [Case 3: Gal Game Character Introduction Page (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
-  - [Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
-  - [Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will)](#case-7-mecha-girl-sea-city-key-visual-by-old_pgmrs_will)
+  - [Case 5: Official Character Sheet (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshinyaruoai)
+  - [Case 7: Mecha Girl Sea-City Key Visual (by @old_pgmrs_will)](#case-7-mecha-girl-sea-city-key-visual-by-oldpgmrswill)
   - [Case 8: Saint Seiya Gold Saints Card Grid (by @songguoxiansen)](#case-8-saint-seiya-gold-saints-card-grid-by-songguoxiansen)
   - [Case 9: Chaos Notes Hidden Face Character Art (by @loglogrog)](#case-9-chaos-notes-hidden-face-character-art-by-loglogrog)
-  - [Case 10: Anime Martial Arts Battle Illustration (by @Tanemomi_Ver2)](#case-10-anime-martial-arts-battle-illustration-by-tanemomi_ver2)
+  - [Case 10: Anime Martial Arts Battle Illustration (by @Tanemomi_Ver2)](#case-10-anime-martial-arts-battle-illustration-by-tanemomiver2)
   - [Case 11: GTA 6 in Bangalore Flower Market (by @ismajc)](#case-11-gta-6-in-bangalore-flower-market-by-ismajc)
   - [Case 12: GTA 6 Shinjuku Bar Scene (by @ismajc)](#case-12-gta-6-shinjuku-bar-scene-by-ismajc)
   - [Case 13: Eleanor from White Cat Project (by @yume00112211)](#case-13-eleanor-from-white-cat-project-by-yume00112211)
+  - [Case 14: Character key visual poster with silhouette collage (by @SimplyAnnisa)](#case-14-character-key-visual-poster-with-silhouette-collage-by-simplyannisa)
+  - [Case 15: Pixel game concept board from TV drama theme (by @sciencedegens)](#case-15-pixel-game-concept-board-from-tv-drama-theme-by-sciencedegens)
 - [📱 UI & Social Media Mockup Cases](#ui-social-media-mockup-cases)
   - [Case 1: One-Prompt UI Design Generation (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
   - [Case 2: Amateur iPhone Keynote Snapshot (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
@@ -270,60 +283,60 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 4: Song Dynasty Social Media Feed (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
   - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
   - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
-  - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
-  - [Case 9: Style-to-UI Design System (by @stark_nico99)](#case-9-style-to-ui-design-system-by-stark_nico99)
+  - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-skaneotype)
+  - [Case 9: Style-to-UI Design System (by @stark_nico99)](#case-9-style-to-ui-design-system-by-starknico99)
   - [Case 10: Momotaro Explainer Slide (by @yammamon)](#case-10-momotaro-explainer-slide-by-yammamon)
   - [Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
-  - [Case 32: Palm Reading Diagnosis Report (by @agi_aibusi)](#case-32-palm-reading-diagnosis-report-by-agi_aibusi)
+  - [Case 32: Palm Reading Diagnosis Report (by @agi_aibusi)](#case-32-palm-reading-diagnosis-report-by-agiaibusi)
   - [Case 33: Calligraphy Copybook Sheet (by @MrLarus)](#case-33-calligraphy-copybook-sheet-by-mrlarus)
   - [Case 34: Don Quijote Promo Pop Poster (by @loglogrog)](#case-34-don-quijote-promo-pop-poster-by-loglogrog)
-  - [Case 35: Japanese Gacha Game Screen (by @the_wheel_2024)](#case-35-japanese-gacha-game-screen-by-the_wheel_2024)
+  - [Case 35: Japanese Gacha Game Screen (by @the_wheel_2024)](#case-35-japanese-gacha-game-screen-by-thewheel2024)
   - [Case 36: Elon Musk Douyin Livestream Screenshot (by @Shinning1010)](#case-36-elon-musk-douyin-livestream-screenshot-by-shinning1010)
   - [Case 37: Liu Yifei Douyin Livestream Screenshot (by @kylegeeks)](#case-37-liu-yifei-douyin-livestream-screenshot-by-kylegeeks)
   - [Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp)](#case-38-cyberpunk-neon-ui-design-system-by-azlnfvp)
   - [Case 39: Trump and Kim Livestream PK Screenshot (by @alanlovelq)](#case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq)
   - [Case 40: Japanese AI Game Dev Overview Slide Prompt (by @ailovedirector)](#case-40-japanese-ai-game-dev-overview-slide-prompt-by-ailovedirector)
   - [Case 41: based on the generated character help me generate a screenshot of screenshot ... (by @khaiinit)](#case-41-based-on-the-generated-character-help-me-generate-a-screenshot-of-screenshot-by-khaiinit)
-  - [Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject)](#case-42-create-a-landing-page-using-this-image-as-a-reference-for-style-and-color-gra-by-d_studioproject)
+  - [Case 42: Create a landing page using this image as a reference for style and color gra... (by @D_studioproject)](#case-42-create-a-landing-page-using-this-image-as-a-reference-for-style-and-color-gra-by-dstudioproject)
   - [Case 43: Li Jiaqi Lipstick Livestream Background (by @songguoxiansen)](#case-43-li-jiaqi-lipstick-livestream-background-by-songguoxiansen)
-  - [Case 44: Apple Pods Pro 3 Headphone E-Commerce Infographic (by @meng_dagg695)](#case-44-apple-pods-pro-3-headphone-e-commerce-infographic-by-meng_dagg695)
-  - [Case 45: Apple Pods Pro 3 Earbuds E-Commerce Infographic (by @rovvmut_)](#case-45-apple-pods-pro-3-earbuds-e-commerce-infographic-by-rovvmut_)
-  - [Case 46: Beauty Product Commercial Marketing Photograph (by @AIwithSarah_)](#case-46-beauty-product-commercial-marketing-photograph-by-aiwithsarah_)
+  - [Case 44: Apple Pods Pro 3 Headphone E-Commerce Infographic (by @meng_dagg695)](#case-44-apple-pods-pro-3-headphone-e-commerce-infographic-by-mengdagg695)
+  - [Case 45: Apple Pods Pro 3 Earbuds E-Commerce Infographic (by @rovvmut_)](#case-45-apple-pods-pro-3-earbuds-e-commerce-infographic-by-rovvmut)
+  - [Case 46: Beauty Product Commercial Marketing Photograph (by @AIwithSarah_)](#case-46-beauty-product-commercial-marketing-photograph-by-aiwithsarah)
   - [Case 47: AAA Video Game Screenshot Concept Design (by @ChiefMonkeyMike)](#case-47-aaa-video-game-screenshot-concept-design-by-chiefmonkeymike)
-  - [Case 91: Spanish GRWM Morning Beauty Thumbnail (by @S0N_IA_)](#case-91-spanish-grwm-morning-beauty-thumbnail-by-s0n_ia_)
+  - [Case 91: Spanish GRWM Morning Beauty Thumbnail (by @S0N_IA_)](#case-91-spanish-grwm-morning-beauty-thumbnail-by-s0nia)
   - [Case 92: Cinematic City Explosion Chase (by @Gugombly)](#case-92-cinematic-city-explosion-chase-by-gugombly)
   - [Case 93: Anime VTuber Minecraft Stream Thumbnail (by @rerxmsz06)](#case-93-anime-vtuber-minecraft-stream-thumbnail-by-rerxmsz06)
-  - [Case 94: Cozy Anime ASMR Ear Massage Girl (by @Shion_yamabuki)](#case-94-cozy-anime-asmr-ear-massage-girl-by-shion_yamabuki)
+  - [Case 94: Cozy Anime ASMR Ear Massage Girl (by @Shion_yamabuki)](#case-94-cozy-anime-asmr-ear-massage-girl-by-shionyamabuki)
   - [Case 95: Celebrity Livestream Concept (by @SelenaGmzIN)](#case-95-celebrity-livestream-concept-by-selenagmzin)
   - [Case 96: Monika Anime Banner Illustration (by @mirochill)](#case-96-monika-anime-banner-illustration-by-mirochill)
   - [Case 97: Purple Anime Yuri Banner (by @mirochill)](#case-97-purple-anime-yuri-banner-by-mirochill)
   - [Case 98: Pink Anime Natsuki Banner (by @mirochill)](#case-98-pink-anime-natsuki-banner-by-mirochill)
   - [Case 99: Dreamy Anime Sayori Banner (by @mirochill)](#case-99-dreamy-anime-sayori-banner-by-mirochill)
-  - [Case 100: Cyberpunk 404 Witch Summoning (by @Eris_Create_Lab)](#case-100-cyberpunk-404-witch-summoning-by-eris_create_lab)
+  - [Case 100: Cyberpunk 404 Witch Summoning (by @Eris_Create_Lab)](#case-100-cyberpunk-404-witch-summoning-by-eriscreatelab)
   - [Case 101: Anime Fantasy Travel Movie Poster (by @Design4p0)](#case-101-anime-fantasy-travel-movie-poster-by-design4p0)
-  - [Case 102: Anime Music Bootcamp Promo Poster (by @sorane_aimusic)](#case-102-anime-music-bootcamp-promo-poster-by-sorane_aimusic)
+  - [Case 102: Anime Music Bootcamp Promo Poster (by @sorane_aimusic)](#case-102-anime-music-bootcamp-promo-poster-by-soraneaimusic)
   - [Case 103: Tropical Parrot Pixel Mosaic (by @erikmackinnon)](#case-103-tropical-parrot-pixel-mosaic-by-erikmackinnon)
   - [Case 104: Golden Cocktail in Greenhouse Bar (by @FernandesK47117)](#case-104-golden-cocktail-in-greenhouse-bar-by-fernandesk47117)
   - [Case 105: Multi-Panel Image Board Template (by @aimikoda)](#case-105-multi-panel-image-board-template-by-aimikoda)
   - [Case 106: Handwritten Realistic Letter (by @mosthssan)](#case-106-handwritten-realistic-letter-by-mosthssan)
   - [Case 107: Anime Band Finale at Budokan (by @SDAI1807097011)](#case-107-anime-band-finale-at-budokan-by-sdai1807097011)
-  - [Case 108: Anime Girl and Man Date Photo Collage (by @AIillust_studio)](#case-108-anime-girl-and-man-date-photo-collage-by-aiillust_studio)
-  - [Case 109: Luxury Lifestyle Mustang Shot (by @Just_sharon7)](#case-109-luxury-lifestyle-mustang-shot-by-just_sharon7)
+  - [Case 108: Anime Girl and Man Date Photo Collage (by @AIillust_studio)](#case-108-anime-girl-and-man-date-photo-collage-by-aiilluststudio)
+  - [Case 109: Luxury Lifestyle Mustang Shot (by @Just_sharon7)](#case-109-luxury-lifestyle-mustang-shot-by-justsharon7)
   - [Case 110: Anime Friends Eating Soba (by @AIMAG31G)](#case-110-anime-friends-eating-soba-by-aimag31g)
-  - [Case 111: Gothic Android Warrior Cathedral Key Art (by @yanagihara_0805)](#case-111-gothic-android-warrior-cathedral-key-art-by-yanagihara_0805)
-  - [Case 112: Cloud shape doodle generation (by @Gorden_Sun)](#case-112-cloud-shape-doodle-generation-by-gorden_sun)
-  - [Case 113: Rural Station Schoolgirl Scene (by @m_Raiko_AIart)](#case-113-rural-station-schoolgirl-scene-by-m_raiko_aiart)
-  - [Case 114: Anime Characters in Real Izakaya Photo (by @sub_raw_jin)](#case-114-anime-characters-in-real-izakaya-photo-by-sub_raw_jin)
-  - [Case 115: Anime Campers in a Winter Tent (by @sub_raw_jin)](#case-115-anime-campers-in-a-winter-tent-by-sub_raw_jin)
+  - [Case 111: Gothic Android Warrior Cathedral Key Art (by @yanagihara_0805)](#case-111-gothic-android-warrior-cathedral-key-art-by-yanagihara0805)
+  - [Case 112: Cloud shape doodle generation (by @Gorden_Sun)](#case-112-cloud-shape-doodle-generation-by-gordensun)
+  - [Case 113: Rural Station Schoolgirl Scene (by @m_Raiko_AIart)](#case-113-rural-station-schoolgirl-scene-by-mraikoaiart)
+  - [Case 114: Anime Characters in Real Izakaya Photo (by @sub_raw_jin)](#case-114-anime-characters-in-real-izakaya-photo-by-subrawjin)
+  - [Case 115: Anime Campers in a Winter Tent (by @sub_raw_jin)](#case-115-anime-campers-in-a-winter-tent-by-subrawjin)
   - [Case 116: BMW Performance Social Poster (by @harboriis)](#case-116-bmw-performance-social-poster-by-harboriis)
   - [Case 117: Cinematic Chicken Momos Ad Poster (by @Diplomeme)](#case-117-cinematic-chicken-momos-ad-poster-by-diplomeme)
   - [Case 118: Nostalgic 16-Photo Couple Grid (by @zenkaiAI)](#case-118-nostalgic-16-photo-couple-grid-by-zenkaiai)
-  - [Case 119: Anime BL Promo Thumbnail (by @himukai_an)](#case-119-anime-bl-promo-thumbnail-by-himukai_an)
+  - [Case 119: Anime BL Promo Thumbnail (by @himukai_an)](#case-119-anime-bl-promo-thumbnail-by-himukaian)
   - [Case 120: Artist and Ethereal Muse at Night (by @almimeister)](#case-120-artist-and-ethereal-muse-at-night-by-almimeister)
-- [🌏 Comparison & Community Examples](#comparison-community-examples)
+- [🧪 Comparison & Community Examples](#comparison-community-examples)
   - [Case 5: Wooden Bookshelf Prompt Test (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
-  - [Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyue_ai)
-  - [Case 16: A/B Test Signed Output (by @saskr_13)](#case-16-ab-test-signed-output-by-saskr_13)
+  - [Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai)](#case-10-gpt-image-2-detail-showcase-by-liyueai)
+  - [Case 16: A/B Test Signed Output (by @saskr_13)](#case-16-ab-test-signed-output-by-saskr13)
   - [Case 23: Silhouette Universe Narrative Poster (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
   - [Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
   - [Case 30: Counter-Strike x Terraria Screenshot Mashup (by @yssrski)](#case-30-counter-strike-x-terraria-screenshot-mashup-by-yssrski)
@@ -345,9 +358,9 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 50: Social App Match Success Screen (by @songguoxiansen)](#case-50-social-app-match-success-screen-by-songguoxiansen)
   - [Case 51: Lu Bu Boss Design Sheet (by @songguoxiansen)](#case-51-lu-bu-boss-design-sheet-by-songguoxiansen)
   - [Case 52: Nezha Dark Fantasy Novel Cover (by @songguoxiansen)](#case-52-nezha-dark-fantasy-novel-cover-by-songguoxiansen)
-  - [Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai)](#case-53-new-chinese-minimalist-floral-illustration-by-liyue_ai)
+  - [Case 53: New Chinese Minimalist Floral Illustration (by @liyue_ai)](#case-53-new-chinese-minimalist-floral-illustration-by-liyueai)
   - [Case 54: Su Daji Ancient-Style Glamour Portrait (by @nidiedeba)](#case-54-su-daji-ancient-style-glamour-portrait-by-nidiedeba)
-  - [Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340)](#case-55-lu-xun-morning-flowers-illustration-by-aurora_62340)
+  - [Case 55: Lu Xun Morning Flowers Illustration (by @Aurora_62340)](#case-55-lu-xun-morning-flowers-illustration-by-aurora62340)
   - [Case 56: Subway Candid Phone Snapshot (by @AntCaveClub)](#case-56-subway-candid-phone-snapshot-by-antcaveclub)
   - [Case 57: China Aerospace Commemorative Stamp Sheet (by @songguoxiansen)](#case-57-china-aerospace-commemorative-stamp-sheet-by-songguoxiansen)
   - [Case 58: Vertical Wuxia Heroine Portrait (by @CoderDaMing)](#case-58-vertical-wuxia-heroine-portrait-by-coderdaming)
@@ -355,9 +368,9 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 60: Tang Dynasty Chang'an Lantern Festival Panorama (by @songguoxiansen)](#case-60-tang-dynasty-changan-lantern-festival-panorama-by-songguoxiansen)
   - [Case 61: Historical Yang Guifei Realistic Portrait (by @Zhaoge01)](#case-61-historical-yang-guifei-realistic-portrait-by-zhaoge01)
   - [Case 62: Surreal Japanese Futuristic City Illustration (by @Tresmort)](#case-62-surreal-japanese-futuristic-city-illustration-by-tresmort)
-  - [Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc)](#case-63-tushan-yaya-fantasy-glamour-portrait-by-sdjn_wgc)
-  - [Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327)](#case-64-douyin-livestream-sales-screenshot-by-lvwangji_0327)
-  - [Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai)](#case-65-eastern-fantasy-female-half-portrait-by-liyue_ai)
+  - [Case 63: Tushan Yaya Fantasy Glamour Portrait (by @sdjn_wgc)](#case-63-tushan-yaya-fantasy-glamour-portrait-by-sdjnwgc)
+  - [Case 64: Douyin Livestream Sales Screenshot (by @LVWANGJI_0327)](#case-64-douyin-livestream-sales-screenshot-by-lvwangji0327)
+  - [Case 65: Eastern Fantasy Female Half-Portrait (by @liyue_ai)](#case-65-eastern-fantasy-female-half-portrait-by-liyueai)
   - [Case 66: Vertical Artistic Portrait of a Young Eastern Woman (by @zhiyangzhu22222)](#case-66-vertical-artistic-portrait-of-a-young-eastern-woman-by-zhiyangzhu22222)
   - [Case 67: Autobots Assembled at Lunar Base (by @songguoxiansen)](#case-67-autobots-assembled-at-lunar-base-by-songguoxiansen)
   - [Case 68: Naturalist-Style Food Specimen Cross-Section (by @GeekCatX)](#case-68-naturalist-style-food-specimen-cross-section-by-geekcatx)
@@ -367,9 +380,9 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 72: Neon AI Thumbnail Comparison (by @MoveHiro1219)](#case-72-neon-ai-thumbnail-comparison-by-movehiro1219)
   - [Case 73: Cyberpunk AI Tools Comparison Poster (by @MoveHiro1219)](#case-73-cyberpunk-ai-tools-comparison-poster-by-movehiro1219)
   - [Case 74: Japanese AI Battle YouTube Thumbnail (by @MoveHiro1219)](#case-74-japanese-ai-battle-youtube-thumbnail-by-movehiro1219)
-  - [Case 75: Tokyo DisneySea Front-Row Battle UI (by @mikko_20100518)](#case-75-tokyo-disneysea-front-row-battle-ui-by-mikko_20100518)
-- [🙏 Acknowledge](#-acknowledge)
-- [⭐ Star History](#star-history)
+  - [Case 75: Tokyo DisneySea Front-Row Battle UI (by @mikko_20100518)](#case-75-tokyo-disneysea-front-row-battle-ui-by-mikko20100518)
+  - [Case 76: Miyazaki-style short film pipeline (by @happycapyai)](#case-76-miyazaki-style-short-film-pipeline-by-happycapyai)
+- [🙏 Acknowledge](#acknowledge)
 
 ## E-commerce Cases
 
@@ -683,6 +696,48 @@ Using the provided reference image, transform the single casual product photo in
     }
   }
 }
+```
+
+<!-- Case 161: Premium product studio shot template (by @PrometheanAIX) -->
+### Case 161: [Premium product studio shot template](https://x.com/PrometheanAIX/status/2049141839882522707) (by [@PrometheanAIX](https://x.com/PrometheanAIX))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case161/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a premium product studio image of a [PRODUCT] for [BRAND], designed in line with [BRAND REFERENCE]. Show the [PRODUCT] floating against a clean light gray to soft white gradient background with a minimal high-end tech aesthetic. The [PRODUCT] should feel sleek, modern, refined, and premium, with subtle illuminated accents in [LIGHTING COLOR]. Use a three-quarter front angle so both earcups are visible, with detailed industrial design elements. Include the [BRAND] name cleanly on the product. Lighting should be soft, controlled, and editorial, with crisp highlights, soft shadows, and a subtle colored rim light or glow in [LIGHTING COLOR]. Emphasize material realism and clean geometric forms. Keep the background uncluttered and minimal. No extra props, no people, no text overlays, no packaging, and no distracting elements. Focus entirely on the [PRODUCT] as the hero product.
+```
+
+<!-- Case 162: Premium food photography template (by @PrometheanAIX) -->
+### Case 162: [Premium food photography template](https://x.com/PrometheanAIX/status/2049122713722106161) (by [@PrometheanAIX](https://x.com/PrometheanAIX))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case162/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a square [ASPECT RATIO] premium food photography image of a steaming [FOOD] served in a dark black stone bowl or cast-iron skillet on a wooden board. The dish should look hot, glossy, spicy, and freshly served, with bite-sized pieces of browned protein, dried red chilies, green scallions, white onion, garlic, chili flakes, and visible Sichuan peppercorns coated in a deep red, oily Szechuan sauce. Use a slightly elevated close-up camera angle with shallow depth of field. Make the food the clear hero of the image, centered and richly detailed. Add visible steam rising naturally from the dish. Surround the bowl with subtle restaurant-style props like a dark red tray, scattered dried chilies, peppercorns, a small sauce bowl, or a blurred teapot in the background. Lighting should feel warm, moody, and editorial, like a high-end restaurant food shoot. Emphasize realistic textures and keep the image appetizing, realistic, cinematic, and polished. Avoid text, logos, hands, people, utensils covering the food, cartoon styling, fake plastic textures, excessive symmetry, or an overly clean stock-photo look.
+```
+
+
+<!-- Case 163: Burger hero image plus 9-cell ad storyboard (by @Gdgtify) -->
+### Case 163: [Burger hero image plus 9-cell ad storyboard](https://x.com/Gdgtify/status/2049449869530775877) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <img src="./images/ecommerce_case163/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Prompt 1: Create a cinematic hero image of a gourmet cheeseburger on a dark stone surface with glossy brioche bun, melted cheese, crisp lettuce, tomato, grilled patty, sauce, realistic texture, appetizing steam, warm side light, shallow depth of field, premium food commercial style, no text/logos/watermark.
+
+Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 15-second gourmet burger ad, moving from empty surface to ingredient assembly to final macro hero shot. Use large S cells and smaller T cells, motion arrows, ghosted ingredient positions, steam, sauce trails, and camera push-in icons. Style: premium food commercial, warm lighting, rich texture, appetizing, cinematic, minimal labels only. No logos, no watermark.
 ```
 
 ## Ad Creative Cases
@@ -1244,6 +1299,60 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
   }
 }
 ```
+
+<!-- Case 168: Luxury poster for fictional AI ad printer (by @nijisora_yuma) -->
+### Case 168: [Luxury poster for fictional AI ad printer](https://x.com/nijisora_yuma/status/2049462065639858687) (by [@nijisora_yuma](https://x.com/nijisora_yuma))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case168/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+縦型3:4の、高級商業ポスターを制作してください。
+
+テーマは、架空の新商品広告です。商品は「BRAND PRESS 01（ブランドプレス・ゼロワン）」という、Pollo AIを搭載した架空の広告ポスター生成プリンターです。
+
+この商品は、まだ存在しないブランド名・商品ジャンル・世界観・ターゲット層を入力すると、Pollo AIがコピー、ビジュアル、レイアウトまで完成された商業広告ポスターを自動生成し、高精細な印刷物としてその場で出力する未来型プリンターです。単なるAIサービスの概念広告ではなく、実際に販売されていそうな架空商品の広告として成立させてください。
+
+メインコンセプト: 「まだないブランドに、最初の一目惚れを。」
+
+商品ビジュアル: 画面中央に実物の商品「BRAND PRESS 01」を大きく配置。未来型の高級プロ用印刷デバイスとして、黒い金属筐体、シルバーのエッジ、透明カバー、青白く発光するAIコア、精密な印刷ヘッド、ローラー、タッチパネル、排紙スロット、ポスター受けトレイを備える。排紙スロットから、架空の高級香水ブランド広告ポスターが紙として大きく出力されている構図。
+
+構図: ややローアングル、斜め45度。背景は暗いネイビーから黒の高級広告制作スタジオ。映画的でドラマチックな高級プロダクト広告。
+
+広告レイアウト: 上部に大きなキャッチコピー、中央にプリンター本体と排出中のポスター、右側に機能説明、左下に価格と発売日、下部にCTA。
+
+入れる文字: 「まだないブランドに、最初の一目惚れを。」 / BRAND PRESS 01 / 「Pollo AI搭載・広告ポスター生成プリンター」 / 「名前だけのアイデアを、完成された商業ポスターとして出力。」 / 「構想、コピー、ビジュアル、印刷まで。1台で。」
+```
+
+<!-- Case 169: Luxury chocolate campaign system (by @SPEEDAI07) -->
+### Case 169: [Luxury chocolate campaign system](https://x.com/SPEEDAI07/status/2049459155086500321) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case169/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”
+```
+
+<!-- Case 170: Urban fruit juice ad poster (by @AIwithSarah_) -->
+### Case 170: [Urban fruit juice ad poster](https://x.com/AIwithSarah_/status/2049452842931630202) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case170/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a bright urban indoor hallway with colorful graffiti wall art on one side and clean minimal architecture on the other. In the foreground, a giant realistic fruit juice bottle is held toward the camera in forced perspective, with fictional branding like “VIVAJUICE”. Add brand logo, tagline, huge bold overlapping typography, four icon-based feature badges, and three smaller bottle variants at bottom right. Use soft natural lighting mixed with commercial studio polish, realistic shadows, shallow depth of field, glossy floor reflections, and a premium energetic eCommerce campaign aesthetic.
+```
+
 
 ## Portrait & Photography Cases
 
@@ -2028,6 +2137,33 @@ stop bench, eating a burger. Rain-soaked street with orange bokeh city lights
 reflecting on the ground. Neon tube lights overhead. Red jacket, tan corduroy
 
 pants. Moody, dark, atmospheric street photography.
+```
+
+<!-- Case 104: CCD flash beauty portrait template (by @AIwithAliya) -->
+### Case 104: [CCD flash beauty portrait template](https://x.com/AIwithAliya/status/2049452006608392350) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Output |
+| :----: |
+| <img src="./images/portrait_case104/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush, high identity consistency, realistic human anatomy. Use an old CCD digital camera aesthetic with direct flash, visible grain, slight overexposure, cool-neutral white balance, slight motion blur, and candid composition. Hair in a loose romantic updo; outfit in delicate off-shoulder silk with embroidered floral fabric; background of pastel floral bedding; horizontal close-up; shallow depth of field. Negative prompt: over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face.
+```
+
+
+<!-- Case 105: Black-and-red streetwear campaign portrait (by @harboriis) -->
+### Case 105: [Black-and-red streetwear campaign portrait](https://x.com/harboriis/status/2049450257604550872) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <img src="./images/portrait_case105/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a bold, high-contrast black and white portrait of a confident young man wearing a black leather jacket, facing slightly sideways with an intense expression. Use dramatic studio lighting with sharp shadows and detailed skin texture. Add strong red graphic elements over the image, including a horizontal red bar across the eyes, geometric shapes, thin lines, and framing boxes. Incorporate large bold typography, repeated faded text, and a motivational headline in bright red. The design should feel like a premium sports or streetwear campaign poster with a minimal textured grey background and black/white/grey/red palette only.
 ```
 
 ## Poster & Illustration Cases
@@ -3674,7 +3810,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | Output |
 | :----: |
-| <img src="./images/poster_case163/output.jpg" width="300" alt="Output image"> |
+| <img src="./images/ecommerce_case163/output.jpg" width="300" alt="Output image"> |
 
 **Prompt:**
 
@@ -3889,6 +4025,46 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.
 ```
 
+<!-- Case 174: New York across two centuries cinematic poster (by @Shinning1010) -->
+### Case 174: [New York across two centuries cinematic poster](https://x.com/Shinning1010/status/2049460661109879022) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case174/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Create a cinematic 3:4 vertical poster of New York City that feels truly epic and unconventional, showing the passage from the 20th century to the 21st century in one seamless image. Place a lone figure at the center of the composition, standing in the middle of the street and looking forward as if witnessing New York across time. The left side should depict 20th-century New York with warm sepia atmosphere, vintage taxis, old newsstands, retro lamps, and landmarks like the Chrysler Building and Empire State Building. The right side should depict 21st-century New York with glass skyscrapers, One World Trade Center, digital billboards, and modern urban energy. Make the transition natural rather than split-screen, with coherent perspective, wet reflective pavement, realistic textures, atmospheric depth, and no text.
+```
+
+
+<!-- Case 175: Blue Tears cocktail tutorial infographic poster (by @cellinlab) -->
+### Case 175: [Blue Tears cocktail tutorial infographic poster](https://x.com/cellinlab/status/2049460927121244510) (by [@cellinlab](https://x.com/cellinlab))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case175/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+试着帮我生成调制一杯蓝色眼泪鸡尾酒（配料流程你自己发挥想象，但是要写清楚确保可复现）的流程教学图和概念设计宣传图，轻奢酒咖海报风格，横版。
+```
+
+<!-- Case 176: ASCII dengue infographic (by @mapasbr) -->
+### Case 176: [ASCII dengue infographic](https://x.com/mapasbr/status/2049458767520051448) (by [@mapasbr](https://x.com/mapasbr))
+
+| Output |
+| :----: |
+| <img src="./images/poster_case176/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+infográfico ASCII DENGUE
+```
+
 ## Character Design Cases
 
 <!-- Case 1: Anime Snapshot Conversion (by @Thereallo1026) -->
@@ -4087,6 +4263,37 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 ```
 {argument name="series" default="White Cat Project"}
 {argument name="character" default="Eleanor"}
+```
+
+<!-- Case 14: Character key visual poster with silhouette collage (by @SimplyAnnisa) -->
+### Case 14: [Character key visual poster with silhouette collage](https://x.com/SimplyAnnisa/status/2049468867106189319) (by [@SimplyAnnisa](https://x.com/SimplyAnnisa))
+
+| Output |
+| :----: |
+| <img src="./images/character_case14/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+A character promotional poster titled “INPUT NAME,” designed in a unified vertical key visual composition (9:16). The upper half features the most recognizable element of the character as a dominant oversized visual silhouette. The middle to lower section contains the full character as a secondary subject. Inside the large silhouette and around the character, use a double-exposure and collage-style narrative composition with scenes, symbolic imagery, supporting elements, and environmental details blended into mist, ink wash, and negative space. The left and right sides include complementary secondary elements to create narrative tension and spatial variation. A continuous flowing visual line runs from top to bottom, connecting the main character, internal collage, and the large upper silhouette. Preserve large areas of negative space with ink diffusion, soft blurring, and fragmented transitions inspired by Eastern aesthetics. The style is cohesive, refined, restrained, and poster-worthy.
+```
+
+
+<!-- Case 15: Pixel game concept board from TV drama theme (by @sciencedegens) -->
+### Case 15: [Pixel game concept board from TV drama theme](https://x.com/sciencedegens/status/2049359171594903856) (by [@sciencedegens](https://x.com/sciencedegens))
+
+| Output |
+| :----: |
+| <img src="./images/character_case15/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+爱情公寓 电视剧主题 像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。
+
+随机一个经典国内古装电视剧，生成古装电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。
+
+「XXX」电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物（人物别重复）形象三视图，底部是场景特写，右下角是剧情梗概。
 ```
 
 ## UI & Social Media Mockup Cases
@@ -5704,6 +5911,19 @@ At the lower left, add a skill menu titled "スキル" listing exactly 5 skills 
 At the bottom center, add an item menu titled "アイテム" with exactly 5 item slots showing icons and counts: a water bottle "x3", a folded purple towel "x2", a blue drawstring bag "x1", a gray backpack "x1", and a boxed meal "x2". At the lower right, add a quest panel titled "クエスト" with the mission text "ショー開始までに最前列を死守しろ!" and condition text "条件:ライバルグループを全員後ろに押し戻せ!" and countdown text "ショー開始まで:02:30". Beside it, add a mini-map titled "ミッキー広場MAP" showing red and blue dots for both teams in the plaza. Along the very bottom edge, include small controller prompts in Japanese for actions such as skill use, item use, grab/push, and dash.
 
 Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authentic plaza stone pavement, and a high-end Japanese game screenshot look. The image should feel like a ridiculous but believable crossover between a real Tokyo DisneySea crowd photo and a competitive arcade battle game interface.
+```
+
+<!-- Case 76: Miyazaki-style short film pipeline (by @happycapyai) -->
+### Case 76: [Miyazaki-style short film pipeline](https://x.com/happycapyai/status/2049468986828697940) (by [@happycapyai](https://x.com/happycapyai))
+
+| Output |
+| :----: |
+| <img src="./images/comparison_case76/output.jpg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Given a story concept, generate a complete Miyazaki-style animated short film: write a 30-shot script → generate watercolor storyboard images (gpt-image-1) → plan SOFT/HARD transitions → produce video clips with Seedance 2.0 using first/last-frame binding → synthesize the original ambient piano score → stitch everything into a final MP4 with music.
 ```
 
 ## Acknowledge

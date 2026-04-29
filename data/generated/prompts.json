@@ -63,8 +63,68 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
+  },
+  {
+    "id": "case_case117",
+    "slug": "community-case-117-case-case117",
+    "title": "Community Case 117",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "excerpt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "images": [
+      {
+        "url": "/upstream/images/case_case117/output.jpg",
+        "alt": "Community Case 117 示例图 1",
+        "width": 972,
+        "height": 566,
+        "thumbnailUrl": "/upstream/thumbs/case_case117/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 419,
+        "sourcePath": "images/case_case117/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case117/output1.jpg",
+        "alt": "Community Case 117 示例图 2",
+        "width": 1200,
+        "height": 684,
+        "thumbnailUrl": "/upstream/thumbs/case_case117/output1.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 410,
+        "sourcePath": "images/case_case117/output1.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output1.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case117/output2.jpg",
+        "alt": "Community Case 117 示例图 3",
+        "width": 1024,
+        "height": 1024,
+        "thumbnailUrl": "/upstream/thumbs/case_case117/output2.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/case_case117/output2.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output2.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case117/output3.png",
+        "alt": "Community Case 117 示例图 4",
+        "width": 567,
+        "height": 542,
+        "thumbnailUrl": "/upstream/thumbs/case_case117/output3.webp",
+        "thumbnailWidth": 567,
+        "thumbnailHeight": 542,
+        "sourcePath": "images/case_case117/output3.png",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output3.png"
+      }
+    ],
+    "imageFolder": "case_case117",
+    "sources": [
+      "images/"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047207812800147647",
@@ -129,7 +189,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -196,7 +256,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -263,7 +323,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -329,73 +389,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2047165092253532461",
-    "slug": "tomaten-e-commerce-produktbilderset-2047165092253532461",
-    "title": "Tomaten-E-Commerce-Produktbilderset",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片\n\n使用地址",
-    "excerpt": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片 使用地址",
-    "images": [
-      {
-        "url": "/upstream/images/case_case117/output.jpg",
-        "alt": "Tomaten-E-Commerce-Produktbilderset 示例图 1",
-        "width": 972,
-        "height": 566,
-        "thumbnailUrl": "/upstream/thumbs/case_case117/output.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 419,
-        "sourcePath": "images/case_case117/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output.jpg"
-      },
-      {
-        "url": "/upstream/images/case_case117/output1.jpg",
-        "alt": "Tomaten-E-Commerce-Produktbilderset 示例图 2",
-        "width": 1200,
-        "height": 684,
-        "thumbnailUrl": "/upstream/thumbs/case_case117/output1.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 410,
-        "sourcePath": "images/case_case117/output1.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output1.jpg"
-      },
-      {
-        "url": "/upstream/images/case_case117/output2.jpg",
-        "alt": "Tomaten-E-Commerce-Produktbilderset 示例图 3",
-        "width": 1024,
-        "height": 1024,
-        "thumbnailUrl": "/upstream/thumbs/case_case117/output2.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/case_case117/output2.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output2.jpg"
-      },
-      {
-        "url": "/upstream/images/case_case117/output3.png",
-        "alt": "Tomaten-E-Commerce-Produktbilderset 示例图 4",
-        "width": 567,
-        "height": 542,
-        "thumbnailUrl": "/upstream/thumbs/case_case117/output3.webp",
-        "thumbnailWidth": 567,
-        "thumbnailHeight": 542,
-        "sourcePath": "images/case_case117/output3.png",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case117/output3.png"
-      }
-    ],
-    "authorName": "Adam38363368936",
-    "authorUrl": "https://x.com/Adam38363368936",
-    "sourceUrl": "https://x.com/Adam38363368936/status/2047165092253532461",
-    "caseNumber": 73,
-    "imageFolder": "case_case117",
-    "sources": [
-      "README_de.md",
-      "data/ingested_tweets.json"
-    ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -462,62 +456,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2047227021156356500",
-    "slug": "2d-anime-charakter-in-realen-gitterszenen-2047227021156356500",
-    "title": "2D-Anime-Charakter in realen Gitterszenen",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。",
-    "excerpt": "参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。",
-    "images": [
-      {
-        "url": "/upstream/images/case_case114/output.jpg",
-        "alt": "2D-Anime-Charakter in realen Gitterszenen 示例图 1",
-        "width": 1200,
-        "height": 801,
-        "thumbnailUrl": "/upstream/thumbs/case_case114/output.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 481,
-        "sourcePath": "images/case_case114/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case114/output.jpg"
-      },
-      {
-        "url": "/upstream/images/case_case114/output1.jpg",
-        "alt": "2D-Anime-Charakter in realen Gitterszenen 示例图 2",
-        "width": 1200,
-        "height": 801,
-        "thumbnailUrl": "/upstream/thumbs/case_case114/output1.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 481,
-        "sourcePath": "images/case_case114/output1.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case114/output1.jpg"
-      },
-      {
-        "url": "/upstream/images/case_case114/output2.jpg",
-        "alt": "2D-Anime-Charakter in realen Gitterszenen 示例图 3",
-        "width": 1199,
-        "height": 675,
-        "thumbnailUrl": "/upstream/thumbs/case_case114/output2.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 405,
-        "sourcePath": "images/case_case114/output2.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case114/output2.jpg"
-      }
-    ],
-    "authorName": "seiiiiiiiiiiru",
-    "authorUrl": "https://x.com/seiiiiiiiiiiru",
-    "sourceUrl": "https://x.com/seiiiiiiiiiiru/status/2047227021156356500",
-    "caseNumber": 70,
-    "imageFolder": "case_case114",
-    "sources": [
-      "README_de.md",
-      "data/ingested_tweets.json"
-    ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -572,8 +511,57 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
+  },
+  {
+    "id": "case_case114",
+    "slug": "community-case-114-case-case114",
+    "title": "Community Case 114",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "excerpt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "images": [
+      {
+        "url": "/upstream/images/case_case114/output.jpg",
+        "alt": "Community Case 114 示例图 1",
+        "width": 1200,
+        "height": 801,
+        "thumbnailUrl": "/upstream/thumbs/case_case114/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 481,
+        "sourcePath": "images/case_case114/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case114/output.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case114/output1.jpg",
+        "alt": "Community Case 114 示例图 2",
+        "width": 1200,
+        "height": 801,
+        "thumbnailUrl": "/upstream/thumbs/case_case114/output1.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 481,
+        "sourcePath": "images/case_case114/output1.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case114/output1.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case114/output2.jpg",
+        "alt": "Community Case 114 示例图 3",
+        "width": 1199,
+        "height": 675,
+        "thumbnailUrl": "/upstream/thumbs/case_case114/output2.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 405,
+        "sourcePath": "images/case_case114/output2.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case114/output2.jpg"
+      }
+    ],
+    "imageFolder": "case_case114",
+    "sources": [
+      "images/"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2048147643809865950",
@@ -628,7 +616,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -683,7 +671,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -739,62 +727,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2047884126343032995",
-    "slug": "surrealist-liquor-brand-high-fashion-poster-2047884126343032995",
-    "title": "Surrealist Liquor Brand High Fashion Poster",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color naranja claro, con un suelo semirreflectante.\nEl foco central es una botella de Aguardiente Amarillo de tamaño descomunal y gigante, colocada en ángulo diagonal y que sirve como respaldo. Un modelo masculino de moda, de cabello largo y oscuro, vestido con un conjunto impecable y totalmente blanco —compuesto por una sudadera y pantalones de pierna ancha—, apoya toda su espalda contra la botella gigante en una postura relajada e inclinada. Mira hacia la derecha, de perfil, con la vista al frente y una expresión serena; calza zapatillas blancas de tamaño estándar.\nEn el fondo, la palabra \"AGUARDIENTE\" aparece escrita con una tipografía sans-serif condensada, blanca, masiva y en negrita, parcialmente oculta por la botella gigante y por el modelo para crear una sensación de profundidad. En la esquina superior derecha se lee: \"Creado por @HMontilla_\".\nEn la parte inferior central, una frase publicitaria en tipografía sans-serif blanca reza: \"El Aguardiente Amarillo de Manzanares es un icónico licor colombiano, originario de 1885 en Manzanares, Caldas\". La iluminación es suave, fría y uniforme, proyectando sombras tenues y un reflejo sutil de los sujetos sobre el suelo azul brillante. La estética general es limpia, moderna y de alto concepto.\n\nEstablecer la relación de aspecto en 3:4.",
-    "excerpt": "Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color n...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case60/output.jpg",
-        "alt": "Surrealist Liquor Brand High Fashion Poster 示例图 1",
-        "width": 900,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/poster_case60/output.webp",
-        "thumbnailWidth": 540,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/poster_case60/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case60/output.jpg"
-      },
-      {
-        "url": "/upstream/images/poster_case75/output.jpg",
-        "alt": "Surrealist Liquor Brand High Fashion Poster 示例图 2",
-        "width": 1024,
-        "height": 1536,
-        "thumbnailUrl": "/upstream/thumbs/poster_case75/output.webp",
-        "thumbnailWidth": 480,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/poster_case75/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case75/output.jpg"
-      },
-      {
-        "url": "/upstream/images/poster_case75/output1.jpg",
-        "alt": "Surrealist Liquor Brand High Fashion Poster 示例图 3",
-        "width": 1199,
-        "height": 574,
-        "thumbnailUrl": "/upstream/thumbs/poster_case75/output1.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 345,
-        "sourcePath": "images/poster_case75/output1.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case75/output1.jpg"
-      }
-    ],
-    "authorName": "hmontilla_",
-    "authorUrl": "https://x.com/hmontilla_",
-    "sourceUrl": "https://x.com/hmontilla_/status/2047884126343032995",
-    "caseNumber": 75,
-    "imageFolder": "poster_case60",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -838,7 +771,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -883,7 +816,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -927,7 +860,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -971,7 +904,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1015,8 +948,84 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
+  },
+  {
+    "id": "case_case115",
+    "slug": "community-case-115-case-case115",
+    "title": "Community Case 115",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "excerpt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "images": [
+      {
+        "url": "/upstream/images/case_case115/output.jpg",
+        "alt": "Community Case 115 示例图 1",
+        "width": 800,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/case_case115/output.webp",
+        "thumbnailWidth": 480,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/case_case115/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case115/output.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case115/output1.jpg",
+        "alt": "Community Case 115 示例图 2",
+        "width": 1200,
+        "height": 675,
+        "thumbnailUrl": "/upstream/thumbs/case_case115/output1.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 405,
+        "sourcePath": "images/case_case115/output1.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case115/output1.jpg"
+      }
+    ],
+    "imageFolder": "case_case115",
+    "sources": [
+      "images/"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
+  },
+  {
+    "id": "case_case116",
+    "slug": "community-case-116-case-case116",
+    "title": "Community Case 116",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "excerpt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "images": [
+      {
+        "url": "/upstream/images/case_case116/output.jpg",
+        "alt": "Community Case 116 示例图 1",
+        "width": 800,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/case_case116/output.webp",
+        "thumbnailWidth": 480,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/case_case116/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case116/output.jpg"
+      },
+      {
+        "url": "/upstream/images/case_case116/output1.jpg",
+        "alt": "Community Case 116 示例图 2",
+        "width": 848,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/case_case116/output1.webp",
+        "thumbnailWidth": 509,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/case_case116/output1.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case116/output1.jpg"
+      }
+    ],
+    "imageFolder": "case_case116",
+    "sources": [
+      "images/"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "case_case74",
@@ -1054,7 +1063,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047204566559756707",
@@ -1097,7 +1106,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1141,7 +1150,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1186,51 +1195,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2046944941583270341",
-    "slug": "gummiente-junge-realfilm-poster-2046944941583270341",
-    "title": "Gummiente-Junge Realfilm-Poster",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。\n\n参照画像入れてないのに女性もミライの雰囲気に似てない？",
-    "excerpt": "可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。 参照画像入れてないのに女性もミライの雰囲気に似てない？",
-    "images": [
-      {
-        "url": "/upstream/images/case_case116/output.jpg",
-        "alt": "Gummiente-Junge Realfilm-Poster 示例图 1",
-        "width": 800,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/case_case116/output.webp",
-        "thumbnailWidth": 480,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/case_case116/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case116/output.jpg"
-      },
-      {
-        "url": "/upstream/images/case_case116/output1.jpg",
-        "alt": "Gummiente-Junge Realfilm-Poster 示例图 2",
-        "width": 848,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/case_case116/output1.webp",
-        "thumbnailWidth": 509,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/case_case116/output1.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case116/output1.jpg"
-      }
-    ],
-    "authorName": "mirai_ai2050",
-    "authorUrl": "https://x.com/mirai_ai2050",
-    "sourceUrl": "https://x.com/mirai_ai2050/status/2046944941583270341",
-    "caseNumber": 72,
-    "imageFolder": "case_case116",
-    "sources": [
-      "README_de.md",
-      "data/ingested_tweets.json"
-    ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1275,7 +1240,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1319,7 +1284,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1363,7 +1328,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1407,52 +1372,46 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
-    "id": "2047130379409400148",
-    "slug": "poster-zu-trailer-konzept-2047130379409400148",
-    "title": "Poster-zu-Trailer-Konzept",
-    "category": "Community",
-    "categorySlug": "community",
-    "prompt": "「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」",
-    "excerpt": "「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」",
+    "id": "poster_case75",
+    "slug": "posters-case-75-poster-case75",
+    "title": "Posters Case 75",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "excerpt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
     "images": [
       {
-        "url": "/upstream/images/case_case115/output.jpg",
-        "alt": "Poster-zu-Trailer-Konzept 示例图 1",
-        "width": 800,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/case_case115/output.webp",
+        "url": "/upstream/images/poster_case75/output.jpg",
+        "alt": "Posters Case 75 示例图 1",
+        "width": 1024,
+        "height": 1536,
+        "thumbnailUrl": "/upstream/thumbs/poster_case75/output.webp",
         "thumbnailWidth": 480,
         "thumbnailHeight": 720,
-        "sourcePath": "images/case_case115/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case115/output.jpg"
+        "sourcePath": "images/poster_case75/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case75/output.jpg"
       },
       {
-        "url": "/upstream/images/case_case115/output1.jpg",
-        "alt": "Poster-zu-Trailer-Konzept 示例图 2",
-        "width": 1200,
-        "height": 675,
-        "thumbnailUrl": "/upstream/thumbs/case_case115/output1.webp",
+        "url": "/upstream/images/poster_case75/output1.jpg",
+        "alt": "Posters Case 75 示例图 2",
+        "width": 1199,
+        "height": 574,
+        "thumbnailUrl": "/upstream/thumbs/poster_case75/output1.webp",
         "thumbnailWidth": 720,
-        "thumbnailHeight": 405,
-        "sourcePath": "images/case_case115/output1.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/case_case115/output1.jpg"
+        "thumbnailHeight": 345,
+        "sourcePath": "images/poster_case75/output1.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case75/output1.jpg"
       }
     ],
-    "authorName": "os_shim",
-    "authorUrl": "https://x.com/os_shim",
-    "sourceUrl": "https://x.com/os_shim/status/2047130379409400148",
-    "caseNumber": 71,
-    "imageFolder": "case_case115",
+    "imageFolder": "poster_case75",
     "sources": [
-      "README_de.md",
-      "data/ingested_tweets.json"
+      "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047714457774637213",
@@ -1496,7 +1455,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1541,7 +1500,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1585,7 +1544,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1629,7 +1588,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1673,7 +1632,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1717,7 +1676,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1762,7 +1721,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1796,7 +1755,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1830,7 +1789,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1864,7 +1823,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1898,7 +1857,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1932,7 +1891,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1965,7 +1924,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -1999,7 +1958,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2033,7 +1992,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2065,7 +2024,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2045764016858087720",
@@ -2098,7 +2057,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2132,7 +2091,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2166,7 +2125,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2199,7 +2158,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2232,7 +2191,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2266,7 +2225,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2299,7 +2258,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2333,7 +2292,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2367,7 +2326,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2401,7 +2360,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2435,7 +2394,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2469,7 +2428,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2502,7 +2461,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2536,7 +2495,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2570,7 +2529,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2604,7 +2563,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2638,7 +2597,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2672,7 +2631,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2706,7 +2665,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2740,7 +2699,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2774,7 +2733,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2808,7 +2767,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2842,7 +2801,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2876,7 +2835,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2909,7 +2868,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2942,7 +2901,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -2976,7 +2935,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049458767520051448",
+    "slug": "ascii-dengue-infographic-2049458767520051448",
+    "title": "ASCII dengue infographic",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "infográfico ASCII DENGUE",
+    "excerpt": "infográfico ASCII DENGUE",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case176/output.jpg",
+        "alt": "ASCII dengue infographic 示例图 1",
+        "width": 800,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case176/output.webp",
+        "thumbnailWidth": 480,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case176/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case176/output.jpg"
+      }
+    ],
+    "authorName": "mapasbr",
+    "authorUrl": "https://x.com/mapasbr",
+    "sourceUrl": "https://x.com/mapasbr/status/2049458767520051448",
+    "caseNumber": 176,
+    "imageFolder": "poster_case176",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:20:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3009,7 +3002,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3042,7 +3035,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3075,7 +3068,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3107,7 +3100,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "743d0ee10bf58a63",
@@ -3138,7 +3131,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047219694130827273",
@@ -3170,7 +3163,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3203,7 +3196,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3236,7 +3229,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3270,7 +3263,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049450257604550872",
+    "slug": "black-and-red-streetwear-campaign-portrait-2049450257604550872",
+    "title": "Black-and-red streetwear campaign portrait",
+    "category": "Portraits",
+    "categorySlug": "portraits",
+    "prompt": "Create a bold, high-contrast black and white portrait of a confident young man wearing a black leather jacket, facing slightly sideways with an intense expression. Use dramatic studio lighting with sharp shadows and detailed skin texture. Add strong red graphic elements over the image, including a horizontal red bar across the eyes, geometric shapes, thin lines, and framing boxes. Incorporate large bold typography, repeated faded text, and a motivational headline in bright red. The design should feel like a premium sports or streetwear campaign poster with a minimal textured grey background and black/white/grey/red palette only.",
+    "excerpt": "Create a bold, high-contrast black and white portrait of a confident young man wearing a black leather jacket, facing slightly sideways with an inten...",
+    "images": [
+      {
+        "url": "/upstream/images/portrait_case105/output.jpg",
+        "alt": "Black-and-red streetwear campaign portrait 示例图 1",
+        "width": 800,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/portrait_case105/output.webp",
+        "thumbnailWidth": 480,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/portrait_case105/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/portrait_case105/output.jpg"
+      }
+    ],
+    "authorName": "harboriis",
+    "authorUrl": "https://x.com/harboriis",
+    "sourceUrl": "https://x.com/harboriis/status/2049450257604550872",
+    "caseNumber": 105,
+    "imageFolder": "portrait_case105",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:20:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3304,7 +3331,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049460927121244510",
+    "slug": "blue-tears-cocktail-tutorial-infographic-poster-2049460927121244510",
+    "title": "Blue Tears cocktail tutorial infographic poster",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "试着帮我生成调制一杯蓝色眼泪鸡尾酒（配料流程你自己发挥想象，但是要写清楚确保可复现）的流程教学图和概念设计宣传图，轻奢酒咖海报风格，横版。",
+    "excerpt": "试着帮我生成调制一杯蓝色眼泪鸡尾酒（配料流程你自己发挥想象，但是要写清楚确保可复现）的流程教学图和概念设计宣传图，轻奢酒咖海报风格，横版。",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case175/output.jpg",
+        "alt": "Blue Tears cocktail tutorial infographic poster 示例图 1",
+        "width": 1199,
+        "height": 675,
+        "thumbnailUrl": "/upstream/thumbs/poster_case175/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 405,
+        "sourcePath": "images/poster_case175/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case175/output.jpg"
+      }
+    ],
+    "authorName": "cellinlab",
+    "authorUrl": "https://x.com/cellinlab",
+    "sourceUrl": "https://x.com/cellinlab/status/2049460927121244510",
+    "caseNumber": 175,
+    "imageFolder": "poster_case175",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:20:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3338,7 +3399,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3372,7 +3433,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3406,7 +3467,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049449869530775877",
+    "slug": "burger-hero-image-plus-9-cell-ad-storyboard-2049449869530775877",
+    "title": "Burger hero image plus 9-cell ad storyboard",
+    "category": "Community",
+    "categorySlug": "community",
+    "prompt": "Prompt 1: Create a cinematic hero image of a gourmet cheeseburger on a dark stone surface with glossy brioche bun, melted cheese, crisp lettuce, tomato, grilled patty, sauce, realistic texture, appetizing steam, warm side light, shallow depth of field, premium food commercial style, no text/logos/watermark.\n\nPrompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 15-second gourmet burger ad, moving from empty surface to ingredient assembly to final macro hero shot. Use large S cells and smaller T cells, motion arrows, ghosted ingredient positions, steam, sauce trails, and camera push-in icons. Style: premium food commercial, warm lighting, rich texture, appetizing, cinematic, minimal labels only. No logos, no watermark.",
+    "excerpt": "Prompt 1: Create a cinematic hero image of a gourmet cheeseburger on a dark stone surface with glossy brioche bun, melted cheese, crisp lettuce, toma...",
+    "images": [
+      {
+        "url": "/upstream/images/ecommerce_case163/output.jpg",
+        "alt": "Burger hero image plus 9-cell ad storyboard 示例图 1",
+        "width": 1199,
+        "height": 675,
+        "thumbnailUrl": "/upstream/thumbs/ecommerce_case163/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 405,
+        "sourcePath": "images/ecommerce_case163/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/ecommerce_case163/output.jpg"
+      }
+    ],
+    "authorName": "Gdgtify",
+    "authorUrl": "https://x.com/Gdgtify",
+    "sourceUrl": "https://x.com/Gdgtify/status/2049449869530775877",
+    "caseNumber": 163,
+    "imageFolder": "ecommerce_case163",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:20:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3440,7 +3535,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3473,7 +3568,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3506,7 +3601,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3540,7 +3635,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049452006608392350",
+    "slug": "ccd-flash-beauty-portrait-template-2049452006608392350",
+    "title": "CCD flash beauty portrait template",
+    "category": "Portraits",
+    "categorySlug": "portraits",
+    "prompt": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush, high identity consistency, realistic human anatomy. Use an old CCD digital camera aesthetic with direct flash, visible grain, slight overexposure, cool-neutral white balance, slight motion blur, and candid composition. Hair in a loose romantic updo; outfit in delicate off-shoulder silk with embroidered floral fabric; background of pastel floral bedding; horizontal close-up; shallow depth of field. Negative prompt: over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face.",
+    "excerpt": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy comp...",
+    "images": [
+      {
+        "url": "/upstream/images/portrait_case104/output.jpg",
+        "alt": "CCD flash beauty portrait template 示例图 1",
+        "width": 899,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/portrait_case104/output.webp",
+        "thumbnailWidth": 539,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/portrait_case104/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/portrait_case104/output.jpg"
+      }
+    ],
+    "authorName": "AIwithAliya",
+    "authorUrl": "https://x.com/AIwithAliya",
+    "sourceUrl": "https://x.com/AIwithAliya/status/2049452006608392350",
+    "caseNumber": 104,
+    "imageFolder": "portrait_case104",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3574,7 +3703,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3608,7 +3737,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049468867106189319",
+    "slug": "character-key-visual-poster-with-silhouette-collage-2049468867106189319",
+    "title": "Character key visual poster with silhouette collage",
+    "category": "Characters",
+    "categorySlug": "characters",
+    "prompt": "A character promotional poster titled “INPUT NAME,” designed in a unified vertical key visual composition (9:16). The upper half features the most recognizable element of the character as a dominant oversized visual silhouette. The middle to lower section contains the full character as a secondary subject. Inside the large silhouette and around the character, use a double-exposure and collage-style narrative composition with scenes, symbolic imagery, supporting elements, and environmental details blended into mist, ink wash, and negative space. The left and right sides include complementary secondary elements to create narrative tension and spatial variation. A continuous flowing visual line runs from top to bottom, connecting the main character, internal collage, and the large upper silhouette. Preserve large areas of negative space with ink diffusion, soft blurring, and fragmented transitions inspired by Eastern aesthetics. The style is cohesive, refined, restrained, and poster-worthy.",
+    "excerpt": "A character promotional poster titled “INPUT NAME,” designed in a unified vertical key visual composition (9:16). The upper half features the most re...",
+    "images": [
+      {
+        "url": "/upstream/images/character_case14/output.jpg",
+        "alt": "Character key visual poster with silhouette collage 示例图 1",
+        "width": 675,
+        "height": 1199,
+        "thumbnailUrl": "/upstream/thumbs/character_case14/output.webp",
+        "thumbnailWidth": 405,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/character_case14/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/character_case14/output.jpg"
+      }
+    ],
+    "authorName": "SimplyAnnisa",
+    "authorUrl": "https://x.com/SimplyAnnisa",
+    "sourceUrl": "https://x.com/SimplyAnnisa/status/2049468867106189319",
+    "caseNumber": 14,
+    "imageFolder": "character_case14",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3642,7 +3805,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3676,7 +3839,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3704,7 +3867,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "character_case6",
@@ -3731,7 +3894,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2045396918965285111",
@@ -3764,7 +3927,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3798,7 +3961,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3831,7 +3994,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3865,7 +4028,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3899,7 +4062,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3933,7 +4096,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -3967,7 +4130,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4001,7 +4164,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4033,7 +4196,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2048080137149899133",
@@ -4066,7 +4229,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4100,7 +4263,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4128,7 +4291,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "case_case73",
@@ -4155,7 +4318,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "case_case76",
@@ -4182,7 +4345,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case11",
@@ -4209,7 +4372,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case17",
@@ -4236,7 +4399,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case18",
@@ -4263,7 +4426,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case19",
@@ -4290,7 +4453,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case2",
@@ -4317,7 +4480,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case20",
@@ -4344,7 +4507,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case21",
@@ -4371,7 +4534,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case22",
@@ -4398,7 +4561,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case3",
@@ -4425,7 +4588,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case4",
@@ -4452,7 +4615,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case6",
@@ -4479,7 +4642,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case7",
@@ -4506,7 +4669,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "comparison_case8",
@@ -4533,7 +4696,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2045167461147042202",
@@ -4566,7 +4729,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4600,7 +4763,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4634,7 +4797,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4668,7 +4831,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4701,7 +4864,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4733,7 +4896,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047537707904274795",
@@ -4766,7 +4929,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4800,7 +4963,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4833,7 +4996,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4867,7 +5030,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4901,7 +5064,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4935,7 +5098,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -4969,7 +5132,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5003,7 +5166,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5037,7 +5200,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5071,7 +5234,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5104,7 +5267,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5138,7 +5301,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5172,7 +5335,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5206,7 +5369,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5240,7 +5403,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5272,7 +5435,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2045684734714380687",
@@ -5305,7 +5468,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5339,7 +5502,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5373,7 +5536,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5407,7 +5570,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5441,7 +5604,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5475,7 +5638,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5509,7 +5672,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5543,7 +5706,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5577,7 +5740,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5611,7 +5774,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5645,7 +5808,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5679,7 +5842,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5713,7 +5876,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5747,7 +5910,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5781,7 +5944,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5815,7 +5978,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5849,7 +6012,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5882,7 +6045,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5915,7 +6078,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5949,7 +6112,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -5983,7 +6146,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6017,7 +6180,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6049,7 +6212,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047900470921040270",
@@ -6081,7 +6244,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6115,7 +6278,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6149,7 +6312,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6181,7 +6344,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2049073530738754042",
@@ -6214,7 +6377,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6248,7 +6411,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6282,7 +6445,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6316,7 +6479,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6350,7 +6513,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6384,7 +6547,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6418,7 +6581,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6452,7 +6615,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6486,7 +6649,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6519,7 +6682,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6552,7 +6715,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6585,7 +6748,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6619,41 +6782,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2048205418238030327",
-    "slug": "good-bath-day-editorial-poster-2048205418238030327",
-    "title": "Good Bath Day Editorial Poster",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "Create a soft editorial lifestyle poster for {argument name=\"event date\" default=\"4.26\"} celebrating Japanese bath culture, designed like a refined magazine feature page in portrait orientation. The layout is split into two main columns with a pale cream and warm gray background, thin divider lines, elegant serif typography, and muted sage-green accents. At the top left, include the small heading “LIFESTYLE / FEATURE”, then a large date line reading “{argument name=\"event date\" default=\"4.26\"} EVENT”, followed by the large Japanese title “よい風呂の日” and the subtitle “特集” in sage green, with a small bathtub icon nearby. Beneath that, add the Japanese tagline “心も体も、ととのう時間。” and several short body-text blocks in Japanese explaining the meaning of Good Bath Day, including references to “4(よ)2(ふ)6(ろ)” and the benefits of bathing for body and mind. On the right side, show a bright, airy bathroom interior lit by soft natural morning light from a window, with beige and off-white tones, a wooden counter, folded white towels, a pump bottle, a sponge, woven baskets, and a few green plants. In front of the bathroom scene, place a youthful anime-style person with {argument name=\"hair color\" default=\"soft medium brown\"} tousled short hair, fair skin, and a relaxed expression, standing in a casual post-bath pose. The character wears a loose white T-shirt with a tiny dark square chest logo and light brown drawstring lounge pants, one hand in a pocket and the other holding a white towel up near the face and shoulder, conveying a fresh, just-bathed feeling. Near the character, include the handwritten-style Japanese side note “湯上がりの、リラックスタイム。” Add an oval badge on the lower right of the main image area with the English heading “GOOD BATH DAY” and Japanese explanatory text inside, plus a small bathtub icon. Below the main feature, include exactly 2 small inset images of the same character in the bathroom, each framed as rectangular mini-panels with narrow vertical Japanese captions beside them. At the bottom, create exactly 4 rounded rectangular information cards in a row: card 1 labeled “POINT 01” with the heading “お風呂の基本” and text about soaking in lukewarm water around 38–40°C; card 2 labeled “POINT 02” with the heading “日常でできること” and text about making bathing part of a routine instead of only showering; card 3 labeled “POINT 03” with the heading “楽しみ方・取り入れ方” and text about bath salts, scents, music, and lighting; card 4 labeled “まとめ” with concluding Japanese text about sustainable self-care. Decorate the cards with small illustrated elements such as leaves, a bathtub, a candle, a bottle, lavender sprigs, and a basket of folded towels. Along the very bottom, add a horizontal green tip strip labeled “今日からできる TIP” with exactly 3 checklist items: “就寝の1〜2時間前に入浴する”, “スマホは浴室に持ち込まない”, and “水分補給を忘れずに”. Place a final handwritten-style Japanese phrase at the lower right reading “自分をいたわる時間を。” The overall look should be clean, gentle, wellness-focused, feminine-neutral, and polished like a Japanese seasonal magazine infographic, with delicate anime illustration, soft shadows, subtle textures, and calm spa-like atmosphere.",
-    "excerpt": "Create a soft editorial lifestyle poster for {argument name=\"event date\" default=\"4.26\"} celebrating Japanese bath culture, designed like a refined m...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case162/output.jpg",
-        "alt": "Good Bath Day Editorial Poster 示例图 1",
-        "width": 800,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/poster_case162/output.webp",
-        "thumbnailWidth": 480,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/poster_case162/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case162/output.jpg"
-      }
-    ],
-    "authorName": "Kazuch75240438",
-    "authorUrl": "https://x.com/Kazuch75240438",
-    "sourceUrl": "https://x.com/Kazuch75240438/status/2048205418238030327",
-    "caseNumber": 162,
-    "imageFolder": "poster_case162",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6687,7 +6816,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6721,7 +6850,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6755,7 +6884,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6789,7 +6918,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6823,7 +6952,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6855,7 +6984,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2046514998965371144",
@@ -6888,7 +7017,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6922,7 +7051,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6956,7 +7085,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -6989,7 +7118,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7022,41 +7151,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2049082049995362785",
-    "slug": "iced-coffee-product-infographic-2049082049995362785",
-    "title": "Iced Coffee Product Infographic",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.\n\nPROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.\n\nTop → Bottom structure:\nFoam Layer (light creamy foam with soft airy texture)\n→ Coffee Liquid (rich dark espresso layer with smooth gradient)\n→ Ice Cubes (transparent cubes with sharp edges and reflections)\n→ Milk Layer (soft creamy white layer with smooth blend effect)\n→ Glass Base (clear minimal glass structure)\n\nAll elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.\n\nAdd clean minimalist text labels with thin pointer lines using these exact labels:\n“Foam”\n“Coffee”\n“Ice”\n“Milk”\n“Glass”\nUltra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.",
-    "excerpt": "A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio back...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case170/output.jpg",
-        "alt": "Iced Coffee Product Infographic 示例图 1",
-        "width": 900,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/poster_case170/output.webp",
-        "thumbnailWidth": 540,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/poster_case170/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case170/output.jpg"
-      }
-    ],
-    "authorName": "Strength04_X",
-    "authorUrl": "https://x.com/Strength04_X",
-    "sourceUrl": "https://x.com/Strength04_X/status/2049082049995362785",
-    "caseNumber": 170,
-    "imageFolder": "poster_case170",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7090,7 +7185,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7124,7 +7219,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7158,7 +7253,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7192,7 +7287,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7226,7 +7321,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7260,7 +7355,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7294,7 +7389,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7326,41 +7421,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
-  },
-  {
-    "id": "2048192904922075161",
-    "slug": "japanese-sci-fi-suit-up-process-board-2048192904922075161",
-    "title": "Japanese Sci-Fi Suit-Up Process Board",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "{\"type\":\"Japanese sci-fi armor dressing-process infographic\",\"style\":\"cinematic live-action tokusatsu-inspired promotional board, realistic industrial lighting, polished metal surfaces, sharp photographic detail\",\"theme\":\"manual pre-battle suit-up sequence for a female hero in a red, silver, black, and blue protector suit\",\"subject\":{\"character\":{\"gender\":\"female\",\"age\":\"young adult\",\"identity\":\"helmetless heroine during assembly, face intentionally obscured or anonymized in every unhelmeted panel\",\"hair\":\"dark brown to black hair tied in a high ponytail with bangs\",\"undersuit\":\"glossy black skintight inner suit with silver chest panel and white neck ring\",\"armor\":\"retro-futuristic protector armor with red shoulder and arm plates, silver breastplate and torso plating, circular blue chest core, red waist unit, white gloves, red forearm guards with yellow stripe accents\",\"helmet\":\"round red-and-silver helmet with black visor\"},\"environment\":{\"location\":\"high-tech industrial hangar or armor bay\",\"background elements\":[\"metal framework\",\"robotic equipment\",\"tool benches\",\"armor racks\",\"computer monitors\",\"workshop lighting\",\"bay corridor marked BAY-07 in final panel\"]}},\"layout\":{\"header\":{\"count\":2,\"labels\":[\"ソルジャンヌ・スーツ 手動装着プロセス\",\"専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。\"],\"design\":\"wide black-to-red gradient banner across top, large bold white Japanese text, diagonal red accent\"},\"sections\":[{\"title\":\"1 インナースーツの確認\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。\"],\"image\":\"three-quarter view of the heroine in only the black glossy inner suit, looking down while checking or tightening a wrist connector\"},{\"title\":\"2 胸部・肩部アーマーの装着\",\"position\":\"top-center\",\"count\":1,\"labels\":[\"胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。\"],\"image\":\"mid shot with chest armor and red shoulder plates installed, heroine fastening the front torso area with both hands\"},{\"title\":\"3 腰部ユニット・ベルトの固定\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。\"],\"image\":\"mid shot with torso armor completed, heroine tightening or checking the waist belt and side locks\"},{\"title\":\"4 ヘルメットの準備\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。\"],\"image\":\"heroine holding the red helmet in both hands at chest height, showing the glossy black visor\"},{\"title\":\"5 ヘルメットの装着・システム起動\",\"position\":\"bottom-center\",\"count\":1,\"labels\":[\"ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。\"],\"image\":\"heroine placing the helmet onto her head with both hands; blue chest core glowing brightly\"},{\"title\":\"6 装着完了\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!\"],\"image\":\"full-body frontal hero pose in a futuristic corridor, fully suited with helmet on, arms relaxed at sides\"}],\"footer\":{\"count\":1,\"labels\":[\"一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。\"],\"design\":\"dark red cinematic footer strip with centered white Japanese slogan\"},\"grid\":{\"rows\":2,\"columns\":3,\"panel_count\":6,\"panel_borders\":\"thin white dividers\",\"number_badges\":6}},\"text_rendering\":{\"language\":\"Japanese\",\"font\":\"bold sans-serif headline with smaller sans-serif body text\",\"colors\":\"white text on black, red, and white info bars; red numbered squares with white numerals\"},\"composition\":\"16:9 wide infographic board, six equal photo panels arranged in a 3-by-2 grid, each panel captioned below with a red numbered box from 1 to 6\",\"lighting\":\"moody workshop lighting with metallic reflections and red accent lights, realistic shadows, cinematic sci-fi atmosphere\"}",
-    "excerpt": "{\"type\":\"Japanese sci-fi armor dressing-process infographic\",\"style\":\"cinematic live-action tokusatsu-inspired promotional board, realistic industria...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case163/output.jpg",
-        "alt": "Japanese Sci-Fi Suit-Up Process Board 示例图 1",
-        "width": 1199,
-        "height": 675,
-        "thumbnailUrl": "/upstream/thumbs/poster_case163/output.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 405,
-        "sourcePath": "images/poster_case163/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case163/output.jpg"
-      }
-    ],
-    "authorName": "yy7482933910896",
-    "authorUrl": "https://x.com/yy7482933910896",
-    "sourceUrl": "https://x.com/yy7482933910896/status/2048192904922075161",
-    "caseNumber": 163,
-    "imageFolder": "poster_case163",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2046514558064586782",
@@ -7393,7 +7454,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7427,7 +7488,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7461,7 +7522,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7495,7 +7556,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7529,7 +7590,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7562,7 +7623,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7596,7 +7657,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7630,7 +7691,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7664,7 +7725,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7697,7 +7758,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7730,7 +7791,41 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049459155086500321",
+    "slug": "luxury-chocolate-campaign-system-2049459155086500321",
+    "title": "Luxury chocolate campaign system",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate brands. The ad should feel like a high-end editorial campaign, combining luxury food photography, refined packaging design, and cinematic lighting. Use matte black wrapper, subtle gold foil, elegant serif typography, and realistic product rendering. Generate flavor variants such as Blood Orange Noir, Salted Pistachio Muse, and Raspberry Ember with distinct mood, color palette, ingredients, headline, and supporting copy. Keep the chocolate bar as hero centerpiece with subtle reflections, shallow depth of field, luxury minimalism, and a small CTA: “Shop the drop.”",
+    "excerpt": "Create a premium, square (1:1) product advertisement for a fictional luxury chocolate brand called Noirvelle Chocolat, inspired by high-end chocolate...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case169/output.jpg",
+        "alt": "Luxury chocolate campaign system 示例图 1",
+        "width": 1200,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case169/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case169/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case169/output.jpg"
+      }
+    ],
+    "authorName": "SPEEDAI07",
+    "authorUrl": "https://x.com/SPEEDAI07",
+    "sourceUrl": "https://x.com/SPEEDAI07/status/2049459155086500321",
+    "caseNumber": 169,
+    "imageFolder": "poster_case169",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7763,7 +7858,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7797,7 +7892,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7831,7 +7926,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7865,7 +7960,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049462065639858687",
+    "slug": "luxury-poster-for-fictional-ai-ad-printer-2049462065639858687",
+    "title": "Luxury poster for fictional AI ad printer",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "縦型3:4の、高級商業ポスターを制作してください。\n\nテーマは、架空の新商品広告です。商品は「BRAND PRESS 01（ブランドプレス・ゼロワン）」という、Pollo AIを搭載した架空の広告ポスター生成プリンターです。\n\nこの商品は、まだ存在しないブランド名・商品ジャンル・世界観・ターゲット層を入力すると、Pollo AIがコピー、ビジュアル、レイアウトまで完成された商業広告ポスターを自動生成し、高精細な印刷物としてその場で出力する未来型プリンターです。単なるAIサービスの概念広告ではなく、実際に販売されていそうな架空商品の広告として成立させてください。\n\nメインコンセプト: 「まだないブランドに、最初の一目惚れを。」\n\n商品ビジュアル: 画面中央に実物の商品「BRAND PRESS 01」を大きく配置。未来型の高級プロ用印刷デバイスとして、黒い金属筐体、シルバーのエッジ、透明カバー、青白く発光するAIコア、精密な印刷ヘッド、ローラー、タッチパネル、排紙スロット、ポスター受けトレイを備える。排紙スロットから、架空の高級香水ブランド広告ポスターが紙として大きく出力されている構図。\n\n構図: ややローアングル、斜め45度。背景は暗いネイビーから黒の高級広告制作スタジオ。映画的でドラマチックな高級プロダクト広告。\n\n広告レイアウト: 上部に大きなキャッチコピー、中央にプリンター本体と排出中のポスター、右側に機能説明、左下に価格と発売日、下部にCTA。\n\n入れる文字: 「まだないブランドに、最初の一目惚れを。」 / BRAND PRESS 01 / 「Pollo AI搭載・広告ポスター生成プリンター」 / 「名前だけのアイデアを、完成された商業ポスターとして出力。」 / 「構想、コピー、ビジュアル、印刷まで。1台で。」",
+    "excerpt": "縦型3:4の、高級商業ポスターを制作してください。 テーマは、架空の新商品広告です。商品は「BRAND PRESS 01（ブランドプレス・ゼロワン）」という、Pollo AIを搭載した架空の広告ポスター生成プリンターです。 この商品は、まだ存在しないブランド名・商品ジャンル・世界観・ターゲット層を...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case168/output.jpg",
+        "alt": "Luxury poster for fictional AI ad printer 示例图 1",
+        "width": 896,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case168/output.webp",
+        "thumbnailWidth": 538,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case168/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case168/output.jpg"
+      }
+    ],
+    "authorName": "nijisora_yuma",
+    "authorUrl": "https://x.com/nijisora_yuma",
+    "sourceUrl": "https://x.com/nijisora_yuma/status/2049462065639858687",
+    "caseNumber": 168,
+    "imageFolder": "poster_case168",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7898,7 +8027,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7932,7 +8061,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -7966,7 +8095,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8000,7 +8129,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8034,7 +8163,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049468986828697940",
+    "slug": "miyazaki-style-short-film-pipeline-2049468986828697940",
+    "title": "Miyazaki-style short film pipeline",
+    "category": "Comparisons",
+    "categorySlug": "comparisons",
+    "prompt": "Given a story concept, generate a complete Miyazaki-style animated short film: write a 30-shot script → generate watercolor storyboard images (gpt-image-1) → plan SOFT/HARD transitions → produce video clips with Seedance 2.0 using first/last-frame binding → synthesize the original ambient piano score → stitch everything into a final MP4 with music.",
+    "excerpt": "Given a story concept, generate a complete Miyazaki-style animated short film: write a 30-shot script → generate watercolor storyboard images (gpt-im...",
+    "images": [
+      {
+        "url": "/upstream/images/comparison_case76/output.jpg",
+        "alt": "Miyazaki-style short film pipeline 示例图 1",
+        "width": 832,
+        "height": 709,
+        "thumbnailUrl": "/upstream/thumbs/comparison_case76/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 614,
+        "sourcePath": "images/comparison_case76/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/comparison_case76/output.jpg"
+      }
+    ],
+    "authorName": "happycapyai",
+    "authorUrl": "https://x.com/happycapyai",
+    "sourceUrl": "https://x.com/happycapyai/status/2049468986828697940",
+    "caseNumber": 76,
+    "imageFolder": "comparison_case76",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:20:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8068,7 +8231,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8102,7 +8265,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8136,7 +8299,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8170,7 +8333,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8204,7 +8367,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8238,7 +8401,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8272,7 +8435,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8305,7 +8468,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8339,7 +8502,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8372,7 +8535,41 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049460661109879022",
+    "slug": "new-york-across-two-centuries-cinematic-poster-2049460661109879022",
+    "title": "New York across two centuries cinematic poster",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Create a cinematic 3:4 vertical poster of New York City that feels truly epic and unconventional, showing the passage from the 20th century to the 21st century in one seamless image. Place a lone figure at the center of the composition, standing in the middle of the street and looking forward as if witnessing New York across time. The left side should depict 20th-century New York with warm sepia atmosphere, vintage taxis, old newsstands, retro lamps, and landmarks like the Chrysler Building and Empire State Building. The right side should depict 21st-century New York with glass skyscrapers, One World Trade Center, digital billboards, and modern urban energy. Make the transition natural rather than split-screen, with coherent perspective, wet reflective pavement, realistic textures, atmospheric depth, and no text.",
+    "excerpt": "Create a cinematic 3:4 vertical poster of New York City that feels truly epic and unconventional, showing the passage from the 20th century to the 21...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case174/output.jpg",
+        "alt": "New York across two centuries cinematic poster 示例图 1",
+        "width": 900,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case174/output.webp",
+        "thumbnailWidth": 540,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case174/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case174/output.jpg"
+      }
+    ],
+    "authorName": "Shinning1010",
+    "authorUrl": "https://x.com/Shinning1010",
+    "sourceUrl": "https://x.com/Shinning1010/status/2049460661109879022",
+    "caseNumber": 174,
+    "imageFolder": "poster_case174",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8405,7 +8602,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8439,7 +8636,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8473,7 +8670,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8506,7 +8703,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8540,41 +8737,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2049081198211736062",
-    "slug": "outdoor-sportswear-grid-campaign-2049081198211736062",
-    "title": "Outdoor Sportswear Grid Campaign",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-energy, editorial-style composition with bold typography and textured graphic design.\n\nTop-left panel:\nAthletic male model in a bright blue insulated winter jacket, black snow pants, gloves, and sunglasses, stepping forward in a snowy environment. Snow particles flying, dramatic motion. Background features rough blue paint brush strokes. Bold distressed typography reads: “NEVER STOP EXPLORING.” Additional small text: “Built for extremes.” High contrast, rugged winter exploration theme.\n\nTop-right panel:\nFit male hiker climbing rocky terrain, wearing an olive green shirt, black trekking pants, and a large black backpack with orange straps. Dust and debris kicking up from the ground. Background includes orange paint strokes and sketched mountain graphics. Bold text: “BUILT FOR HERE – INDIA TESTED.” Handwritten Hindi accents and arrows. Warm earthy tones.\n\nBottom-left panel:\nCalm outdoor scene with a male model sitting on a rock, wearing a green jacket, beanie, sunglasses, and hiking shoes. Minimal scenic mountain illustration in the background with soft green tones. Typography reads: “ESCAPE THE NOISE – JUST GO OUTSIDE.” Clean, relaxed, nature-focused aesthetic with subtle graphic elements.\n\nBottom-right panel:\nEnergetic female runner in motion wearing a purple athletic t-shirt, black shorts, and running shoes. Bright, playful background with purple and yellow paint splashes, doodles, arrows, and sun illustration. Bold typography: “READY FOR EVERYONE – START YOUR JOURNEY.” Youthful, vibrant fitness energy.\n\nOverall style:\n\nHigh-resolution, photorealistic sportswear campaign\n\nBold brushstroke textures and grunge overlays\n\nMixed typography: distressed, handwritten, and modern sans-serif\n\nStrong color blocking per panel (blue, orange, green, purple)\n\nDynamic poses conveying motion, strength, and adventure\n\nClean grid layout with balanced spacing\n\nCommercial advertising / brand campaign aesthetic (Nike, Decathlon style)\n\nLighting: Professional, cinematic lighting with sharp detail and contrast\nMood: Energetic, adventurous, motivational\nAspect ratio: 1:1 (square collage)",
-    "excerpt": "A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-ener...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case168/output.jpg",
-        "alt": "Outdoor Sportswear Grid Campaign 示例图 1",
-        "width": 1200,
-        "height": 1200,
-        "thumbnailUrl": "/upstream/thumbs/poster_case168/output.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 720,
-        "sourcePath": "images/poster_case168/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case168/output.jpg"
-      }
-    ],
-    "authorName": "SPEEDAI07",
-    "authorUrl": "https://x.com/SPEEDAI07",
-    "sourceUrl": "https://x.com/SPEEDAI07/status/2049081198211736062",
-    "caseNumber": 168,
-    "imageFolder": "poster_case168",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8608,41 +8771,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2048307780864606708",
-    "slug": "parent-child-miscommunication-infographic-2048307780864606708",
-    "title": "Parent-Child Miscommunication Infographic",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "{\"type\":\"Japanese infographic\",\"style\":\"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minimal pastel color palette, presentation-slide design, clear hierarchy, lots of whitespace, modern sans-serif Japanese typography\",\"canvas\":{\"aspect_ratio\":\"16:9\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"親子のすれ違いは、記録があるかないかで起こる\\\"}\",\"position\":\"top center\",\"size\":\"large bold black\"},\"layout\":{\"structure\":\"2 side-by-side rounded panels beneath the headline\",\"sections\":[{\"title\":\"記録がない場合(ズレる)\",\"position\":\"left\",\"count\":8,\"header_color\":\"muted blue-gray\",\"panel_border\":\"light gray\",\"labels\":[\"親の記憶\",\"子どもの記憶\",\"あのとき決まったよね\",\"まだ考えてたのに\",\"ズレが大きくなる\",\"志望校がコロコロ変わる\",\"理由が『なんとなく』\",\"言ってることが違う\",\"関係がギクシャク\",\"現実を見てほしい\",\"ちゃんと決めてほしい\",\"口を出しすぎると関係が悪くなる\"],\"contents\":{\"top_left\":{\"type\":\"parent icon with thought bubble\",\"icon_color\":\"blue\",\"caption\":\"親の記憶\",\"bubble_text\":\"あのとき\\n決まったよね\"},\"top_right\":{\"type\":\"child icon with thought bubble\",\"icon_color\":\"pink\",\"caption\":\"子どもの記憶\",\"bubble_text\":\"まだ考えてたのに\"},\"center\":{\"type\":\"horizontal double-headed arrow\",\"color\":\"blue-gray\"},\"bottom_center\":{\"type\":\"downward arrow leading to burst shape\",\"color\":\"light gray\",\"burst_text\":\"ズレが\\n大きくなる\"},\"bottom_left\":{\"type\":\"rounded note box\",\"bullet_count\":4,\"bullets\":[\"志望校がコロコロ変わる\",\"理由が『なんとなく』\",\"言ってることが違う\",\"関係がギクシャク\"]},\"bottom_right\":{\"type\":\"rounded note box\",\"bullet_count\":3,\"bullets\":[\"現実を見てほしい\",\"ちゃんと決めてほしい\",\"口を出しすぎると関係が悪くなる\"]}}},{\"title\":\"記録がある場合(ズレにくい)\",\"position\":\"right\",\"count\":7,\"header_color\":\"mustard yellow\",\"panel_border\":\"light yellow\",\"labels\":[\"親の認識\",\"子どもの認識\",\"記録\"],\"contents\":{\"top_left\":{\"type\":\"parent icon with thought bubble containing document symbol\",\"icon_color\":\"blue\",\"caption\":\"親の認識\"},\"top_right\":{\"type\":\"child icon with thought bubble containing document symbol\",\"icon_color\":\"pink\",\"caption\":\"子どもの認識\"},\"center\":{\"type\":\"horizontal double-headed arrow\",\"color\":\"mustard yellow\"},\"bottom_center\":{\"type\":\"circular record icon with document symbol\",\"outline_color\":\"mustard yellow\",\"text\":\"記録\"},\"bottom_left_connector\":{\"type\":\"curved arrow from parent to record\",\"color\":\"blue\"},\"bottom_right_connector\":{\"type\":\"curved arrow from child to record\",\"color\":\"pink\"}}}],\"spacing\":\"balanced, symmetrical\"},\"visual_language\":{\"icons\":\"generic human bust icons and simple document line icons\",\"emphasis\":\"contrast the left panel's misunderstanding with the right panel's shared record\",\"mood\":\"educational, calm, practical\"},\"text_language\":\"Japanese\",\"render_quality\":\"crisp vector edges, infographic suitable for social media educational posts\"}",
-    "excerpt": "{\"type\":\"Japanese infographic\",\"style\":\"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minim...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case161/output.jpg",
-        "alt": "Parent-Child Miscommunication Infographic 示例图 1",
-        "width": 1200,
-        "height": 630,
-        "thumbnailUrl": "/upstream/thumbs/poster_case161/output.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 378,
-        "sourcePath": "images/poster_case161/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case161/output.jpg"
-      }
-    ],
-    "authorName": "sarinaashapi",
-    "authorUrl": "https://x.com/sarinaashapi",
-    "sourceUrl": "https://x.com/sarinaashapi/status/2048307780864606708",
-    "caseNumber": 161,
-    "imageFolder": "poster_case161",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8676,7 +8805,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8710,7 +8839,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8743,7 +8872,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8777,7 +8906,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8811,7 +8940,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049359171594903856",
+    "slug": "pixel-game-concept-board-from-tv-drama-theme-2049359171594903856",
+    "title": "Pixel game concept board from TV drama theme",
+    "category": "Characters",
+    "categorySlug": "characters",
+    "prompt": "爱情公寓 电视剧主题 像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。\n\n随机一个经典国内古装电视剧，生成古装电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。\n\n「XXX」电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物（人物别重复）形象三视图，底部是场景特写，右下角是剧情梗概。",
+    "excerpt": "爱情公寓 电视剧主题 像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。 随机一个经典国内古装电视剧，生成古装电视剧主题像素养成类游戏概念图，包括场景全局内容，周围环绕各人物形象三视图，底部是场景特写，右下角是剧情梗概。 「XXX」电视剧主题像素养...",
+    "images": [
+      {
+        "url": "/upstream/images/character_case15/output.jpg",
+        "alt": "Pixel game concept board from TV drama theme 示例图 1",
+        "width": 1200,
+        "height": 675,
+        "thumbnailUrl": "/upstream/thumbs/character_case15/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 405,
+        "sourcePath": "images/character_case15/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/character_case15/output.jpg"
+      }
+    ],
+    "authorName": "sciencedegens",
+    "authorUrl": "https://x.com/sciencedegens",
+    "sourceUrl": "https://x.com/sciencedegens/status/2049359171594903856",
+    "caseNumber": 15,
+    "imageFolder": "character_case15",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:20:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -8845,8 +9008,35 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
+  },
+  {
+    "id": "poster_case163",
+    "slug": "posters-case-163-poster-case163",
+    "title": "Posters Case 163",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "excerpt": "The upstream repository currently exposes images for this case, but no standalone prompt text.",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case163/output.jpg",
+        "alt": "Posters Case 163 示例图 1",
+        "width": 1199,
+        "height": 675,
+        "thumbnailUrl": "/upstream/thumbs/poster_case163/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 405,
+        "sourcePath": "images/poster_case163/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case163/output.jpg"
+      }
+    ],
+    "imageFolder": "poster_case163",
+    "sources": [
+      "images/"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "poster_case17",
@@ -8873,7 +9063,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "poster_case18",
@@ -8900,7 +9090,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "poster_case19",
@@ -8927,7 +9117,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "poster_case20",
@@ -8954,7 +9144,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "poster_case21",
@@ -8981,7 +9171,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "poster_case6",
@@ -9008,7 +9198,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2046406024303976904",
@@ -9041,7 +9231,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049122713722106161",
+    "slug": "premium-food-photography-template-2049122713722106161",
+    "title": "Premium food photography template",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Create a square [ASPECT RATIO] premium food photography image of a steaming [FOOD] served in a dark black stone bowl or cast-iron skillet on a wooden board. The dish should look hot, glossy, spicy, and freshly served, with bite-sized pieces of browned protein, dried red chilies, green scallions, white onion, garlic, chili flakes, and visible Sichuan peppercorns coated in a deep red, oily Szechuan sauce. Use a slightly elevated close-up camera angle with shallow depth of field. Make the food the clear hero of the image, centered and richly detailed. Add visible steam rising naturally from the dish. Surround the bowl with subtle restaurant-style props like a dark red tray, scattered dried chilies, peppercorns, a small sauce bowl, or a blurred teapot in the background. Lighting should feel warm, moody, and editorial, like a high-end restaurant food shoot. Emphasize realistic textures and keep the image appetizing, realistic, cinematic, and polished. Avoid text, logos, hands, people, utensils covering the food, cartoon styling, fake plastic textures, excessive symmetry, or an overly clean stock-photo look.",
+    "excerpt": "Create a square [ASPECT RATIO] premium food photography image of a steaming [FOOD] served in a dark black stone bowl or cast-iron skillet on a wooden...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case162/output.jpg",
+        "alt": "Premium food photography template 示例图 1",
+        "width": 1024,
+        "height": 1024,
+        "thumbnailUrl": "/upstream/thumbs/poster_case162/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case162/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case162/output.jpg"
+      }
+    ],
+    "authorName": "PrometheanAIX",
+    "authorUrl": "https://x.com/PrometheanAIX",
+    "sourceUrl": "https://x.com/PrometheanAIX/status/2049122713722106161",
+    "caseNumber": 162,
+    "imageFolder": "poster_case162",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9074,7 +9298,41 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049141839882522707",
+    "slug": "premium-product-studio-shot-template-2049141839882522707",
+    "title": "Premium product studio shot template",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Create a premium product studio image of a [PRODUCT] for [BRAND], designed in line with [BRAND REFERENCE]. Show the [PRODUCT] floating against a clean light gray to soft white gradient background with a minimal high-end tech aesthetic. The [PRODUCT] should feel sleek, modern, refined, and premium, with subtle illuminated accents in [LIGHTING COLOR]. Use a three-quarter front angle so both earcups are visible, with detailed industrial design elements. Include the [BRAND] name cleanly on the product. Lighting should be soft, controlled, and editorial, with crisp highlights, soft shadows, and a subtle colored rim light or glow in [LIGHTING COLOR]. Emphasize material realism and clean geometric forms. Keep the background uncluttered and minimal. No extra props, no people, no text overlays, no packaging, and no distracting elements. Focus entirely on the [PRODUCT] as the hero product.",
+    "excerpt": "Create a premium product studio image of a [PRODUCT] for [BRAND], designed in line with [BRAND REFERENCE]. Show the [PRODUCT] floating against a clea...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case161/output.jpg",
+        "alt": "Premium product studio shot template 示例图 1",
+        "width": 1200,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case161/output.webp",
+        "thumbnailWidth": 720,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case161/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case161/output.jpg"
+      }
+    ],
+    "authorName": "PrometheanAIX",
+    "authorUrl": "https://x.com/PrometheanAIX",
+    "sourceUrl": "https://x.com/PrometheanAIX/status/2049141839882522707",
+    "caseNumber": 161,
+    "imageFolder": "poster_case161",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9108,7 +9366,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9140,7 +9398,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2049081194156020046",
@@ -9173,7 +9431,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9206,7 +9464,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9239,7 +9497,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9273,7 +9531,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9306,7 +9564,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9340,7 +9598,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9374,7 +9632,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9408,7 +9666,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9442,7 +9700,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9476,7 +9734,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9510,7 +9768,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9544,7 +9802,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9578,7 +9836,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9612,7 +9870,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9646,7 +9904,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9680,7 +9938,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9714,7 +9972,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9748,7 +10006,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9781,7 +10039,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9815,7 +10073,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9849,7 +10107,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9883,7 +10141,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9917,7 +10175,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9950,7 +10208,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -9984,7 +10242,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10018,7 +10276,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10052,7 +10310,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10085,7 +10343,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10119,7 +10377,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10153,7 +10411,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10187,7 +10445,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10220,7 +10478,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10254,7 +10512,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10287,7 +10545,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10321,7 +10579,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10355,7 +10613,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10389,7 +10647,40 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2047884126343032995",
+    "slug": "surrealist-liquor-brand-high-fashion-poster-2047884126343032995",
+    "title": "Surrealist Liquor Brand High Fashion Poster",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color naranja claro, con un suelo semirreflectante.\nEl foco central es una botella de Aguardiente Amarillo de tamaño descomunal y gigante, colocada en ángulo diagonal y que sirve como respaldo. Un modelo masculino de moda, de cabello largo y oscuro, vestido con un conjunto impecable y totalmente blanco —compuesto por una sudadera y pantalones de pierna ancha—, apoya toda su espalda contra la botella gigante en una postura relajada e inclinada. Mira hacia la derecha, de perfil, con la vista al frente y una expresión serena; calza zapatillas blancas de tamaño estándar.\nEn el fondo, la palabra \"AGUARDIENTE\" aparece escrita con una tipografía sans-serif condensada, blanca, masiva y en negrita, parcialmente oculta por la botella gigante y por el modelo para crear una sensación de profundidad. En la esquina superior derecha se lee: \"Creado por @HMontilla_\".\nEn la parte inferior central, una frase publicitaria en tipografía sans-serif blanca reza: \"El Aguardiente Amarillo de Manzanares es un icónico licor colombiano, originario de 1885 en Manzanares, Caldas\". La iluminación es suave, fría y uniforme, proyectando sombras tenues y un reflejo sutil de los sujetos sobre el suelo azul brillante. La estética general es limpia, moderna y de alto concepto.\n\nEstablecer la relación de aspecto en 3:4.",
+    "excerpt": "Un póster publicitario surrealista de alta costura para Aguardiente Amarillo. La escena se sitúa en un estudio minimalista y monocromático de color n...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case60/output.jpg",
+        "alt": "Surrealist Liquor Brand High Fashion Poster 示例图 1",
+        "width": 900,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case60/output.webp",
+        "thumbnailWidth": 540,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case60/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case60/output.jpg"
+      }
+    ],
+    "authorName": "hmontilla_",
+    "authorUrl": "https://x.com/hmontilla_",
+    "sourceUrl": "https://x.com/hmontilla_/status/2047884126343032995",
+    "caseNumber": 75,
+    "imageFolder": "poster_case60",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10422,7 +10713,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10455,7 +10746,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10489,7 +10780,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10523,7 +10814,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10556,7 +10847,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10590,41 +10881,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
-    "metrics": {}
-  },
-  {
-    "id": "2049080259476349218",
-    "slug": "topographic-letter-satellite-panels-2049080259476349218",
-    "title": "Topographic Letter Satellite Panels",
-    "category": "Posters",
-    "categorySlug": "posters",
-    "prompt": "Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together forming the word \"MADPENCIL\", each panel containing one letter created entirely from natural Earth topography, no artificial text overlays:\n\nPanel 1 (M): rugged mountain ranges and deep valleys forming a sharp, angular \"M\", rocky textures, high elevation shadows\nPanel 2 (A): winding river cutting through dense green forest forming an organic \"A\", strong contrast between water and vegetation\nPanel 3 (D): desert dunes and wind-sculpted sand patterns shaping a smooth \"D\", warm tones, soft gradients\nPanel 4 (P): agricultural farmland grids and patchwork fields forming a structured \"P\", geometric patterns clearly visible\nPanel 5 (E): glacier and ice formations carving a crisp \"E\", bright whites and icy blues, fractured textures\nPanel 6 (N): braided river system across floodplains forming \"N\", branching channels with natural flow lines\nPanel 7 (C): coastal shoreline and ocean edge shaping a curved \"C\", waves and sediment gradients visible\nPanel 8 (I): narrow canyon or straight river cutting through terrain forming a minimal \"I\", strong vertical emphasis\nPanel 9 (L): volcanic terrain with lava flows forming an \"L\", dark rock with glowing red/orange lava accents\n\ntop-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain",
-    "excerpt": "Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together...",
-    "images": [
-      {
-        "url": "/upstream/images/poster_case169/output.jpg",
-        "alt": "Topographic Letter Satellite Panels 示例图 1",
-        "width": 1200,
-        "height": 600,
-        "thumbnailUrl": "/upstream/thumbs/poster_case169/output.webp",
-        "thumbnailWidth": 720,
-        "thumbnailHeight": 360,
-        "sourcePath": "images/poster_case169/output.jpg",
-        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case169/output.jpg"
-      }
-    ],
-    "authorName": "madpencil_",
-    "authorUrl": "https://x.com/madpencil_",
-    "sourceUrl": "https://x.com/madpencil_/status/2049080259476349218",
-    "caseNumber": 169,
-    "imageFolder": "poster_case169",
-    "sources": [
-      "README.md",
-      "data/ingested_tweets.json"
-    ],
-    "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10658,7 +10915,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10692,7 +10949,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10725,7 +10982,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10753,7 +11010,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "ui_case12",
@@ -10780,7 +11037,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "ui_case26",
@@ -10807,7 +11064,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "ui_case6",
@@ -10834,7 +11091,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "905e84242416336c",
@@ -10865,7 +11122,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2047175250761433416",
@@ -10897,7 +11154,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10930,7 +11187,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10964,7 +11221,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -10998,7 +11255,41 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049452842931630202",
+    "slug": "urban-fruit-juice-ad-poster-2049452842931630202",
+    "title": "Urban fruit juice ad poster",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a bright urban indoor hallway with colorful graffiti wall art on one side and clean minimal architecture on the other. In the foreground, a giant realistic fruit juice bottle is held toward the camera in forced perspective, with fictional branding like “VIVAJUICE”. Add brand logo, tagline, huge bold overlapping typography, four icon-based feature badges, and three smaller bottle variants at bottom right. Use soft natural lighting mixed with commercial studio polish, realistic shadows, shallow depth of field, glossy floor reflections, and a premium energetic eCommerce campaign aesthetic.",
+    "excerpt": "Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a brig...",
+    "images": [
+      {
+        "url": "/upstream/images/poster_case170/output.jpg",
+        "alt": "Urban fruit juice ad poster 示例图 1",
+        "width": 900,
+        "height": 1200,
+        "thumbnailUrl": "/upstream/thumbs/poster_case170/output.webp",
+        "thumbnailWidth": 540,
+        "thumbnailHeight": 720,
+        "sourcePath": "images/poster_case170/output.jpg",
+        "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/poster_case170/output.jpg"
+      }
+    ],
+    "authorName": "AIwithSarah_",
+    "authorUrl": "https://x.com/AIwithSarah_",
+    "sourceUrl": "https://x.com/AIwithSarah_/status/2049452842931630202",
+    "caseNumber": 170,
+    "imageFolder": "poster_case170",
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-29T13:10:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -11032,7 +11323,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -11066,7 +11357,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -11100,7 +11391,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -11134,7 +11425,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -11168,7 +11459,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
   },
   {
@@ -11200,7 +11491,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "2048114180906217566",
@@ -11233,8 +11524,42 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
     "metrics": {}
+  },
+  {
+    "id": "9c3d4952a1783b99",
+    "slug": "見-自分-妄想-映像-作-x-com-os-shim-status-2047130379409400148",
+    "title": "「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」",
+    "category": "Comparisons",
+    "categorySlug": "comparisons",
+    "prompt": "「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」",
+    "excerpt": "「このポスターを見みて、自分で妄想してトレーラー映像を作ってくれ。」",
+    "images": [],
+    "authorName": "os_shim",
+    "authorUrl": "https://x.com/os_shim",
+    "sourceUrl": "https://x.com/os_shim/status/2047130379409400148",
+    "sources": [
+      "data/ingested_tweets.json"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
+  },
+  {
+    "id": "cb2da8ebea0d53e9",
+    "slug": "gpt-image-2-帮我生成关于西红柿的全套产品电商介绍图片-x-com-adam38363368936-status-2047165092253532461",
+    "title": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片",
+    "category": "Comparisons",
+    "categorySlug": "comparisons",
+    "prompt": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片",
+    "excerpt": "/gpt-image-2 帮我生成关于西红柿的全套产品电商介绍图片",
+    "images": [],
+    "authorName": "Adam38363368936",
+    "authorUrl": "https://x.com/Adam38363368936",
+    "sourceUrl": "https://x.com/Adam38363368936/status/2047165092253532461",
+    "sources": [
+      "data/ingested_tweets.json"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "5716b293388e5c72",
@@ -11251,7 +11576,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "e419b632cd38ad38",
@@ -11268,7 +11593,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "3d2c9a637875afb5",
@@ -11285,7 +11610,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "05634aaa2b04c696",
@@ -11302,7 +11627,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "380ea0cae11f03e6",
@@ -11319,7 +11644,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   },
   {
     "id": "c309edb09aaac273",
@@ -11337,7 +11662,133 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
+  },
+  {
+    "id": "2048205418238030327",
+    "slug": "good-bath-day-editorial-poster-2048205418238030327",
+    "title": "Good Bath Day Editorial Poster",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Create a soft editorial lifestyle poster for {argument name=\"event date\" default=\"4.26\"} celebrating Japanese bath culture, designed like a refined magazine feature page in portrait orientation. The layout is split into two main columns with a pale cream and warm gray background, thin divider lines, elegant serif typography, and muted sage-green accents. At the top left, include the small heading “LIFESTYLE / FEATURE”, then a large date line reading “{argument name=\"event date\" default=\"4.26\"} EVENT”, followed by the large Japanese title “よい風呂の日” and the subtitle “特集” in sage green, with a small bathtub icon nearby. Beneath that, add the Japanese tagline “心も体も、ととのう時間。” and several short body-text blocks in Japanese explaining the meaning of Good Bath Day, including references to “4(よ)2(ふ)6(ろ)” and the benefits of bathing for body and mind. On the right side, show a bright, airy bathroom interior lit by soft natural morning light from a window, with beige and off-white tones, a wooden counter, folded white towels, a pump bottle, a sponge, woven baskets, and a few green plants. In front of the bathroom scene, place a youthful anime-style person with {argument name=\"hair color\" default=\"soft medium brown\"} tousled short hair, fair skin, and a relaxed expression, standing in a casual post-bath pose. The character wears a loose white T-shirt with a tiny dark square chest logo and light brown drawstring lounge pants, one hand in a pocket and the other holding a white towel up near the face and shoulder, conveying a fresh, just-bathed feeling. Near the character, include the handwritten-style Japanese side note “湯上がりの、リラックスタイム。” Add an oval badge on the lower right of the main image area with the English heading “GOOD BATH DAY” and Japanese explanatory text inside, plus a small bathtub icon. Below the main feature, include exactly 2 small inset images of the same character in the bathroom, each framed as rectangular mini-panels with narrow vertical Japanese captions beside them. At the bottom, create exactly 4 rounded rectangular information cards in a row: card 1 labeled “POINT 01” with the heading “お風呂の基本” and text about soaking in lukewarm water around 38–40°C; card 2 labeled “POINT 02” with the heading “日常でできること” and text about making bathing part of a routine instead of only showering; card 3 labeled “POINT 03” with the heading “楽しみ方・取り入れ方” and text about bath salts, scents, music, and lighting; card 4 labeled “まとめ” with concluding Japanese text about sustainable self-care. Decorate the cards with small illustrated elements such as leaves, a bathtub, a candle, a bottle, lavender sprigs, and a basket of folded towels. Along the very bottom, add a horizontal green tip strip labeled “今日からできる TIP” with exactly 3 checklist items: “就寝の1〜2時間前に入浴する”, “スマホは浴室に持ち込まない”, and “水分補給を忘れずに”. Place a final handwritten-style Japanese phrase at the lower right reading “自分をいたわる時間を。” The overall look should be clean, gentle, wellness-focused, feminine-neutral, and polished like a Japanese seasonal magazine infographic, with delicate anime illustration, soft shadows, subtle textures, and calm spa-like atmosphere.",
+    "excerpt": "Create a soft editorial lifestyle poster for {argument name=\"event date\" default=\"4.26\"} celebrating Japanese bath culture, designed like a refined m...",
+    "images": [],
+    "authorName": "Kazuch75240438",
+    "authorUrl": "https://x.com/Kazuch75240438",
+    "sourceUrl": "https://x.com/Kazuch75240438/status/2048205418238030327",
+    "caseNumber": 162,
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-27T02:35:44.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049082049995362785",
+    "slug": "iced-coffee-product-infographic-2049082049995362785",
+    "title": "Iced Coffee Product Infographic",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio background. The drink shows a rich dark coffee base blending with creamy milk swirls, creating a smooth gradient effect. Several clear ice cubes are visible with realistic transparency and light refraction. The glass has subtle condensation droplets, adding freshness. Soft natural studio lighting creates delicate highlights and a clean shadow beneath the glass. Ultra-sharp focus, premium beverage advertisement style, DSLR macro photography, hyper realistic, 8K.\n\nPROMPT 2 - Create a hyper-realistic exploded vertical infographic composition of an iced coffee.\n\nTop → Bottom structure:\nFoam Layer (light creamy foam with soft airy texture)\n→ Coffee Liquid (rich dark espresso layer with smooth gradient)\n→ Ice Cubes (transparent cubes with sharp edges and reflections)\n→ Milk Layer (soft creamy white layer with smooth blend effect)\n→ Glass Base (clear minimal glass structure)\n\nAll elements must be perfectly centered, evenly spaced, and aligned vertically. Use a soft beige seamless background with clean café-style lighting and subtle realistic shadows beneath each floating element. The composition should feel like a premium beverage ad combined with a clean infographic layout.\n\nAdd clean minimalist text labels with thin pointer lines using these exact labels:\n“Foam”\n“Coffee”\n“Ice”\n“Milk”\n“Glass”\nUltra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.",
+    "excerpt": "A high-end café-style product photograph of a transparent glass filled with iced coffee, centered against a soft beige and cream seamless studio back...",
+    "images": [],
+    "authorName": "Strength04_X",
+    "authorUrl": "https://x.com/Strength04_X",
+    "sourceUrl": "https://x.com/Strength04_X/status/2049082049995362785",
+    "caseNumber": 170,
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-28T10:00:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2048192904922075161",
+    "slug": "japanese-sci-fi-suit-up-process-board-2048192904922075161",
+    "title": "Japanese Sci-Fi Suit-Up Process Board",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "{\"type\":\"Japanese sci-fi armor dressing-process infographic\",\"style\":\"cinematic live-action tokusatsu-inspired promotional board, realistic industrial lighting, polished metal surfaces, sharp photographic detail\",\"theme\":\"manual pre-battle suit-up sequence for a female hero in a red, silver, black, and blue protector suit\",\"subject\":{\"character\":{\"gender\":\"female\",\"age\":\"young adult\",\"identity\":\"helmetless heroine during assembly, face intentionally obscured or anonymized in every unhelmeted panel\",\"hair\":\"dark brown to black hair tied in a high ponytail with bangs\",\"undersuit\":\"glossy black skintight inner suit with silver chest panel and white neck ring\",\"armor\":\"retro-futuristic protector armor with red shoulder and arm plates, silver breastplate and torso plating, circular blue chest core, red waist unit, white gloves, red forearm guards with yellow stripe accents\",\"helmet\":\"round red-and-silver helmet with black visor\"},\"environment\":{\"location\":\"high-tech industrial hangar or armor bay\",\"background elements\":[\"metal framework\",\"robotic equipment\",\"tool benches\",\"armor racks\",\"computer monitors\",\"workshop lighting\",\"bay corridor marked BAY-07 in final panel\"]}},\"layout\":{\"header\":{\"count\":2,\"labels\":[\"ソルジャンヌ・スーツ 手動装着プロセス\",\"専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。\"],\"design\":\"wide black-to-red gradient banner across top, large bold white Japanese text, diagonal red accent\"},\"sections\":[{\"title\":\"1 インナースーツの確認\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。\"],\"image\":\"three-quarter view of the heroine in only the black glossy inner suit, looking down while checking or tightening a wrist connector\"},{\"title\":\"2 胸部・肩部アーマーの装着\",\"position\":\"top-center\",\"count\":1,\"labels\":[\"胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。\"],\"image\":\"mid shot with chest armor and red shoulder plates installed, heroine fastening the front torso area with both hands\"},{\"title\":\"3 腰部ユニット・ベルトの固定\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。\"],\"image\":\"mid shot with torso armor completed, heroine tightening or checking the waist belt and side locks\"},{\"title\":\"4 ヘルメットの準備\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。\"],\"image\":\"heroine holding the red helmet in both hands at chest height, showing the glossy black visor\"},{\"title\":\"5 ヘルメットの装着・システム起動\",\"position\":\"bottom-center\",\"count\":1,\"labels\":[\"ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。\"],\"image\":\"heroine placing the helmet onto her head with both hands; blue chest core glowing brightly\"},{\"title\":\"6 装着完了\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!\"],\"image\":\"full-body frontal hero pose in a futuristic corridor, fully suited with helmet on, arms relaxed at sides\"}],\"footer\":{\"count\":1,\"labels\":[\"一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。\"],\"design\":\"dark red cinematic footer strip with centered white Japanese slogan\"},\"grid\":{\"rows\":2,\"columns\":3,\"panel_count\":6,\"panel_borders\":\"thin white dividers\",\"number_badges\":6}},\"text_rendering\":{\"language\":\"Japanese\",\"font\":\"bold sans-serif headline with smaller sans-serif body text\",\"colors\":\"white text on black, red, and white info bars; red numbered squares with white numerals\"},\"composition\":\"16:9 wide infographic board, six equal photo panels arranged in a 3-by-2 grid, each panel captioned below with a red numbered box from 1 to 6\",\"lighting\":\"moody workshop lighting with metallic reflections and red accent lights, realistic shadows, cinematic sci-fi atmosphere\"}",
+    "excerpt": "{\"type\":\"Japanese sci-fi armor dressing-process infographic\",\"style\":\"cinematic live-action tokusatsu-inspired promotional board, realistic industria...",
+    "images": [],
+    "authorName": "yy7482933910896",
+    "authorUrl": "https://x.com/yy7482933910896",
+    "sourceUrl": "https://x.com/yy7482933910896/status/2048192904922075161",
+    "caseNumber": 163,
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-27T02:35:44.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049081198211736062",
+    "slug": "outdoor-sportswear-grid-campaign-2049081198211736062",
+    "title": "Outdoor Sportswear Grid Campaign",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-energy, editorial-style composition with bold typography and textured graphic design.\n\nTop-left panel:\nAthletic male model in a bright blue insulated winter jacket, black snow pants, gloves, and sunglasses, stepping forward in a snowy environment. Snow particles flying, dramatic motion. Background features rough blue paint brush strokes. Bold distressed typography reads: “NEVER STOP EXPLORING.” Additional small text: “Built for extremes.” High contrast, rugged winter exploration theme.\n\nTop-right panel:\nFit male hiker climbing rocky terrain, wearing an olive green shirt, black trekking pants, and a large black backpack with orange straps. Dust and debris kicking up from the ground. Background includes orange paint strokes and sketched mountain graphics. Bold text: “BUILT FOR HERE – INDIA TESTED.” Handwritten Hindi accents and arrows. Warm earthy tones.\n\nBottom-left panel:\nCalm outdoor scene with a male model sitting on a rock, wearing a green jacket, beanie, sunglasses, and hiking shoes. Minimal scenic mountain illustration in the background with soft green tones. Typography reads: “ESCAPE THE NOISE – JUST GO OUTSIDE.” Clean, relaxed, nature-focused aesthetic with subtle graphic elements.\n\nBottom-right panel:\nEnergetic female runner in motion wearing a purple athletic t-shirt, black shorts, and running shoes. Bright, playful background with purple and yellow paint splashes, doodles, arrows, and sun illustration. Bold typography: “READY FOR EVERYONE – START YOUR JOURNEY.” Youthful, vibrant fitness energy.\n\nOverall style:\n\nHigh-resolution, photorealistic sportswear campaign\n\nBold brushstroke textures and grunge overlays\n\nMixed typography: distressed, handwritten, and modern sans-serif\n\nStrong color blocking per panel (blue, orange, green, purple)\n\nDynamic poses conveying motion, strength, and adventure\n\nClean grid layout with balanced spacing\n\nCommercial advertising / brand campaign aesthetic (Nike, Decathlon style)\n\nLighting: Professional, cinematic lighting with sharp detail and contrast\nMood: Energetic, adventurous, motivational\nAspect ratio: 1:1 (square collage)",
+    "excerpt": "A dynamic 2×2 grid collage of modern outdoor sportswear advertising posters, each panel representing a different adventure lifestyle brand. High-ener...",
+    "images": [],
+    "authorName": "SPEEDAI07",
+    "authorUrl": "https://x.com/SPEEDAI07",
+    "sourceUrl": "https://x.com/SPEEDAI07/status/2049081198211736062",
+    "caseNumber": 168,
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-28T10:00:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2048307780864606708",
+    "slug": "parent-child-miscommunication-infographic-2048307780864606708",
+    "title": "Parent-Child Miscommunication Infographic",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "{\"type\":\"Japanese infographic\",\"style\":\"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minimal pastel color palette, presentation-slide design, clear hierarchy, lots of whitespace, modern sans-serif Japanese typography\",\"canvas\":{\"aspect_ratio\":\"16:9\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"親子のすれ違いは、記録があるかないかで起こる\\\"}\",\"position\":\"top center\",\"size\":\"large bold black\"},\"layout\":{\"structure\":\"2 side-by-side rounded panels beneath the headline\",\"sections\":[{\"title\":\"記録がない場合(ズレる)\",\"position\":\"left\",\"count\":8,\"header_color\":\"muted blue-gray\",\"panel_border\":\"light gray\",\"labels\":[\"親の記憶\",\"子どもの記憶\",\"あのとき決まったよね\",\"まだ考えてたのに\",\"ズレが大きくなる\",\"志望校がコロコロ変わる\",\"理由が『なんとなく』\",\"言ってることが違う\",\"関係がギクシャク\",\"現実を見てほしい\",\"ちゃんと決めてほしい\",\"口を出しすぎると関係が悪くなる\"],\"contents\":{\"top_left\":{\"type\":\"parent icon with thought bubble\",\"icon_color\":\"blue\",\"caption\":\"親の記憶\",\"bubble_text\":\"あのとき\\n決まったよね\"},\"top_right\":{\"type\":\"child icon with thought bubble\",\"icon_color\":\"pink\",\"caption\":\"子どもの記憶\",\"bubble_text\":\"まだ考えてたのに\"},\"center\":{\"type\":\"horizontal double-headed arrow\",\"color\":\"blue-gray\"},\"bottom_center\":{\"type\":\"downward arrow leading to burst shape\",\"color\":\"light gray\",\"burst_text\":\"ズレが\\n大きくなる\"},\"bottom_left\":{\"type\":\"rounded note box\",\"bullet_count\":4,\"bullets\":[\"志望校がコロコロ変わる\",\"理由が『なんとなく』\",\"言ってることが違う\",\"関係がギクシャク\"]},\"bottom_right\":{\"type\":\"rounded note box\",\"bullet_count\":3,\"bullets\":[\"現実を見てほしい\",\"ちゃんと決めてほしい\",\"口を出しすぎると関係が悪くなる\"]}}},{\"title\":\"記録がある場合(ズレにくい)\",\"position\":\"right\",\"count\":7,\"header_color\":\"mustard yellow\",\"panel_border\":\"light yellow\",\"labels\":[\"親の認識\",\"子どもの認識\",\"記録\"],\"contents\":{\"top_left\":{\"type\":\"parent icon with thought bubble containing document symbol\",\"icon_color\":\"blue\",\"caption\":\"親の認識\"},\"top_right\":{\"type\":\"child icon with thought bubble containing document symbol\",\"icon_color\":\"pink\",\"caption\":\"子どもの認識\"},\"center\":{\"type\":\"horizontal double-headed arrow\",\"color\":\"mustard yellow\"},\"bottom_center\":{\"type\":\"circular record icon with document symbol\",\"outline_color\":\"mustard yellow\",\"text\":\"記録\"},\"bottom_left_connector\":{\"type\":\"curved arrow from parent to record\",\"color\":\"blue\"},\"bottom_right_connector\":{\"type\":\"curved arrow from child to record\",\"color\":\"pink\"}}}],\"spacing\":\"balanced, symmetrical\"},\"visual_language\":{\"icons\":\"generic human bust icons and simple document line icons\",\"emphasis\":\"contrast the left panel's misunderstanding with the right panel's shared record\",\"mood\":\"educational, calm, practical\"},\"text_language\":\"Japanese\",\"render_quality\":\"crisp vector edges, infographic suitable for social media educational posts\"}",
+    "excerpt": "{\"type\":\"Japanese infographic\",\"style\":\"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minim...",
+    "images": [],
+    "authorName": "sarinaashapi",
+    "authorUrl": "https://x.com/sarinaashapi",
+    "sourceUrl": "https://x.com/sarinaashapi/status/2048307780864606708",
+    "caseNumber": 161,
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-27T02:35:44.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
+  },
+  {
+    "id": "2049080259476349218",
+    "slug": "topographic-letter-satellite-panels-2049080259476349218",
+    "title": "Topographic Letter Satellite Panels",
+    "category": "Posters",
+    "categorySlug": "posters",
+    "prompt": "Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together forming the word \"MADPENCIL\", each panel containing one letter created entirely from natural Earth topography, no artificial text overlays:\n\nPanel 1 (M): rugged mountain ranges and deep valleys forming a sharp, angular \"M\", rocky textures, high elevation shadows\nPanel 2 (A): winding river cutting through dense green forest forming an organic \"A\", strong contrast between water and vegetation\nPanel 3 (D): desert dunes and wind-sculpted sand patterns shaping a smooth \"D\", warm tones, soft gradients\nPanel 4 (P): agricultural farmland grids and patchwork fields forming a structured \"P\", geometric patterns clearly visible\nPanel 5 (E): glacier and ice formations carving a crisp \"E\", bright whites and icy blues, fractured textures\nPanel 6 (N): braided river system across floodplains forming \"N\", branching channels with natural flow lines\nPanel 7 (C): coastal shoreline and ocean edge shaping a curved \"C\", waves and sediment gradients visible\nPanel 8 (I): narrow canyon or straight river cutting through terrain forming a minimal \"I\", strong vertical emphasis\nPanel 9 (L): volcanic terrain with lava flows forming an \"L\", dark rock with glowing red/orange lava accents\n\ntop-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain",
+    "excerpt": "Ultra-realistic satellite view from space, a clean modern editorial layout of 9 vertical panels arranged side-by-side on a white background, together...",
+    "images": [],
+    "authorName": "madpencil_",
+    "authorUrl": "https://x.com/madpencil_",
+    "sourceUrl": "https://x.com/madpencil_/status/2049080259476349218",
+    "caseNumber": 169,
+    "sources": [
+      "README.md",
+      "data/ingested_tweets.json"
+    ],
+    "createdAt": "2026-04-28T10:00:00.000Z",
+    "syncedAt": "2026-04-29T14:34:11.582Z",
+    "metrics": {}
   },
   {
     "id": "27acfd55fb22a36e",
@@ -11354,6 +11805,40 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-29T11:56:48.012Z"
+    "syncedAt": "2026-04-29T14:34:11.582Z"
+  },
+  {
+    "id": "8dcd1a08db40889c",
+    "slug": "参照画像-2d-使-世界-色-分割-画像作-x-com-seiiiiiiiiiiru-status-2047227021156356500",
+    "title": "参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。",
+    "category": "Comparisons",
+    "categorySlug": "comparisons",
+    "prompt": "参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。",
+    "excerpt": "参照画像の２Dセルアニメキャラクターを使って、リアル世界で色んなことしてるグリッド分割した画像作ってぇ。",
+    "images": [],
+    "authorName": "seiiiiiiiiiiru",
+    "authorUrl": "https://x.com/seiiiiiiiiiiru",
+    "sourceUrl": "https://x.com/seiiiiiiiiiiru/status/2047227021156356500",
+    "sources": [
+      "data/ingested_tweets.json"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
+  },
+  {
+    "id": "9275c77391e0f394",
+    "slug": "可愛-男-子-ruhia-日本-目指-大冒険-日本人女性-出会-物語-実写映画-x-com-mirai-ai2050-status-2046944941583270341",
+    "title": "可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。",
+    "category": "Comparisons",
+    "categorySlug": "comparisons",
+    "prompt": "可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。",
+    "excerpt": "可愛いラバーダックの男の子「ルヒア(RUHiA)」が日本を目指して大冒険をして日本人女性の「ミライ」と出会うまでの物語。それを実写映画のポスターのようにして。",
+    "images": [],
+    "authorName": "mirai_ai2050",
+    "authorUrl": "https://x.com/mirai_ai2050",
+    "sourceUrl": "https://x.com/mirai_ai2050/status/2046944941583270341",
+    "sources": [
+      "data/ingested_tweets.json"
+    ],
+    "syncedAt": "2026-04-29T14:34:11.582Z"
   }
 ]
