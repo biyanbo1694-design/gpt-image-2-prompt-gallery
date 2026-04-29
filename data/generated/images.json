@@ -1372,18 +1372,6 @@
     "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/comparison_case8/output.jpg"
   },
   {
-    "id": "github-stars-badge",
-    "path": "images/github-stars-badge.svg",
-    "url": "/upstream/images/github-stars-badge.svg",
-    "localPath": "public/upstream/images/github-stars-badge.svg",
-    "upstreamUrl": "https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-prompts/main/images/github-stars-badge.svg",
-    "htmlUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/github-stars-badge.svg",
-    "caseSlug": "github-stars-badge.svg",
-    "categorySlug": "community",
-    "source": "EvoLinkAI/awesome-gpt-image-2-prompts",
-    "sourceUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts/blob/main/images/github-stars-badge.svg"
-  },
-  {
     "id": "logo",
     "path": "images/logo.png",
     "url": "/upstream/images/logo.png",

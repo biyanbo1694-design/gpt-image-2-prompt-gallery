@@ -78,10 +78,33 @@ export default async function PromptPage({ params }: PromptPageProps) {
   const related = getRelatedPrompts(prompt);
   const heroImage = prompt.images[0];
   const timelineDate = getPromptTimelineDate(prompt);
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    name: prompt.title,
+    description: prompt.excerpt,
+    url: absoluteUrl(`/prompt/${prompt.slug}/`),
+    creator: prompt.authorName
+      ? {
+          "@type": "Person",
+          name: prompt.authorName,
+          url: prompt.authorUrl
+        }
+      : undefined,
+    dateCreated: prompt.createdAt,
+    dateModified: prompt.syncedAt,
+    image: prompt.images.map((image) => image.url)
+  };
 
   return (
     <div className="pb-20 pt-24">
       <div className="container-shell">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(jsonLd)
+          }}
+        />
         <Link
           href="/prompts"
           className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-4 py-2 text-sm text-neutral-600 transition hover:border-neutral-300 hover:text-ink"

@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 
+import { PaginationNav } from "@/components/pagination-nav";
 import { PromptGrid } from "@/components/prompt-grid";
 import { SectionHeader } from "@/components/section-header";
 import { getAllPrompts } from "@/lib/data";
+import { getPageCount, getPageItems } from "@/lib/pagination";
 import { absoluteUrl } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -26,6 +28,8 @@ export const metadata: Metadata = {
 
 export default function PromptsPage() {
   const prompts = getAllPrompts();
+  const pageCount = getPageCount(prompts.length);
+  const pagePrompts = getPageItems(prompts, 1);
 
   return (
     <div className="container-shell pb-20 pt-28">
@@ -33,10 +37,11 @@ export default function PromptsPage() {
         as="h1"
         eyebrow="Gallery"
         title="All GPT Image 2 prompts."
-        description={`${prompts.length} synced cases collected in one quiet gallery.`}
+        description={`${prompts.length} synced cases collected in one quiet gallery, paged for faster browsing.`}
       />
       <div className="mt-10">
-        <PromptGrid prompts={prompts} />
+        <PromptGrid prompts={pagePrompts} />
+        <PaginationNav currentPage={1} pageCount={pageCount} basePath="/prompts" />
       </div>
     </div>
   );

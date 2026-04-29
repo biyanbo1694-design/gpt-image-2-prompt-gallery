@@ -71,7 +71,7 @@ export default function AboutPage() {
               Contact
             </div>
             <h2 className="mt-4 text-2xl font-semibold text-ink">Business and feedback</h2>
-            <p className="mt-3 text-base leading-8 text-neutral-600">
+            <p lang="zh-CN" className="mt-3 text-base leading-8 text-neutral-600">
               业务合作或问题反馈，请私信抖音 ID：97107763943。
             </p>
           </div>

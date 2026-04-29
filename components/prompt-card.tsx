@@ -1,23 +1,27 @@
-"use client";
-
 import Image from "next/image";
 import Link from "next/link";
-import { motion } from "framer-motion";
 import { ExternalLink, Images } from "lucide-react";
 
 import { getCategoryDisplayName } from "@/components/category-display";
 import { getPromptTimelineDate } from "@/lib/dates";
-import type { PromptItem } from "@/lib/types";
+import type { PromptImage, PromptItem } from "@/lib/types";
 
-export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; compact?: boolean }) {
-  const image = prompt.images[0];
+export type PromptCardItem = Pick<
+  PromptItem,
+  "id" | "slug" | "title" | "category" | "categorySlug" | "excerpt" | "authorName" | "sourceUrl" | "createdAt" | "syncedAt"
+> & {
+  images?: PromptImage[];
+  coverImage?: PromptImage;
+  imageCount?: number;
+};
+
+export function PromptCard({ prompt, compact = false }: { prompt: PromptCardItem; compact?: boolean }) {
+  const image = prompt.coverImage ?? prompt.images?.[0];
+  const imageCount = prompt.imageCount ?? prompt.images?.length ?? 0;
   const timelineDate = getPromptTimelineDate(prompt);
 
   return (
-    <motion.article
-      whileHover={{ y: -6 }}
-      className="group overflow-hidden rounded-lg border border-line bg-white shadow-sm transition-shadow hover:shadow-card"
-    >
+    <article className="group overflow-hidden rounded-lg border border-line bg-white shadow-sm transition duration-200 hover:-translate-y-1 hover:shadow-card">
       <Link href={`/prompt/${prompt.slug}`} className="block">
         <div className={`relative overflow-hidden bg-neutral-100 ${compact ? "aspect-[4/3]" : "aspect-[4/3]"}`}>
           {image ? (
@@ -27,7 +31,11 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
               width={image.width ?? 900}
               height={image.height ?? 900}
               className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.04]"
-              sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+              sizes={
+                compact
+                  ? "(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
+                  : "(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+              }
             />
           ) : (
             <div className="flex h-full flex-col items-center justify-center gap-2 text-neutral-400">
@@ -64,7 +72,7 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
         <div className="mt-5 space-y-2 text-xs text-neutral-400">
           <div className="flex items-center justify-between gap-4">
             <span>{prompt.authorName ?? "Public creator"}</span>
-            <span>{prompt.images.length > 0 ? `${prompt.images.length} images` : "Prompt-only"}</span>
+            <span>{imageCount > 0 ? `${imageCount} images` : "Prompt-only"}</span>
           </div>
           {timelineDate ? (
             <p className="text-neutral-500">
@@ -73,6 +81,6 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptItem; co
           ) : null}
         </div>
       </div>
-    </motion.article>
+    </article>
   );
 }

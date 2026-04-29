@@ -3,7 +3,7 @@ import { Suspense } from "react";
 
 import { SearchExperience } from "@/components/search-experience";
 import { SectionHeader } from "@/components/section-header";
-import { getAllCategories, getAllPrompts } from "@/lib/data";
+import { getAllCategories } from "@/lib/data";
 import { absoluteUrl } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -36,7 +36,7 @@ export default function SearchPage() {
       />
       <div className="mt-10">
         <Suspense>
-          <SearchExperience prompts={getAllPrompts()} categories={getAllCategories()} />
+          <SearchExperience categories={getAllCategories()} />
         </Suspense>
       </div>
     </div>

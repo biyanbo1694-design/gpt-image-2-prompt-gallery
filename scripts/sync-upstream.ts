@@ -88,6 +88,7 @@ const TREE_API_URL = `https://api.github.com/repos/${SOURCE_REPO}/git/trees/${SO
 const RAW_BASE = `https://raw.githubusercontent.com/${SOURCE_REPO}/${SOURCE_BRANCH}`;
 const MAX_DOWNLOAD_BYTES = 25 * 1024 * 1024;
 const DOWNLOAD_CONCURRENCY = 6;
+const POTENTIAL_SECRET_PATTERN = /sk-[A-Za-z0-9_-]{8,}/g;
 
 const OUT_ROOT = path.join(process.cwd(), "data");
 const OUT_DIR = path.join(OUT_ROOT, "generated");
@@ -98,7 +99,17 @@ const PUBLIC_UPSTREAM_IMAGE_TMP_DIR = path.join(process.cwd(), "public", "upstre
 
 const PRIMARY_DATA_PATH = path.join(UPSTREAM_DIR, "gpt_image2_prompts.json");
 const FALLBACK_DATA_PATH = path.join(UPSTREAM_DIR, "data", "ingested_tweets.json");
-const IMAGE_EXTENSIONS = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"]);
+const IMAGE_EXTENSIONS = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
+const TEXT_EXTENSIONS_TO_SANITIZE = new Set([
+  ".json",
+  ".jsonl",
+  ".md",
+  ".txt",
+  ".csv",
+  ".tsv",
+  ".yml",
+  ".yaml"
+]);
 const ALLOWED_EXTERNAL_HOSTS = new Set([
   "github.com",
   "raw.githubusercontent.com",
@@ -930,7 +941,14 @@ async function downloadFile(url: string, targetPath: string) {
   }
 
   await mkdir(path.dirname(targetPath), { recursive: true });
-  await writeFile(targetPath, Buffer.from(await response.arrayBuffer()));
+  const buffer = Buffer.from(await response.arrayBuffer());
+
+  if (shouldSanitizeFile(targetPath)) {
+    await writeFile(targetPath, sanitizePotentialSecrets(buffer.toString("utf8")), "utf8");
+    return;
+  }
+
+  await writeFile(targetPath, buffer);
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
@@ -984,6 +1002,14 @@ async function safeRm(targetPath: string) {
 
 function isUpstreamImagePath(value: string) {
   return value.startsWith("images/") && IMAGE_EXTENSIONS.has(path.extname(value).toLowerCase());
+}
+
+function shouldSanitizeFile(filePath: string) {
+  return TEXT_EXTENSIONS_TO_SANITIZE.has(path.extname(filePath).toLowerCase());
+}
+
+function sanitizePotentialSecrets(value: string) {
+  return value.replace(POTENTIAL_SECRET_PATTERN, "[redacted-sk-token]");
 }
 
 function normalizeImagePath(value: string) {

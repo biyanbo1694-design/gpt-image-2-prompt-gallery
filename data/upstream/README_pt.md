@@ -180,7 +180,7 @@ Se isso for util, considere dar uma estrela. ⭐
   - [Case 33: Calligraphy Copybook Sheet (by @MrLarus)](#case-33-calligraphy-copybook-sheet-by-mrlarus)
   - [Case 34: Don Quijote Promo Pop Poster (by @loglogrog)](#case-34-don-quijote-promo-pop-poster-by-loglogrog)
   - [Case 35: Japanese Gacha Game Screen (by @the_wheel_2024)](#case-35-japanese-gacha-game-screen-by-the_wheel_2024)
-  - [Case 36: Elon Musk Douyin Livestream Screenshot (by @Shinning1010)](#case-36-elon-musk-douyin-livestream-screenshot-by-shinning1010)
+  - [Case 36: Elon Musk Douyin Livestream Screenshot (by @Shinning1010)](#case-36-elon-mu[redacted-sk-token])
   - [Case 37: Liu Yifei Douyin Livestream Screenshot (by @kylegeeks)](#case-37-liu-yifei-douyin-livestream-screenshot-by-kylegeeks)
   - [Case 38: Cyberpunk Neon UI Design System (by @AZLnfvp)](#case-38-cyberpunk-neon-ui-design-system-by-azlnfvp)
   - [Case 39: Trump and Kim Livestream PK Screenshot (by @alanlovelq)](#case-39-trump-and-kim-livestream-pk-screenshot-by-alanlovelq)

@@ -20,6 +20,7 @@ export function SearchBar({ defaultValue = "" }: { defaultValue?: string }) {
       <input
         value={query}
         onChange={(event) => setQuery(event.target.value)}
+        aria-label="Search prompts"
         placeholder="Search prompts, categories, creators..."
         className="min-w-0 flex-1 bg-transparent text-sm text-ink outline-none placeholder:text-neutral-400 sm:text-base"
       />
