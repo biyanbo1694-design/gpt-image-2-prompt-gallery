@@ -51,7 +51,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -105,7 +105,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -160,7 +160,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -215,7 +215,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -269,7 +269,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -323,7 +323,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -378,7 +378,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -424,7 +424,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -470,7 +470,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -517,7 +517,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -563,7 +563,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -610,7 +610,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -656,7 +656,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -694,7 +694,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -733,7 +733,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -771,7 +771,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -809,7 +809,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -847,7 +847,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -880,7 +880,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2047204566559756707",
@@ -917,7 +917,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -955,7 +955,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -994,7 +994,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1032,7 +1032,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1071,7 +1071,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1109,7 +1109,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1147,7 +1147,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1185,7 +1185,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1223,7 +1223,7 @@
       "README_de.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1262,7 +1262,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1301,7 +1301,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1339,7 +1339,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1377,7 +1377,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1415,7 +1415,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1453,7 +1453,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1492,7 +1492,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1523,7 +1523,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1554,7 +1554,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1585,7 +1585,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1616,7 +1616,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1647,7 +1647,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1677,7 +1677,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1708,7 +1708,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1739,7 +1739,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1768,7 +1768,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2045764016858087720",
@@ -1798,7 +1798,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1829,7 +1829,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1860,7 +1860,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1890,7 +1890,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1920,7 +1920,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1951,7 +1951,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -1981,7 +1981,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2012,7 +2012,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2043,7 +2043,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2074,7 +2074,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2105,7 +2105,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2136,7 +2136,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2166,7 +2166,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2197,7 +2197,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2228,7 +2228,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2259,7 +2259,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2290,7 +2290,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2321,7 +2321,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2352,7 +2352,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2383,7 +2383,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2414,7 +2414,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2445,7 +2445,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2476,7 +2476,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2507,7 +2507,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2537,7 +2537,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2567,7 +2567,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2598,7 +2598,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2628,7 +2628,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2658,7 +2658,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2688,7 +2688,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2717,7 +2717,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "743d0ee10bf58a63",
@@ -2745,7 +2745,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2047219694130827273",
@@ -2774,7 +2774,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2804,7 +2804,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2834,7 +2834,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2865,7 +2865,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2896,7 +2896,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2927,7 +2927,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2958,7 +2958,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -2989,7 +2989,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3020,7 +3020,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3050,7 +3050,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3080,7 +3080,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3111,7 +3111,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3142,7 +3142,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3173,7 +3173,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3204,7 +3204,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3235,7 +3235,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3260,7 +3260,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "character_case6",
@@ -3284,7 +3284,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2045396918965285111",
@@ -3314,7 +3314,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3345,7 +3345,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3375,7 +3375,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3406,7 +3406,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3437,7 +3437,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3468,7 +3468,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3499,7 +3499,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3530,7 +3530,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3559,7 +3559,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2048080137149899133",
@@ -3589,7 +3589,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3620,7 +3620,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -3645,7 +3645,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "case_case73",
@@ -3669,7 +3669,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "case_case76",
@@ -3693,7 +3693,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case11",
@@ -3717,7 +3717,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case17",
@@ -3741,7 +3741,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case18",
@@ -3765,7 +3765,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case19",
@@ -3789,7 +3789,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case2",
@@ -3813,7 +3813,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case20",
@@ -3837,7 +3837,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case21",
@@ -3861,7 +3861,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case22",
@@ -3885,7 +3885,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case3",
@@ -3909,7 +3909,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case4",
@@ -3933,7 +3933,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case6",
@@ -3957,7 +3957,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case7",
@@ -3981,7 +3981,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "comparison_case8",
@@ -4005,7 +4005,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2045167461147042202",
@@ -4035,7 +4035,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4066,7 +4066,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4097,7 +4097,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4128,7 +4128,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4158,7 +4158,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4187,7 +4187,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2047537707904274795",
@@ -4217,7 +4217,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4248,7 +4248,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4278,7 +4278,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4309,7 +4309,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4340,7 +4340,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4371,7 +4371,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4402,7 +4402,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4433,7 +4433,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4464,7 +4464,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4495,7 +4495,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4525,7 +4525,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4556,7 +4556,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4587,7 +4587,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4618,7 +4618,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4649,7 +4649,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4678,7 +4678,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2045684734714380687",
@@ -4708,7 +4708,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4739,7 +4739,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4770,7 +4770,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4801,7 +4801,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4832,7 +4832,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4863,7 +4863,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4894,7 +4894,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4925,7 +4925,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4956,7 +4956,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -4987,7 +4987,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5018,7 +5018,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5049,7 +5049,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5080,7 +5080,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5111,7 +5111,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5142,7 +5142,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5173,7 +5173,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5204,7 +5204,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5234,7 +5234,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5264,7 +5264,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5295,7 +5295,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5326,7 +5326,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5357,7 +5357,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5386,7 +5386,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2047900470921040270",
@@ -5415,7 +5415,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5446,7 +5446,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5477,7 +5477,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5506,7 +5506,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2049073530738754042",
@@ -5536,7 +5536,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5567,7 +5567,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5598,7 +5598,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5629,7 +5629,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5660,7 +5660,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5691,7 +5691,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5722,7 +5722,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5753,7 +5753,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5784,7 +5784,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5814,7 +5814,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5844,7 +5844,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5874,7 +5874,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5905,7 +5905,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5936,7 +5936,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5967,7 +5967,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -5998,7 +5998,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6029,7 +6029,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6060,7 +6060,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6091,7 +6091,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6120,7 +6120,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2046514998965371144",
@@ -6150,7 +6150,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6181,7 +6181,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6212,7 +6212,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6242,7 +6242,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6272,7 +6272,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6303,7 +6303,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6334,7 +6334,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6365,7 +6365,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6396,7 +6396,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6427,7 +6427,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6458,7 +6458,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6489,7 +6489,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6520,7 +6520,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6549,7 +6549,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2048192904922075161",
@@ -6579,7 +6579,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6610,7 +6610,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6641,7 +6641,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6672,7 +6672,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6703,7 +6703,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6734,7 +6734,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6764,7 +6764,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6795,7 +6795,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6826,7 +6826,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6857,7 +6857,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6887,7 +6887,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6917,7 +6917,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6947,7 +6947,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -6978,7 +6978,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7009,7 +7009,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7040,7 +7040,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7070,7 +7070,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7101,7 +7101,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7132,7 +7132,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7163,7 +7163,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7194,7 +7194,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7225,7 +7225,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7256,7 +7256,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7287,7 +7287,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7318,7 +7318,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7349,7 +7349,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7380,7 +7380,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7411,7 +7411,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7441,7 +7441,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7472,7 +7472,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7502,7 +7502,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7532,7 +7532,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7563,7 +7563,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7594,7 +7594,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7624,7 +7624,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7655,7 +7655,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7686,7 +7686,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7717,7 +7717,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7748,7 +7748,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7779,7 +7779,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7810,7 +7810,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7840,7 +7840,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7871,7 +7871,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7902,7 +7902,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7933,7 +7933,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -7958,7 +7958,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "poster_case18",
@@ -7982,7 +7982,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "poster_case19",
@@ -8006,7 +8006,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "poster_case20",
@@ -8030,7 +8030,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "poster_case21",
@@ -8054,7 +8054,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "poster_case6",
@@ -8078,7 +8078,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2046406024303976904",
@@ -8108,7 +8108,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8138,7 +8138,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8169,7 +8169,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8198,7 +8198,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2049081194156020046",
@@ -8228,7 +8228,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8258,7 +8258,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8288,7 +8288,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8319,7 +8319,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8349,7 +8349,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8380,7 +8380,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8411,7 +8411,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8442,7 +8442,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8473,7 +8473,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8504,7 +8504,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8535,7 +8535,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8566,7 +8566,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8597,7 +8597,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8628,7 +8628,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8659,7 +8659,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8690,7 +8690,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8721,7 +8721,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8752,7 +8752,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8782,7 +8782,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8813,7 +8813,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8844,7 +8844,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8875,7 +8875,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8906,7 +8906,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8936,7 +8936,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8967,7 +8967,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -8998,7 +8998,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T14:57:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9029,7 +9029,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9059,7 +9059,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9090,7 +9090,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9121,7 +9121,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9152,7 +9152,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9182,7 +9182,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9213,7 +9213,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9243,7 +9243,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9274,7 +9274,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9305,7 +9305,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9336,7 +9336,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9366,7 +9366,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9396,7 +9396,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9427,7 +9427,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9458,7 +9458,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9488,7 +9488,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9519,7 +9519,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9550,7 +9550,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-28T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9581,7 +9581,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9612,7 +9612,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9642,7 +9642,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9667,7 +9667,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "ui_case12",
@@ -9691,7 +9691,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "ui_case26",
@@ -9715,7 +9715,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "ui_case6",
@@ -9739,7 +9739,7 @@
     "sources": [
       "images/"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "905e84242416336c",
@@ -9767,7 +9767,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2047175250761433416",
@@ -9796,7 +9796,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9826,7 +9826,7 @@
       "README.md",
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9857,7 +9857,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9888,7 +9888,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9919,7 +9919,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9950,7 +9950,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -9981,7 +9981,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -10012,7 +10012,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -10043,7 +10043,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -10072,7 +10072,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "2048114180906217566",
@@ -10102,7 +10102,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-27T02:35:44.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z",
+    "syncedAt": "2026-04-29T00:11:31.247Z",
     "metrics": {}
   },
   {
@@ -10120,7 +10120,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "e419b632cd38ad38",
@@ -10137,7 +10137,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "3d2c9a637875afb5",
@@ -10154,7 +10154,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "05634aaa2b04c696",
@@ -10171,7 +10171,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "380ea0cae11f03e6",
@@ -10188,7 +10188,7 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "c309edb09aaac273",
@@ -10206,7 +10206,7 @@
       "data/ingested_tweets.json"
     ],
     "createdAt": "2026-04-22T10:00:00.000Z",
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   },
   {
     "id": "27acfd55fb22a36e",
@@ -10223,6 +10223,6 @@
     "sources": [
       "data/ingested_tweets.json"
     ],
-    "syncedAt": "2026-04-28T23:14:26.863Z"
+    "syncedAt": "2026-04-29T00:11:31.247Z"
   }
 ]
