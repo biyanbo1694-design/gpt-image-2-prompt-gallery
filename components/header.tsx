@@ -4,7 +4,8 @@ import { Search, Sparkles } from "lucide-react";
 const navItems = [
   { href: "/prompts", label: "Prompts" },
   { href: "/search", label: "Search" },
-  { href: "/about", label: "About" }
+  { href: "/about", label: "About" },
+  { href: "/about#contact", label: "Contact" }
 ];
 
 export function Header() {

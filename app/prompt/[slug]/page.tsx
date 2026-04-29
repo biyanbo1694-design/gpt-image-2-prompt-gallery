@@ -9,6 +9,7 @@ import { CopyPromptButton } from "@/components/copy-prompt-button";
 import { PromptGrid } from "@/components/prompt-grid";
 import { getAllPrompts, getPromptBySlug, getRelatedPrompts } from "@/lib/data";
 import { getPromptTimelineDate } from "@/lib/dates";
+import { absoluteUrl, seoDescription } from "@/lib/site";
 
 type PromptPageProps = {
   params: Promise<{
@@ -26,8 +27,43 @@ export async function generateMetadata({ params }: PromptPageProps): Promise<Met
   const { slug } = await params;
   const prompt = getPromptBySlug(slug);
 
+  if (!prompt) {
+    return {
+      title: "Prompt"
+    };
+  }
+
+  const description = seoDescription(prompt.excerpt || prompt.prompt);
+  const image = prompt.images[0];
+
   return {
-    title: prompt ? prompt.title : "Prompt"
+    title: prompt.title,
+    description,
+    alternates: {
+      canonical: `/prompt/${prompt.slug}/`
+    },
+    openGraph: {
+      type: "article",
+      url: absoluteUrl(`/prompt/${prompt.slug}/`),
+      title: prompt.title,
+      description,
+      images: image
+        ? [
+            {
+              url: image.url,
+              width: image.width,
+              height: image.height,
+              alt: image.alt
+            }
+          ]
+        : undefined
+    },
+    twitter: {
+      card: image ? "summary_large_image" : "summary",
+      title: prompt.title,
+      description,
+      images: image ? [image.url] : undefined
+    }
   };
 }
 
