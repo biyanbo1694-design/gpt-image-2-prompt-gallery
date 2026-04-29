@@ -11,6 +11,8 @@ permissions:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  VERCEL_ORG_ID: team_7AmFiBGJasHZWI3Jk0LPnmwh
+  VERCEL_PROJECT_ID: prj_vm451bgqBJKi9FiGZKhCzJoKnY4K
 
 concurrency:
   group: deploy-${{ github.ref }}
@@ -62,10 +64,12 @@ jobs:
       - name: Deploy production
         id: deploy
         env:
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         run: |
+          if [ -z "${VERCEL_TOKEN}" ]; then
+            echo "VERCEL_TOKEN secret is required for production deploys."
+            exit 1
+          fi
           npx vercel@52.0.0 deploy --prebuilt --prod --yes --archive=tgz --token="${VERCEL_TOKEN}" | tee /tmp/vercel-deploy.log
           DEPLOYMENT_URL="$(grep -Eo 'https://[^ ]+\.vercel\.app' /tmp/vercel-deploy.log | tail -n 1)"
           if [ -z "${DEPLOYMENT_URL}" ]; then
