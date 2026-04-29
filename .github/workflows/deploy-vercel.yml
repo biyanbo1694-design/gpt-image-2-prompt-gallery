@@ -77,4 +77,5 @@ jobs:
             echo "Unable to find deployment URL in Vercel output."
             exit 1
           fi
+          npx vercel@52.0.0 alias set "${DEPLOYMENT_URL}" xiaoqi-ai.vercel.app --token="${VERCEL_TOKEN}"
           echo "deployment_url=${DEPLOYMENT_URL}" >> "$GITHUB_OUTPUT"
