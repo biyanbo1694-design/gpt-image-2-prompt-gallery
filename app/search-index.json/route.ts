@@ -20,7 +20,10 @@ export function GET() {
           url: prompt.images[0].url,
           alt: prompt.images[0].alt,
           width: prompt.images[0].width,
-          height: prompt.images[0].height
+          height: prompt.images[0].height,
+          thumbnailUrl: prompt.images[0].thumbnailUrl,
+          thumbnailWidth: prompt.images[0].thumbnailWidth,
+          thumbnailHeight: prompt.images[0].thumbnailHeight
         }
       : undefined,
     imageCount: prompt.images.length,

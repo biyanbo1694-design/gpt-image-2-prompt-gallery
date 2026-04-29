@@ -4,41 +4,41 @@
     "name": "Portraits",
     "description": "Polished portrait prompts, photoshoots, identity-consistent characters and personal images.",
     "count": 48,
-    "coverImage": "/upstream/images/portrait_case70/output.jpg"
+    "coverImage": "/upstream/thumbs/portrait_case70/output.webp"
   },
   {
     "slug": "posters",
     "name": "Posters",
     "description": "Editorial, travel, event, brand and cinematic poster prompt ideas.",
     "count": 133,
-    "coverImage": "/upstream/images/poster_case133/output.jpg"
+    "coverImage": "/upstream/thumbs/poster_case133/output.webp"
   },
   {
     "slug": "characters",
     "name": "Characters",
     "description": "Character sheets, consistent roles, anime/game characters and stylized IP concepts.",
     "count": 13,
-    "coverImage": "/upstream/images/character_case10/output.jpg"
+    "coverImage": "/upstream/thumbs/character_case10/output.webp"
   },
   {
     "slug": "ui-mockups",
     "name": "UI Mockups",
     "description": "App screens, dashboards, status pages and product interface mockups.",
     "count": 66,
-    "coverImage": "/upstream/images/ui_case96/output.jpg"
+    "coverImage": "/upstream/thumbs/ui_case96/output.webp"
   },
   {
     "slug": "comparisons",
     "name": "Comparisons",
     "description": "Before/after examples, multi-version comparisons and prompt experiments.",
     "count": 35,
-    "coverImage": "/upstream/images/comparison_case72/output.jpg"
+    "coverImage": "/upstream/thumbs/comparison_case72/output.webp"
   },
   {
     "slug": "community",
     "name": "Community",
     "description": "Community discoveries and prompt experiments that do not fit a single narrow format.",
     "count": 34,
-    "coverImage": "/upstream/images/case_case117/output.jpg"
+    "coverImage": "/upstream/thumbs/case_case117/output.webp"
   }
 ]

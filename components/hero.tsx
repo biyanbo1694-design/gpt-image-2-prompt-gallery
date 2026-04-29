@@ -3,7 +3,7 @@ import Image from "next/image";
 import { ArrowRight, Images, Layers3, WandSparkles } from "lucide-react";
 
 import { SearchBar } from "@/components/search-bar";
-import type { GalleryStats, PromptItem } from "@/lib/types";
+import type { GalleryStats, PromptImage, PromptItem } from "@/lib/types";
 
 export function Hero({ stats, prompts }: { stats: GalleryStats; prompts: PromptItem[] }) {
   const heroImages = prompts.flatMap((prompt) =>
@@ -56,27 +56,31 @@ export function Hero({ stats, prompts }: { stats: GalleryStats; prompts: PromptI
 
         <div className="mobile-safe-width grid min-w-0 gap-4 sm:w-auto">
           <div className="grid min-w-0 grid-cols-1 gap-4 sm:grid-cols-2 sm:grid-rows-2">
-            {heroImages.slice(0, 3).map(({ prompt, image }, index) => (
-              <Link
-                key={prompt.id}
-                href={`/prompt/${prompt.slug}`}
-                className={`group relative overflow-hidden rounded-lg bg-neutral-100 shadow-sm ${
-                  index === 0 ? "min-h-[260px] sm:row-span-2 sm:min-h-[360px]" : "min-h-[180px] sm:min-h-[172px]"
-                }`}
-              >
-                <Image
-                  src={image.url}
-                  alt={image.alt}
-                  width={image.width ?? 900}
-                  height={image.height ?? 900}
-                  className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.04]"
-                  priority={index === 0}
-                />
-                <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-4">
-                  <p className="line-clamp-2 text-sm font-medium leading-5 text-white">{prompt.title}</p>
-                </div>
-              </Link>
-            ))}
+            {heroImages.slice(0, 3).map(({ prompt, image }, index) => {
+              const displayImage = thumbnailImage(image);
+
+              return (
+                <Link
+                  key={prompt.id}
+                  href={`/prompt/${prompt.slug}`}
+                  className={`group relative overflow-hidden rounded-lg bg-neutral-100 shadow-sm ${
+                    index === 0 ? "min-h-[260px] sm:row-span-2 sm:min-h-[360px]" : "min-h-[180px] sm:min-h-[172px]"
+                  }`}
+                >
+                  <Image
+                    src={displayImage.url}
+                    alt={displayImage.alt}
+                    width={displayImage.width ?? 900}
+                    height={displayImage.height ?? 900}
+                    className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.04]"
+                    priority={index === 0}
+                  />
+                  <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-4">
+                    <p className="line-clamp-2 text-sm font-medium leading-5 text-white">{prompt.title}</p>
+                  </div>
+                </Link>
+              );
+            })}
           </div>
 
           <div className="grid grid-cols-2 gap-4">
@@ -87,6 +91,15 @@ export function Hero({ stats, prompts }: { stats: GalleryStats; prompts: PromptI
       </div>
     </section>
   );
+}
+
+function thumbnailImage(image: PromptImage): PromptImage {
+  return {
+    ...image,
+    url: image.thumbnailUrl ?? image.url,
+    width: image.thumbnailWidth ?? image.width,
+    height: image.thumbnailHeight ?? image.height
+  };
 }
 
 function HeroMetric({ icon, label, value }: { icon: React.ReactNode; label: string; value: number }) {

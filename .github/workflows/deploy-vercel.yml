@@ -38,7 +38,7 @@ jobs:
         run: npm ci
 
       - name: Build static site from committed data
-        run: npm run build:next
+        run: npm run build:committed
 
       - name: Prepare Vercel output
         run: |

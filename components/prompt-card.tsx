@@ -17,6 +17,7 @@ export type PromptCardItem = Pick<
 
 export function PromptCard({ prompt, compact = false }: { prompt: PromptCardItem; compact?: boolean }) {
   const image = prompt.coverImage ?? prompt.images?.[0];
+  const displayImage = image ? thumbnailImage(image) : undefined;
   const imageCount = prompt.imageCount ?? prompt.images?.length ?? 0;
   const timelineDate = getPromptTimelineDate(prompt);
 
@@ -24,12 +25,12 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptCardItem
     <article className="group overflow-hidden rounded-lg border border-line bg-white shadow-sm transition duration-200 hover:-translate-y-1 hover:shadow-card">
       <Link href={`/prompt/${prompt.slug}`} className="block">
         <div className={`relative overflow-hidden bg-neutral-100 ${compact ? "aspect-[4/3]" : "aspect-[4/3]"}`}>
-          {image ? (
+          {displayImage ? (
             <Image
-              src={image.url}
-              alt={image.alt}
-              width={image.width ?? 900}
-              height={image.height ?? 900}
+              src={displayImage.url}
+              alt={displayImage.alt}
+              width={displayImage.width ?? 900}
+              height={displayImage.height ?? 900}
               className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.04]"
               sizes={
                 compact
@@ -83,4 +84,13 @@ export function PromptCard({ prompt, compact = false }: { prompt: PromptCardItem
       </div>
     </article>
   );
+}
+
+function thumbnailImage(image: PromptImage): PromptImage {
+  return {
+    ...image,
+    url: image.thumbnailUrl ?? image.url,
+    width: image.thumbnailWidth ?? image.width,
+    height: image.thumbnailHeight ?? image.height
+  };
 }

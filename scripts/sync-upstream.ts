@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto";
 import { copyFile, mkdir, readFile, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
+import sharp from "sharp";
 
 import type {
   Category,
@@ -88,7 +89,12 @@ const TREE_API_URL = `https://api.github.com/repos/${SOURCE_REPO}/git/trees/${SO
 const RAW_BASE = `https://raw.githubusercontent.com/${SOURCE_REPO}/${SOURCE_BRANCH}`;
 const MAX_DOWNLOAD_BYTES = 25 * 1024 * 1024;
 const DOWNLOAD_CONCURRENCY = 6;
-const POTENTIAL_SECRET_PATTERN = /sk-[A-Za-z0-9_-]{8,}/g;
+const THUMBNAIL_MAX_WIDTH = 720;
+const THUMBNAIL_MAX_HEIGHT = 720;
+const THUMBNAIL_QUALITY = 78;
+const POTENTIAL_SECRET_PATTERN = /(^|[^A-Za-z0-9_-])(sk-[A-Za-z0-9_-]{8,})/g;
+const MEDIA_ONLY = process.argv.includes("--media-only");
+const LOCAL_UPSTREAM_ONLY = MEDIA_ONLY || process.argv.includes("--local");
 
 const OUT_ROOT = path.join(process.cwd(), "data");
 const OUT_DIR = path.join(OUT_ROOT, "generated");
@@ -96,6 +102,8 @@ const UPSTREAM_DIR = path.join(OUT_ROOT, "upstream");
 const UPSTREAM_TMP_DIR = path.join(OUT_ROOT, ".upstream-tmp");
 const PUBLIC_UPSTREAM_IMAGE_DIR = path.join(process.cwd(), "public", "upstream", "images");
 const PUBLIC_UPSTREAM_IMAGE_TMP_DIR = path.join(process.cwd(), "public", "upstream", ".images-tmp");
+const PUBLIC_UPSTREAM_THUMB_DIR = path.join(process.cwd(), "public", "upstream", "thumbs");
+const PUBLIC_UPSTREAM_THUMB_TMP_DIR = path.join(process.cwd(), "public", "upstream", ".thumbs-tmp");
 
 const PRIMARY_DATA_PATH = path.join(UPSTREAM_DIR, "gpt_image2_prompts.json");
 const FALLBACK_DATA_PATH = path.join(UPSTREAM_DIR, "data", "ingested_tweets.json");
@@ -180,6 +188,12 @@ async function main() {
   const syncedAt = new Date().toISOString();
   const upstreamFiles = await syncUpstreamFiles(syncedAt);
   const upstreamImages = await buildUpstreamImageIndex(upstreamFiles);
+
+  if (MEDIA_ONLY) {
+    console.log(`Prepared ${upstreamImages.length} local upstream images and thumbnails from committed data.`);
+    return;
+  }
+
   const prompts = await buildPromptItems(upstreamImages, syncedAt);
   const categories = buildCategories(prompts);
   const stats = buildStats(prompts, categories, upstreamFiles, upstreamImages, syncedAt);
@@ -197,6 +211,16 @@ async function main() {
 }
 
 async function syncUpstreamFiles(syncedAt: string): Promise<UpstreamFileRecord[]> {
+  if (LOCAL_UPSTREAM_ONLY) {
+    const existing = await buildManifestFromLocalFiles(syncedAt);
+
+    if (existing.length === 0) {
+      throw new Error("No local upstream files found in data/upstream.");
+    }
+
+    return existing;
+  }
+
   try {
     const items = await listRepositoryFiles();
     const downloadableFiles = items.filter((item) => item.size !== undefined && item.size <= MAX_DOWNLOAD_BYTES);
@@ -293,7 +317,9 @@ async function buildUpstreamImageIndex(upstreamFiles: UpstreamFileRecord[]): Pro
   const imageFiles = upstreamFiles.filter((file) => isUpstreamImagePath(file.path));
 
   await safeRm(PUBLIC_UPSTREAM_IMAGE_TMP_DIR);
+  await safeRm(PUBLIC_UPSTREAM_THUMB_TMP_DIR);
   await mkdir(PUBLIC_UPSTREAM_IMAGE_TMP_DIR, { recursive: true });
+  await mkdir(PUBLIC_UPSTREAM_THUMB_TMP_DIR, { recursive: true });
 
   try {
     const records = await Promise.all(
@@ -302,11 +328,15 @@ async function buildUpstreamImageIndex(upstreamFiles: UpstreamFileRecord[]): Pro
         const upstreamAbsolutePath = path.join(process.cwd(), ...file.localPath.split("/"));
         const publicLocalPath = normalizePath(path.join("public", "upstream", "images", relativeImagePath));
         const publicTmpPath = path.join(PUBLIC_UPSTREAM_IMAGE_TMP_DIR, ...relativeImagePath.split("/"));
+        const relativeThumbnailPath = thumbnailPathForImage(relativeImagePath);
+        const publicThumbnailLocalPath = normalizePath(path.join("public", "upstream", "thumbs", relativeThumbnailPath));
+        const publicThumbnailTmpPath = path.join(PUBLIC_UPSTREAM_THUMB_TMP_DIR, ...relativeThumbnailPath.split("/"));
 
         await mkdir(path.dirname(publicTmpPath), { recursive: true });
         await copyFile(upstreamAbsolutePath, publicTmpPath);
 
         const dimensions = await readImageDimensions(upstreamAbsolutePath);
+        const thumbnail = await createThumbnail(upstreamAbsolutePath, publicThumbnailTmpPath);
         const caseSlug = caseSlugFromImagePath(file.path);
 
         return {
@@ -314,6 +344,10 @@ async function buildUpstreamImageIndex(upstreamFiles: UpstreamFileRecord[]): Pro
           path: file.path,
           url: `/upstream/images/${encodePath(relativeImagePath)}`,
           localPath: publicLocalPath,
+          thumbnailUrl: thumbnail ? `/upstream/thumbs/${encodePath(relativeThumbnailPath)}` : undefined,
+          thumbnailLocalPath: thumbnail ? publicThumbnailLocalPath : undefined,
+          thumbnailWidth: thumbnail?.width,
+          thumbnailHeight: thumbnail?.height,
           upstreamUrl: file.downloadUrl,
           htmlUrl: file.htmlUrl,
           width: dimensions?.width,
@@ -327,12 +361,16 @@ async function buildUpstreamImageIndex(upstreamFiles: UpstreamFileRecord[]): Pro
     );
 
     await safeRm(PUBLIC_UPSTREAM_IMAGE_DIR);
+    await safeRm(PUBLIC_UPSTREAM_THUMB_DIR);
     await mkdir(path.dirname(PUBLIC_UPSTREAM_IMAGE_DIR), { recursive: true });
+    await mkdir(path.dirname(PUBLIC_UPSTREAM_THUMB_DIR), { recursive: true });
     await rename(PUBLIC_UPSTREAM_IMAGE_TMP_DIR, PUBLIC_UPSTREAM_IMAGE_DIR);
+    await rename(PUBLIC_UPSTREAM_THUMB_TMP_DIR, PUBLIC_UPSTREAM_THUMB_DIR);
 
     return records.sort((a, b) => a.path.localeCompare(b.path));
   } catch (error) {
     await safeRm(PUBLIC_UPSTREAM_IMAGE_TMP_DIR);
+    await safeRm(PUBLIC_UPSTREAM_THUMB_TMP_DIR);
     throw error;
   }
 }
@@ -738,6 +776,9 @@ function promptImageFromRecord(image: UpstreamImageRecord, title: string, index:
     alt: `${title} 示例图 ${index + 1}`,
     width: image.width,
     height: image.height,
+    thumbnailUrl: image.thumbnailUrl,
+    thumbnailWidth: image.thumbnailWidth,
+    thumbnailHeight: image.thumbnailHeight,
     sourcePath: image.path,
     sourceUrl: safeExternalUrl(image.htmlUrl)
   };
@@ -760,6 +801,7 @@ function remoteImages(raw: UpstreamPrompt | undefined, title: string): PromptIma
 
 function safePromptImage(image: PromptImage): PromptImage | undefined {
   const url = safeImageUrl(image.url);
+  const thumbnailUrl = safeImageUrl(image.thumbnailUrl);
 
   if (!url) {
     return undefined;
@@ -768,6 +810,7 @@ function safePromptImage(image: PromptImage): PromptImage | undefined {
   return {
     ...image,
     url,
+    thumbnailUrl,
     sourceUrl: safeExternalUrl(image.sourceUrl)
   };
 }
@@ -777,7 +820,7 @@ function safeImageUrl(value?: string) {
     return undefined;
   }
 
-  if (value.startsWith("/upstream/images/") && !value.includes("..") && !value.includes("\\")) {
+  if ((value.startsWith("/upstream/images/") || value.startsWith("/upstream/thumbs/")) && !value.includes("..") && !value.includes("\\")) {
     return value;
   }
 
@@ -877,12 +920,13 @@ function categorizeRawPrompt(item: UpstreamPrompt): CategoryRule {
 function buildCategories(prompts: PromptItem[]): Category[] {
   return CATEGORY_RULES.map((rule) => {
     const categoryPrompts = prompts.filter((prompt) => prompt.categorySlug === rule.slug);
+    const coverImage = categoryPrompts.find((prompt) => prompt.images[0])?.images[0];
     return {
       slug: rule.slug,
       name: rule.name,
       description: rule.description,
       count: categoryPrompts.length,
-      coverImage: categoryPrompts.find((prompt) => prompt.images[0])?.images[0]?.url
+      coverImage: coverImage?.thumbnailUrl ?? coverImage?.url
     };
   }).filter((category) => category.count > 0);
 }
@@ -1009,7 +1053,7 @@ function shouldSanitizeFile(filePath: string) {
 }
 
 function sanitizePotentialSecrets(value: string) {
-  return value.replace(POTENTIAL_SECRET_PATTERN, "[redacted-sk-token]");
+  return value.replace(POTENTIAL_SECRET_PATTERN, "$1[redacted-sk-token]");
 }
 
 function normalizeImagePath(value: string) {
@@ -1223,6 +1267,37 @@ function imageOutputIndex(value: string) {
 
 function uniqueImageId(value: string) {
   return slugify(value.replace(/^images\//, "").replace(/\.[^.]+$/, "")) || gitBlobSha(Buffer.from(value)).slice(0, 16);
+}
+
+function thumbnailPathForImage(value: string) {
+  const extension = path.extname(value);
+  const withoutExtension = extension ? value.slice(0, -extension.length) : value;
+  return `${withoutExtension}.webp`;
+}
+
+async function createThumbnail(sourcePath: string, targetPath: string): Promise<{ width: number; height: number } | undefined> {
+  try {
+    await mkdir(path.dirname(targetPath), { recursive: true });
+    const info = await sharp(sourcePath, { animated: false })
+      .rotate()
+      .resize({
+        width: THUMBNAIL_MAX_WIDTH,
+        height: THUMBNAIL_MAX_HEIGHT,
+        fit: "inside",
+        withoutEnlargement: true
+      })
+      .webp({ quality: THUMBNAIL_QUALITY })
+      .toFile(targetPath);
+
+    return {
+      width: info.width,
+      height: info.height
+    };
+  } catch (error) {
+    const detail = error instanceof Error ? error.message : String(error);
+    console.warn(`Unable to create thumbnail for ${sourcePath}: ${detail}`);
+    return undefined;
+  }
 }
 
 function rawUrlForPath(value: string) {

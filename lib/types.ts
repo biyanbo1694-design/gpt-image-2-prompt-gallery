@@ -3,6 +3,9 @@ export type PromptImage = {
   alt: string;
   width?: number;
   height?: number;
+  thumbnailUrl?: string;
+  thumbnailWidth?: number;
+  thumbnailHeight?: number;
   sourcePath?: string;
   sourceUrl?: string;
 };
@@ -70,6 +73,10 @@ export type UpstreamImageRecord = {
   path: string;
   url: string;
   localPath: string;
+  thumbnailUrl?: string;
+  thumbnailLocalPath?: string;
+  thumbnailWidth?: number;
+  thumbnailHeight?: number;
   upstreamUrl: string;
   htmlUrl: string;
   width?: number;
