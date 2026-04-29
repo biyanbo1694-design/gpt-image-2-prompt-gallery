@@ -1,4 +1,4 @@
-export const SITE_URL = "https://xiaoqi-ai.vercel.app";
+export const SITE_URL = "https://gpt-image-2-prompt-gallery.vercel.app";
 export const SITE_NAME = "GPT Image 2 Prompt Gallery";
 export const SITE_DESCRIPTION =
   "A searchable gallery of GPT Image 2 prompt examples, synced from public creator cases and organized for fast inspiration.";

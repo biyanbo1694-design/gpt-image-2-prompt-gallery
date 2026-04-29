@@ -52,7 +52,7 @@ The app is configured for static export through `next build`, so it can be deplo
 
 Production URL:
 
-https://xiaoqi-ai.vercel.app
+https://gpt-image-2-prompt-gallery.vercel.app
 
 The GitHub Actions deployment uses Vercel's prebuilt output API and uploads the static export as a tgz archive:
 

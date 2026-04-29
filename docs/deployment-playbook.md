@@ -4,7 +4,7 @@ Updated: 2026-04-28
 
 ## Current Project
 
-- Production: https://xiaoqi-ai.vercel.app
+- Production: https://gpt-image-2-prompt-gallery.vercel.app
 - Platform: Vercel
 - Deploy trigger: push to `main`
 - Workflow: `.github/workflows/deploy-vercel.yml`
