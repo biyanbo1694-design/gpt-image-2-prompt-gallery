@@ -77,10 +77,3 @@ jobs:
             exit 1
           fi
           echo "deployment_url=${DEPLOYMENT_URL}" >> "$GITHUB_OUTPUT"
-
-      - name: Alias production domain
-        env:
-          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-        run: |
-          npx vercel@52.0.0 alias set "${{ steps.deploy.outputs.deployment_url }}" xiaoqi-ai.vercel.app --token="${VERCEL_TOKEN}"
-          npx vercel@52.0.0 alias set "${{ steps.deploy.outputs.deployment_url }}" xiaoqiwork.qzz.io --token="${VERCEL_TOKEN}"
